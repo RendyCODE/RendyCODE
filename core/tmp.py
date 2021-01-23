@@ -4,19 +4,13 @@ B = '\033[94m'
 Y = '\033[93m'
 W = '\033[0m'
 
-logo = f"""{B}
-         _/_/_/         _/_/_/_/_/                          _/
-       _/                  _/       _/_/        _/_/       _/
-      _/  _/_/  _/_/_/    _/     _/    _/    _/    _/     _/
-     _/    _/            _/     _/    _/    _/    _/     _/
-      _/_/_/            _/       _/_/        _/_/       _/ {W}
+logo = f"""{B}TES{W}
                  Gretronger Tool Version{G} 4.0 unv{W}
 
      By       : {Y}407 AUTHENTIC EXPLOIT{W}
      Codename : {R}JaxBCD{W}
      Contact  : https://www.facebook.com/jaka.lesmana.794629
-     TES
-""""
+"""
 menu = f'''
       {G}-1-{W} Search Proxy and Check
       {G}-2-{W} Search Host
