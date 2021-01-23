@@ -16,7 +16,7 @@ logo = f"""{B}
      Codename : {R}Wong Blitar : SRENGAT JAWA TIMUR{W}
      Contact  : https://www.facebook.com/qimonx
 
-"""
+""""
 men = f'''
       {G}-1-{W} Search Proxy and Check
       {G}-2-{W} Search Host
