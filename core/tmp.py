@@ -4,8 +4,8 @@ B = '\033[94m'
 Y = '\033[93m'
 W = '\033[0m'
 
-logo = f"""{B} {W}
-                 Gretronger Tool Version{G} 4.0 unv{W}
+logo = f"""{B} CODE {W}
+     Gretronger Tool Version{G} 4.0 unv{W}
 
      By       : {Y}407 AUTHENTIC EXPLOIT{W}
      Codename : {R}JaxBCD{W}
