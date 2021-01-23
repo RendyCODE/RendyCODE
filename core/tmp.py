@@ -5,7 +5,7 @@ Y = '\033[93m'
 W = '\033[0m'
 
 logo = f"""{B} {W}
-     Internet Gratis Tool Version{G} v1.0 {W}
+     Tool Internet Gratis Version{G} v1.0 {W}
 
      By       : {Y}Status : 200 (Connection Estabilised){W}
      Codename : {R}Tools Wong Blitar JAWA TIMUR{W}
