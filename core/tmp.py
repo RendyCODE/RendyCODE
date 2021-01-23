@@ -15,8 +15,10 @@ logo = f"""{B}
      By       : {Y}407 AUTHENTIC EXPLOIT{W}
      Codename : {R}Wong Blitar : SRENGAT JAWA TIMUR{W}
      Contact  : https://www.facebook.com/qimonx
+     Whatsapp : 083159522600
+
 """
-menu = f'''
+men = f'''
       {G}-1-{W} Search Proxy and Check
       {G}-2-{W} Search Host
       {G}-3-{W} Generate random Proxy
