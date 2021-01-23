@@ -5,11 +5,11 @@ Y = '\033[93m'
 W = '\033[0m'
 
 logo = f"""{B} {W}
-     Gretronger Tool Version{G} 4.0 unv{W}
+     Internet Gratis Tool Version{G} v1.0 {W}
 
-     By       : {Y}407 AUTHENTIC EXPLOIT{W}
-     Codename : {R}JaxBCD{W}
-     Contact  : https://www.facebook.com/jaka.lesmana.794629
+     By       : {Y}Status : 200 (Connection Estabilised){W}
+     Codename : {R}Tools Wong Blitar JAWA TIMUR{W}
+     Contact  : https://www.facebook.com/QimOnx
 """
 menu = f'''
       {G}-1-{W} Search Proxy and Check
