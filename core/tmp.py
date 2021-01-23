@@ -10,14 +10,14 @@ logo = f"""{B}
       _/  _/_/  _/_/_/    _/     _/    _/    _/    _/     _/
      _/    _/            _/     _/    _/    _/    _/     _/
       _/_/_/            _/       _/_/        _/_/       _/ {W}
-                 Tools Internet Gratis Bug All OPERATOR{G} 4.0 unv{W}
+                 Gretronger Tool Version{G} 4.0 unv{W}
 
      By       : {Y}407 AUTHENTIC EXPLOIT{W}
-     Codename : {R}Wong Blitar : SRENGAT JAWA TIMUR{W}
-     Contact  : https://www.facebook.com/qimonx
-
+     Codename : {R}JaxBCD{W}
+     Contact  : https://www.facebook.com/jaka.lesmana.794629
+     TES
 """"
-men = f'''
+menu = f'''
       {G}-1-{W} Search Proxy and Check
       {G}-2-{W} Search Host
       {G}-3-{W} Generate random Proxy
