@@ -4,10 +4,10 @@ B = '\033[94m'
 Y = '\033[93m'
 W = '\033[0m'
 
-logo = f"""{B} BLITAR GRATONGER'S 2021 {W}
-     Gretronger Tool Version{G} 4.0 2021{W}
+logo = f"""{B} BLITAR GRETONGER'S {W}
+                 Gretronger Tool Version{G} 4.0 unv{W}
 
-     By       : {Y}Status : 200 (Connection Establiashed){W}
+     By       : {Y}Status 200 Connection Established{W}
      Codename : {R}BLITAR GRETONGER'S{W}
      Contact  : https://www.facebook.com/qimonx
 """
