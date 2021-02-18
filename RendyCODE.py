@@ -61,7 +61,7 @@ print(logo)
 print(menu)
 while True:
       try:
-         x = str(input(f'[Need/{R}CODE{W}]: '))
+         x = str(input(f'[G/{R}Tools{W}]: '))
          if x == '1':
             print(f'\n{G}[+]{W} Example : www.google.com\n')
             host = str(input('Host : '))
@@ -128,3 +128,14 @@ while True:
          break
       except EOFError:
          break
+
+
+
+
+
+
+
+
+
+
+    
