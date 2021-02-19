@@ -4,17 +4,12 @@ B = '\033[94m'
 Y = '\033[93m'
 W = '\033[0m'
 
-logo = f"""{B}
-         _/_/_/         _/_/_/_/_/                          _/
-       _/                  _/       _/_/        _/_/       _/
-      _/  _/_/  _/_/_/    _/     _/    _/    _/    _/     _/
-     _/    _/            _/     _/    _/    _/    _/     _/
-      _/_/_/            _/       _/_/        _/_/       _/ {W}
-                 Gretronger Tool Version{G} 4.0 unv{W}
+logo = f"""{B}BLITAR GRETONGERS'S{W}
+     Gretronger Tool Version{G} 4.0 unv{W}
 
-     By       : {Y}407 AUTHENTIC EXPLOIT{W}
-     Codename : {R}JaxBCD{W}
-     Contact  : https://www.facebook.com/jaka.lesmana.794629
+     By       : {Y}Status 200 ( Connection Established ){W}
+     Codename : {R}BLITAR GRETONGERS'S{W}
+     Contact  : https://www.facebook.com/qimonx
 """
 menu = f'''
       {G}-1-{W} Search Proxy and Check
