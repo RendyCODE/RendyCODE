@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+apt-get install python git readline
+git clone https://github.com/RendyCODE/RendyCODE.git
+python -m pip install requests
+cd G-Tools
+python RendyCODE.py
