@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 apt-get install python git readline
 git clone https://github.com/RendyCODE/RendyCODE.git
 python -m pip install requests
-cd G-Tools
+cd RendyCODE
 python RendyCODE.py
