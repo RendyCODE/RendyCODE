@@ -5,39 +5,6 @@ http://cekproxy.tk/indosiar.m3u8
 #SCTV#
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-fOfwlllrCe8/YFhrRTe-V0I/AAAAAAAAARc/belQPLXIe-EW1L76wehwjmaa4bKmxfwIACLcBGAsYHQ/s139/Sctv.png", SCTV
 http://cekproxy.tk/sctv.m3u8
-#RCTI#
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-HfIKea9AkeY/YFhrRN7sxYI/AAAAAAAAARY/wQYFvvShE7c0xdQGSE6SVKMA7kJdcxyowCLcBGAsYHQ/s1280/RCTI.png", RCTI
-http://cekproxy.tk/rcti.m3u8
-#TRANS7#
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-y_NckrIqhII/YFhrR7IuMhI/AAAAAAAAARk/3I62I461g7ozp3-7tt_syw-iUjS5Ms6QQCLcBGAsYHQ/s139/Trans7.png", TRANS 7
-http://cekproxy.tk/trans7.m3u8
-#TRANSTV#
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-tQi4VockaIY/YFhrSHIqiXI/AAAAAAAAARo/Ohhau03j9u0syCQJRveRmMGYNgG-3rskACLcBGAsYHQ/s139/TransTV.png", TRANS TV
-http://cekproxy.tk/transtv.m3u8
-#METROTV#
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-vLZz4ZEBbUg/YFhrQA5Q0pI/AAAAAAAAARM/QRfasRbxgqs5g6n2IOjpSiSwuHPgRlYlACLcBGAsYHQ/s139/MetroTV.png", METRO TV HD
-http://cekproxy.tk/metrotv.m3u8
-#JTV#
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/--_9mRztShpc/YFhwt8p4eQI/AAAAAAAAASQ/5cZ8TuuLwRA14zMKL9uPra72-SBziGLgwCLcBGAsYHQ/s225/JtvRek.jpegg", JTV
-http://cekproxy.tk/jtv.m3u8
-#MNCTV#
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-ZHi4ToNwrcY/YFhrQu1nMhI/AAAAAAAAARQ/fiXLeKt-FbslPEFJ2nSROo-3jiOvGc1NgCLcBGAsYHQ/s320/MncTV.png", MNCTV
-http://cekproxy.tk/mnctv.m3u8
-#GLOBALTV#
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-F45GGWk05xc/YFhrPcDOYmI/AAAAAAAAARA/T2xCfXdH-ysqpeDMxm6hVH29fuhBfNB4gCLcBGAsYHQ/s135/GlobalTV.png", GLOBAL TV
-http://cekproxy.tk/globaltv.m3u8
-#TVONE#
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-0JBXKL0qaOA/YFhrSqYvEpI/AAAAAAAAARs/bB8i8h4Em3wimUeQtPIDD-5EowSobwkngCLcBGAsYHQ/s139/TvOne.png", TVONE HD
-http://cekproxy.tk/tvone.m3u8
-#KOMPASTV#
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-H4Q_xvTDY6A/YFhrPVHflGI/AAAAAAAAARI/36oMV4mn7w0nXw7v8ThMeh_fgBO4NrtbwCLcBGAsYHQ/s135/KompasTV.jpeg", KOMPAS TV
-http://cekproxy.tk/kompastv.m3u8
-#ANTV#
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-VF6XjsQwoa0/YFhrPUp4xJI/AAAAAAAAARE/cuWX1NNgQncsxUZfXFyMzF8gXYsepKLdACLcBGAsYHQ/s139/AnTV.png", ANTV
-http://cekproxy.tk/antv.m3u8
 #INEWSTV#
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-fU1gVnL4E8M/YFhrTA9OSVI/AAAAAAAAAR0/QIk1WlFQOmIS3Ri8OqYbTYXyUyUEhq2bACLcBGAsYHQ/s135/inewstv.png", InewsTV
 http://cekproxy.tk/inews.m3u8
-#NETTV#
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-q40Thh63Ayw/YFhrQo8QQOI/AAAAAAAAARU/syhg7pCsg3028ASbG3KpqjfyDFTJi287QCLcBGAsYHQ/s136/NetTV.png", NetTV
-https://fikrulmkc.my.id/bagus/nettv.m3u8
