@@ -48,7 +48,7 @@ http://202.80.222.130/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=0
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-q40Thh63Ayw/YFhrQo8QQOI/AAAAAAAAARU/syhg7pCsg3028ASbG3KpqjfyDFTJi287QCLcBGAsYHQ/s136/NetTV.png", NetTV
 https://www.youtube-nocookie.com/embed/live_stream?channel=UC1-ATnDVEwKT6-0aEeJ2ibA&amp;rel=0&autoplay=1&mute=1
 
-#VIDIO PREMIUM by @RiyanCoday#
+#VIDIO PREMIUM by @RiyanCoday##
 #EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="VOD CODAY",[CODAY] The Reef _VIDIO
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=0def136d0f724cb03d927f64a0039cce99c04773e83da931f64885fdf14061a8
 #EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="VOD CODAY",[CODAY] Eiffel I'm in Love _VIDIO
