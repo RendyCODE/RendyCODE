@@ -1,8 +1,8 @@
 #EXTM3U
 #INDOSIAR#
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-l5pav4E-_Tw/YFhrS4_T0uI/AAAAAAAAARw/n07hqnqkcxI0Ak3t1_LiUzeVuj4LysOEwCLcBGAsYHQ/s139/indosiar.png", INDOSIAR
-#http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69102a6ed6587b5b8cb4ebbe972864690b#
-https://raw.githubusercontent.com/RendyCODE/RendyCODE/main/TV/indosiar.m3u8
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69102a6ed6587b5b8cb4ebbe972864690b
+#https://raw.githubusercontent.com/RendyCODE/RendyCODE/main/TV/indosiar.m3u8#
 #SCTV#
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-fOfwlllrCe8/YFhrRTe-V0I/AAAAAAAAARc/belQPLXIe-EW1L76wehwjmaa4bKmxfwIACLcBGAsYHQ/s139/Sctv.png", SCTV
 #http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4102a6ed6587b5b8cb4ebbe972864690b#
