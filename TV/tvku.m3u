@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/RendyCODE/RendyCODE/main/TV/sctv.m3u8
 #RCTI#
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-HfIKea9AkeY/YFhrRN7sxYI/AAAAAAAAARY/wQYFvvShE7c0xdQGSE6SVKMA7kJdcxyowCLcBGAsYHQ/s1280/RCTI.png", RCTI
 #https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8#
-https://github.com/RendyCODE/RendyCODE/raw/main/TV/rcti.m3u8
+https://raw.githubusercontent.com/RendyCODE/RendyCODE/main/TV/rcti.m3u8
 #TRANS7#
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-y_NckrIqhII/YFhrR7IuMhI/AAAAAAAAARk/3I62I461g7ozp3-7tt_syw-iUjS5Ms6QQCLcBGAsYHQ/s139/Trans7.png", TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8?checkedby:iptvcat.com
