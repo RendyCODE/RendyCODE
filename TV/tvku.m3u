@@ -47,16 +47,5 @@ http://202.80.222.130/000001/2/ch14061215034900095272/1001.m3u8? virtualDomain=0
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-q40Thh63Ayw/YFhrQo8QQOI/AAAAAAAAARU/syhg7pCsg3028ASbG3KpqjfyDFTJi287QCLcBGAsYHQ/s136/NetTV.png", NetTV
 #https://cdn12jtedge.useetv.com/joss/15/net/chunklist_w823235971_b1344100_sleng_andriant.net.m3u8?enc=QQp_mACIb5j1GvnhWt7fcg&uid=Mzc0OWJkZjJjZWFjOWExMzJiMDVlNThjNjg5ZjRmNGE=&exp=1617012198#
 https://raw.githubusercontent.com/RendyCODE/RendyCODE/main/TV/nettv.m3u8
+
 #NEW CHANNEL#
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rri_small1.png?v=2.0.0.13" group-title="Lokal", RRI NET
-https://cdn14jtedge.useetv.com/joss/14/rrinet/chunklist_w1217157408_b684100_sleng_andriant.net.m3u8?enc=nVBLnkV0vhPnHR6JQ1f3ZQ&uid=Mzc0OWJkZjJjZWFjOWExMzJiMDVlNThjNjg5ZjRmNGE=&exp=1617012011
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png?v=2.0.0.13" group-title="Lokal", Bali TV
-https://cdn14jtedge.useetv.com/joss/134/balitv/chunklist_w2091636640_b1004100_sleng_andriant.net.m3u8?enc=-jZ3Ago2mcboo235wTkeWg&uid=Mzc0OWJkZjJjZWFjOWExMzJiMDVlNThjNjg5ZjRmNGE=&exp=1617014000
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_jaktv_small1.png?v=2.0.0.13" group-title="Lokal", JakTV
-https://cdn14jtedge.useetv.com/joss/134/jaktv/chunklist_w1742518685_b1004100_sleng_andriant.net.m3u8?enc=huTYXMQRv_cP1VM03QgY8Q&uid=Mzc0OWJkZjJjZWFjOWExMzJiMDVlNThjNjg5ZjRmNGE=&exp=1617012016
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" group-title="Sports", beIN Sport 1
-https://cdn14jtedge.useetv.com/joss/15/bein1/chunklist_w961964172_b1344100_sleng_andriant.net.m3u8?enc=q-_2zgfaLGCIiteY_xWMRw&uid=Mzc0OWJkZjJjZWFjOWExMzJiMDVlNThjNjg5ZjRmNGE=&exp=1617013541
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein2_small1.png?v=2.0.0.13" group-title="Sports", beIN Sport 2
-https://cdn14jtedge.useetv.com/joss/15/bein2/chunklist_w790122940_b1344100_sleng_andriant.net.m3u8?enc=ORkiSnF5SEjS5WQOlzJwEw&uid=Mzc0OWJkZjJjZWFjOWExMzJiMDVlNThjNjg5ZjRmNGE=&exp=1617013443
-
