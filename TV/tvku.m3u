@@ -50,7 +50,7 @@ http://202.80.222.130/000001/2/ch14061215034900095272/1001.m3u8? virtualDomain=0
 https://raw.githubusercontent.com/RendyCODE/RendyCODE/main/TV/nettv.m3u8
 
 #NEW CHANNEL#
-#EXTINF: -1 tvg-logo="http://jogjatv.tv/wp-content/uploads/2015/08/LOGO-JOGJA-TV-NEW-pii-new.png", ANTV
+#EXTINF: -1 tvg-logo="http://jogjatv.tv/wp-content/uploads/2015/08/LOGO-JOGJA-TV-NEW-pii-new.png", JogjaTV
 https://raw.githubusercontent.com/RendyCODE/RendyCODE/main/TV/jogjatv.m3u8
 
 
