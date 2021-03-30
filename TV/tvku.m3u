@@ -53,8 +53,31 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b3
 #NEW CHANNEL#
 #EXTINF: -1 tvg-logo="https://cdn.cnbcindonesia.com/cnbc/mobile/images/cnbc_icon_apps.png", CbncTV
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-
 #EXTINF: -1 tvg-logo="http://jogjatv.tv/wp-content/uploads/2015/08/LOGO-JOGJA-TV-NEW-pii-new.png", JogjaTV
 https://raw.githubusercontent.com/RendyCODE/RendyCODE/main/TV/jogjatv.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/beinsports1.png" group-title="Sports", beIN Sport 1
+https://cdnbpp1.useetv.com/joss/15/bein1/chunklist_w1013223409_b1344100_sleng_kamiselaluada.m3u8?enc=afYZCVzBDC-67Trb6e3dNQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1617130828
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/beinsports2.png" group-title="Sports", beIN Sport 2
+https://cdnbpp1.useetv.com/joss/15/bein2/chunklist_w452084210_b1344100_sleng_kamiselaluada.m3u8?enc=m8-lS19Xj8Qw9hf5ceq2MQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1617130829
+#EXTINF:-1 tvg-id="nbatv" tvg-logo="http://kamiselaluada.com/img/nba.png" group-title="Sports", NBA
+https://cdnbpp1.useetv.com/joss/15/nba/chunklist_w1457142642_b1344100_sleng_kamiselaluada.m3u8?enc=73J0ip3jFrRVzA3jUIIS8Q&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1617132812
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions1.png" group-title="Sports", Champion TV 1
+https://cdnbpp1.useetv.com/joss/15/champion1/chunklist_w1640655794_b1344100_sleng_kamiselaluada.m3u8?enc=dgi72hz88RImQXAqVALrDw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1617130830
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions2.png" group-title="Sports", Champion TV 2
+https://cdnbpp1.useetv.com/joss/15/champion2/chunklist_w625045978_b1344100_sleng_kamiselaluada.m3u8?enc=YjunQawloKrdw7dCs8HjRA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1617130830
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/foxsports1.png" group-title="Sports", Fox Sport 1
+https://cdnbpp1.useetv.com/joss/15/foxsport1/chunklist_w462401072_b1344100_sleng_kamiselaluada.m3u8?enc=hCgL7zdla7LqQQxfux2KKQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1617132815
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/foxsports2.png" group-title="Sports", Fox Sport 2
+https://cdnbpp1.useetv.com/joss/15/foxsport2/chunklist_w1604428518_b1344100_sleng_kamiselaluada.m3u8?enc=a_XujrqJaw_1qDevcP-atw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1617130832
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/foxsports3.png" group-title="Sports", Fox Sport 3
+https://cdnbpp1.useetv.com/joss/15/foxsport3/chunklist_w1931838829_b1344100_sleng_kamiselaluada.m3u8?enc=Z4eawhssAld1bGNLceFVsQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1617130832
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/golf.png" group-title="Sports", Golf
+https://cdnbpp1.useetv.com/joss/15/golfplus/chunklist_w1320316968_b1344100_sleng_kamiselaluada.m3u8?enc=1vJ5DxeI7ODfou2lxRmTng&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1617132817
+#EXTINF:-1 tvg-id="useesport" tvg-logo="http://kamiselaluada.com/img/useesports1.png" group-title="Sports", Useesports 1
+https://cdnbpp1.useetv.com/joss/15/useesport/chunklist_w1658982386_b1344100_sleng_kamiselaluada.m3u8?enc=cR2kwYTuFhsUwDKDVNOEXA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1617132818
+#EXTINF:-1 tvg-id="useesports2" tvg-logo="http://kamiselaluada.com/img/useesports2.png" group-title="Sports", Useesports 2
+https://cdnbpp1.useetv.com/joss/15/useesports2/chunklist_w624766537_b1344100_sleng_kamiselaluada.m3u8?enc=kQ0xye367E6h0tEzXbZ-og&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1617130834
+#EXTINF:-1 tvg-id="egg" tvg-logo="http://kamiselaluada.com/img/egg.png" group-title="Sports", eGG TV
+https://cdnbpp1.useetv.com/joss/130/egg/chunklist_w521503860_b994100_sleng_kamiselaluada.m3u8?enc=xVatHc5HVH1MxeUmktxwaw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1617132826
