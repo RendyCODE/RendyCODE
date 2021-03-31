@@ -1,4 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=364100,RESOLUTION=320x180,NAME="180p"
-https://cdn08jtedge.useetv.com/joss/15/kompastv/chunklist_w1510007487_b684100_sleng.m3u8?enc=_ZI-4miHtoP3XDdx2F_esA&uid=NzgxNzA3MjExODdiYzg0MWNkNTdkZmRhNjY4YWU0Nzc=&exp=1617115811
+https://cdnkbl2.useetv.com/joss/15/kompastv/chunklist_w1063499064_b364100_sleng.m3u8?enc=Mh1xrcHft88b_DISd9leFg&uid=ZmU4YTA1OTNhMDg1ZGY3Y2ZhNTg2YTY5ZTgyYTEzZTY=&exp=1617163214
+#EXT-X-STREAM-INF:BANDWIDTH=524100,RESOLUTION=480x270,NAME="270p"
+https://cdnkbl2.useetv.com/joss/15/kompastv/chunklist_w1063499064_b524100_sleng.m3u8?enc=Mh1xrcHft88b_DISd9leFg&uid=ZmU4YTA1OTNhMDg1ZGY3Y2ZhNTg2YTY5ZTgyYTEzZTY=&exp=1617163214
+#EXT-X-STREAM-INF:BANDWIDTH=684100,RESOLUTION=640x480,NAME="480p"
+https://cdnkbl2.useetv.com/joss/15/kompastv/chunklist_w1063499064_b684100_sleng.m3u8?enc=Mh1xrcHft88b_DISd9leFg&uid=ZmU4YTA1OTNhMDg1ZGY3Y2ZhNTg2YTY5ZTgyYTEzZTY=&exp=1617163214
