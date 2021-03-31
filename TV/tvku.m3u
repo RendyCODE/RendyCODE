@@ -19,6 +19,14 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #METROTV#
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-vLZz4ZEBbUg/YFhrQA5Q0pI/AAAAAAAAARM/QRfasRbxgqs5g6n2IOjpSiSwuHPgRlYlACLcBGAsYHQ/s139/MetroTV.png", METRO TV HD
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8?checkedby:iptvcat.com
+#KOMPASTV#
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-H4Q_xvTDY6A/YFhrPVHflGI/AAAAAAAAARI/36oMV4mn7w0nXw7v8ThMeh_fgBO4NrtbwCLcBGAsYHQ/s135/KompasTV.jpeg", KOMPAS TV
+#https://fikrulmkc.my.id/bagus/usee-kompastv.m3u8#
+https://raw.githubusercontent.com/RendyCODE/RendyCODE/main/TV/komtv.m3u8
+#NETTV#
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-q40Thh63Ayw/YFhrQo8QQOI/AAAAAAAAARU/syhg7pCsg3028ASbG3KpqjfyDFTJi287QCLcBGAsYHQ/s136/NetTV.png", NetTV
+#https://cdn12jtedge.useetv.com/joss/15/net/chunklist_w823235971_b1344100_sleng_andriant.net.m3u8?enc=QQp_mACIb5j1GvnhWt7fcg&uid=Mzc0OWJkZjJjZWFjOWExMzJiMDVlNThjNjg5ZjRmNGE=&exp=1617012198#
+https://raw.githubusercontent.com/RendyCODE/RendyCODE/main/TV/nettv.m3u8
 #JTV#
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/--_9mRztShpc/YFhwt8p4eQI/AAAAAAAAASQ/5cZ8TuuLwRA14zMKL9uPra72-SBziGLgwCLcBGAsYHQ/s225/JtvRek.jpegg", JTV
 #http://122.248.43.138:1935/ch2/myStream/playlist.m3u8#
@@ -29,9 +37,6 @@ https://raw.githubusercontent.com/RendyCODE/RendyCODE/main/TV/jtes.m3u8
 #GLOBALTV#
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-F45GGWk05xc/YFhrPcDOYmI/AAAAAAAAARA/T2xCfXdH-ysqpeDMxm6hVH29fuhBfNB4gCLcBGAsYHQ/s135/GlobalTV.png", GLOBAL TV
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=e07413354875be01a996dc560274708e102a6ed6587b5b8cb4ebbe972864690b
-#ANTV#
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-VF6XjsQwoa0/YFhrPUp4xJI/AAAAAAAAARE/cuWX1NNgQncsxUZfXFyMzF8gXYsepKLdACLcBGAsYHQ/s139/AnTV.png", ANTV
-http://202.80.222.130/000001/2/ch14061215034900095272/1001.m3u8? virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
 #INEWSTV#
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-fU1gVnL4E8M/YFhrTA9OSVI/AAAAAAAAAR0/QIk1WlFQOmIS3Ri8OqYbTYXyUyUEhq2bACLcBGAsYHQ/s135/inewstv.png", InewsTV
 #https://moegi.akamaized.net/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8#
@@ -40,15 +45,10 @@ https://raw.githubusercontent.com/RendyCODE/RendyCODE/main/TV/inews.m3u8
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-0JBXKL0qaOA/YFhrSqYvEpI/AAAAAAAAARs/bB8i8h4Em3wimUeQtPIDD-5EowSobwkngCLcBGAsYHQ/s139/TvOne.png", TVONE HD
 #https://files.forumesia.com/wp-content/uploads/2021/03/TVONE.m3u8#
 https://raw.githubusercontent.com/RendyCODE/RendyCODE/main/TV/tvone.m3u8
-#KOMPASTV#
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-H4Q_xvTDY6A/YFhrPVHflGI/AAAAAAAAARI/36oMV4mn7w0nXw7v8ThMeh_fgBO4NrtbwCLcBGAsYHQ/s135/KompasTV.jpeg", KOMPAS TV
-#https://fikrulmkc.my.id/bagus/usee-kompastv.m3u8#
-https://raw.githubusercontent.com/RendyCODE/RendyCODE/main/TV/komtv.m3u8
-#NETTV#
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-q40Thh63Ayw/YFhrQo8QQOI/AAAAAAAAARU/syhg7pCsg3028ASbG3KpqjfyDFTJi287QCLcBGAsYHQ/s136/NetTV.png", NetTV
-#https://cdn12jtedge.useetv.com/joss/15/net/chunklist_w823235971_b1344100_sleng_andriant.net.m3u8?enc=QQp_mACIb5j1GvnhWt7fcg&uid=Mzc0OWJkZjJjZWFjOWExMzJiMDVlNThjNjg5ZjRmNGE=&exp=1617012198#
-https://raw.githubusercontent.com/RendyCODE/RendyCODE/main/TV/nettv.m3u8
-
+#ANTV#
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-VF6XjsQwoa0/YFhrPUp4xJI/AAAAAAAAARE/cuWX1NNgQncsxUZfXFyMzF8gXYsepKLdACLcBGAsYHQ/s139/AnTV.png", ANTV
+http://202.80.222.130/000001/2/ch14061215034900095272/1001.m3u8? virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
+#CNN#
 #EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/mobile/images/cnn_app_icon.png",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
 #NEW CHANNEL#
