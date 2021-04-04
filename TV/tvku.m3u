@@ -55,3 +55,3648 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b3
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="http://jogjatv.tv/wp-content/uploads/2015/08/LOGO-JOGJA-TV-NEW-pii-new.png", JogjaTV
 https://raw.githubusercontent.com/RendyCODE/RendyCODE/main/TV/jogjatv.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 ,beIN SPORTS 1 SD
+http://topiptv.net:5890/abcd/123456/35
+#EXTINF:-1 ,beIN SPORTS 2 SD
+http://topiptv.net:5890/abcd/123456/36
+#EXTINF:-1 ,beIN SPORTS 3 SD
+http://topiptv.net:5890/abcd/123456/37
+#EXTINF:-1 ,beIN SPORTS 4 SD
+http://topiptv.net:5890/abcd/123456/38
+#EXTINF:-1 ,beIN SPORTS 5 SD
+http://topiptv.net:5890/abcd/123456/39
+#EXTINF:-1 ,beIN SPORTS 6 SD
+http://topiptv.net:5890/abcd/123456/40
+#EXTINF:-1 ,beIN SPORTS 7 SD
+http://topiptv.net:5890/abcd/123456/41
+#EXTINF:-1 ,beIN SPORTS 1HD
+http://topiptv.net:5890/abcd/123456/16
+#EXTINF:-1 ,beIN SPORTS 2HD
+http://topiptv.net:5890/abcd/123456/17
+#EXTINF:-1 ,beIN SPORTS 3HD
+http://topiptv.net:5890/abcd/123456/18
+#EXTINF:-1 ,beIN SPORTS 4HD
+http://topiptv.net:5890/abcdh/123456/19
+#EXTINF:-1 ,beIN SPORTS 5HD
+http://topiptv.net:5890/abcd/123456/20
+#EXTINF:-1 ,beIN SPORTS 6HD
+http://topiptv.net:5890/abcd/123456/21
+#EXTINF:-1 ,beIN SPORTS 7HD
+http://topiptv.net:5890/abcd/123456/22
+#EXTINF:-1 ,beIN SPORTS 1 FHD
+http://topiptv.net:5890/abcd/123456/5
+#EXTINF:-1 ,beIN SPORTS 2 FHD
+http://topiptv.net:5890/abcd/123456/6
+#EXTINF:-1 ,beIN SPORTS 3 FHD
+http://topiptv.net:5890/abcd/123456/7
+#EXTINF:-1 ,beIN SPORTS 4 FHD
+http://topiptv.net:5890/abcd/123456/8
+#EXTINF:-1 ,beIN SPORTS 5 FHD
+http://topiptv.net:5890/abcd/123456/9
+#EXTINF:-1 ,beIN SPORTS 6 FHD
+http://topiptv.net:5890/abcd/123456/10
+#EXTINF:-1 ,beIN SPORTS 7 FHD
+http://topiptv.net:5890/abcd/123456/11
+#EXTINF:-1 ,beIN SPORTS FHD
+http://topiptv.net:5890/abcd/123456/3
+#EXTINF:-1 ,beIN SPORTS News HD
+http://topiptv.net:5890/abcd/123456/70058
+#EXTINF:-1 ,beIN SPORTS 1 PREMIUM HD
+http://topiptv.net:5890/abcd/123456/98222
+#EXTINF:-1 ,beIN SPORTS 2 PREMIUM HD
+http://topiptv.net:5890/abcd/123456/98225
+#EXTINF:-1 ,beIN SPORTS 3 PREMIUM HD
+http://topiptv.net:5890/abcd/123456/98228
+#EXTINF:-1 ,beIN SPORTS 1 ENGLISH HD
+http://topiptv.net:5890/abcd/123456/26
+#EXTINF:-1 ,beIN SPORTS 2 ENGLISH HD
+http://topiptv.net:5890/abcd/123456/27
+#EXTINF:-1 ,beIN SPORTS 1 FRENCH HD
+http://topiptv.net:5890/abcd/123456/71322
+#EXTINF:-1 ,BeIN SPORTS 2 FRENCH HD
+http://topiptv.net:5890/abcd/123456/94522
+#EXTINF:-1 ,BeIN SPORTS 3 FRENCH HD
+http://topiptv.net:5890/abcd/123456/94523
+#EXTINF:-1 ,beIN SPORTS 1 XTRA HD
+http://topiptv.net:5890/abcd/123456/23
+#EXTINF:-1 ,beIN SPORTS 2 XTRA HD
+http://topiptv.net:5890/abcd/123456/24
+#EXTINF:-1 ,beIN SPORTS News FHD
+http://topiptv.net:5890/abcd/123456/4
+#EXTINF:-1 ,beIN SPORTS 1 PREMIUM FHD
+http://topiptv.net:5890/abcd/123456/98221
+#EXTINF:-1 ,beIN SPORTS 2 PREMIUM FHD
+http://topiptv.net:5890/abcd/123456/98226
+#EXTINF:-1 ,beIN SPORTS 3 PREMIUM FHD
+http://topiptv.net:5890/abcd/123456/98227
+#EXTINF:-1 ,beIN SPORTS 1 ENGLISH FHD
+http://topiptv.net:5890/abcd/123456/29
+#EXTINF:-1 ,beIN SPORTS 2 ENGLISH FHD
+http://topiptv.net:5890/abcd/123456/30
+#EXTINF:-1 ,beIN SPORTS 3 ENGLISH  FHD
+http://topiptv.net:5890/abcd/123456/31
+#EXTINF:-1 ,BeIN SPORTS 1 FRENCH FHD
+http://topiptv.net:5890/abcd/123456/71319
+#EXTINF:-1 ,BeIN SPORTS 2 FRENCH FHD
+http://topiptv.net:5890/abcd/123456/71320
+#EXTINF:-1 ,beIN SPORTS 1 XTRA FHD
+http://topiptv.net:5890/abcd/123456/12
+#EXTINF:-1 ,beIN SPORTS 2 XTRA FHD
+http://topiptv.net:5890/abcd/123456/13
+#EXTINF:-1 ,beIN SPORTS 1 4K
+http://topiptv.net:5890/abcd/123456/84102
+#EXTINF:-1 ,beIN SPORTS 1 HEVC
+http://topiptv.net:5890/abcd/123456/32
+#EXTINF:-1 ,beIN SPORTS 11 HEVC
+http://topiptv.net:5890/abcd/123456/70061
+#EXTINF:-1 ,beIN SPORTS 12 HEVC
+http://topiptv.net:5890/abcd/123456/70062
+#EXTINF:-1 ,beIN SPORTS 13 HEVC
+http://topiptv.net:5890/abcd/123456/70063
+#EXTINF:-1 ,beIN SPORTS 1 PREMIUM SD
+http://topiptv.net:5890/abcd/123456/98223
+#EXTINF:-1 ,beIN SPORTS 2 PREMIUM SD
+http://topiptv.net:5890/abcd/123456/98224
+#EXTINF:-1 ,beIN SPORTS 3 PREMIUM SD
+http://topiptv.net:5890/abcd/123456/98229
+#EXTINF:-1 ,beIN SPORTS 1 ENGLISH SD
+http://topiptv.net:5890/abcd/123456/25
+#EXTINF:-1 ,beIN SPORTS 2 ENGLIS SD
+http://topiptv.net:5890/abcd/123456/14
+#EXTINF:-1 ,beIN SPORTS 3 ENGLISH SD
+http://topiptv.net:5890/abcd/123456/44
+#EXTINF:-1 ,beIN SPORTS 1 XTRA SD
+http://topiptv.net:5890/abcd/123456/42
+#EXTINF:-1 ,beIN SPORTS 2 XTRA SD
+http://topiptv.net:5890/abcd/123456/43
+#EXTINF:-1 ,|AR| BEIN SPORTS 1 UHD
+http://rm.flysat.live:80/8504348699/6713392038/78637
+#EXTINF:-1 ,|AR| BEIN SPORTS 2 UHD
+http://rm.flysat.live:80/8504348699/6713392038/78636
+#EXTINF:-1 ,|AR| BEIN SPORTS 3 UHD
+http://rm.flysat.live:80/8504348699/6713392038/78635
+#EXTINF:-1 ,|AR| BEIN SPORTS 4 UHD
+http://rm.flysat.live:80/8504348699/6713392038/78634
+#EXTINF:-1 ,|AR| BEIN SPORTS 5 UHD
+http://rm.flysat.live:80/8504348699/6713392038/78633
+#EXTINF:-1 ,|AR| BEIN SPORTS 6 UHD
+http://rm.flysat.live:80/8504348699/6713392038/78632
+#EXTINF:-1 ,|AR| BEIN SPORTS 7 UHD
+http://rm.flysat.live:80/8504348699/6713392038/78631
+#EXTINF:-1 ,|AR| BEIN SPORTS 8 UHD
+http://rm.flysat.live:80/8504348699/6713392038/78630
+#EXTINF:-1 ,|AR| BEIN SPORTS 9 UHD
+http://rm.flysat.live:80/8504348699/6713392038/78629
+#EXTINF:-1 ,|AR| BEIN SPORTS 10 UHD OLYMPIC
+http://rm.flysat.live:80/8504348699/6713392038/78628
+#EXTINF:-1 ,|AR| BEIN SPORTS 11 UHD EN
+http://rm.flysat.live:80/8504348699/6713392038/78627
+#EXTINF:-1 ,|AR| BEIN SPORTS 12 UHD EN
+http://rm.flysat.live:80/8504348699/6713392038/78626
+#EXTINF:-1 ,|AR| BEIN SPORTS 13 UHD
+http://rm.flysat.live:80/8504348699/6713392038/78625
+#EXTINF:-1 ,|AR| ABU DHABI SPORTS 1 HD
+http://rm.flysat.live:80/8504348699/6713392038/86493
+#EXTINF:-1 ,USA A&E UHD
+http://supersonictv.live:25461/903310/034806/22040
+#EXTINF:-1 ,USA ABC UHD
+http://supersonictv.live:25461/903310/034806/22041
+#EXTINF:-1 ,USA AMC UHD
+http://supersonictv.live:25461/903310/034806/22042
+#EXTINF:-1 ,USA American Heroes
+http://supersonictv.live:25461/903310/034806/22044
+#EXTINF:-1 ,USA Animal Planet East UHD
+http://supersonictv.live:25461/903310/034806/22045
+#EXTINF:-1 ,USA Animal Planet West LHD
+http://supersonictv.live:25461/903310/034806/22046
+#EXTINF:-1 ,USA ANTENNA TV
+http://supersonictv.live:25461/903310/034806/22047
+#EXTINF:-1 ,USA Destination America UHD
+http://supersonictv.live:25461/903310/034806/22073
+#EXTINF:-1 ,USA Discovery Channel UHD
+http://supersonictv.live:25461/903310/034806/22074
+#EXTINF:-1 ,USA Discovery Science
+http://supersonictv.live:25461/903310/034806/22077
+#EXTINF:-1 ,USA Discovery Velocity
+http://supersonictv.live:25461/903310/034806/22078
+#EXTINF:-1 ,USA Discovery West LHD
+http://supersonictv.live:25461/903310/034806/22079
+#EXTINF:-1 ,USA DIY Network UHD
+http://supersonictv.live:25461/903310/034806/22080
+#EXTINF:-1 ,USA E! East UHD
+http://supersonictv.live:25461/903310/034806/22081
+#EXTINF:-1 ,USA E! West LHD
+http://supersonictv.live:25461/903310/034806/22082
+#EXTINF:-1 ,USA Food Network East UHD
+http://supersonictv.live:25461/903310/034806/22084
+#EXTINF:-1 ,USA Food Network West LHD
+http://supersonictv.live:25461/903310/034806/22085
+#EXTINF:-1 ,USA Fox UHD
+http://supersonictv.live:25461/903310/034806/22086
+#EXTINF:-1 ,USA Game Show Network UHD
+http://supersonictv.live:25461/903310/034806/22098
+#EXTINF:-1 ,USA GET TV
+http://supersonictv.live:25461/903310/034806/22099
+#EXTINF:-1 ,USA Grit TV
+http://supersonictv.live:25461/903310/034806/22100
+#EXTINF:-1 ,USA HGTV East UHD
+http://supersonictv.live:25461/903310/034806/22101
+#EXTINF:-1 ,USA IFC LHD
+http://supersonictv.live:25461/903310/034806/22108
+#EXTINF:-1 ,USA INSP
+http://supersonictv.live:25461/903310/034806/22109
+#EXTINF:-1 ,USA Investigation Discovery East UHD
+http://supersonictv.live:25461/903310/034806/22110
+#EXTINF:-1 ,USA Investigation Discovery West LHD
+http://supersonictv.live:25461/903310/034806/22111
+#EXTINF:-1 ,USA MotorTrend UHD
+http://supersonictv.live:25461/903310/034806/22119
+#EXTINF:-1 ,USA MTV UHD
+http://supersonictv.live:25461/903310/034806/22120
+#EXTINF:-1 ,USA NASA TV
+http://supersonictv.live:25461/903310/034806/22121
+#EXTINF:-1 ,USA Nat Geo WILD LHD
+http://supersonictv.live:25461/903310/034806/22122
+#EXTINF:-1 ,USA National Geographic East UHD
+http://supersonictv.live:25461/903310/034806/22123
+#EXTINF:-1 ,USA National Geographic West LHD
+http://supersonictv.live:25461/903310/034806/22124
+#EXTINF:-1 ,USA National Geographic Wild East UHD
+http://supersonictv.live:25461/903310/034806/22125
+#EXTINF:-1 ,USA OWN East UHD
+http://supersonictv.live:25461/903310/034806/22130
+#EXTINF:-1 ,USA Outdoor Channel
+http://supersonictv.live:25461/903310/034806/22131
+#EXTINF:-1 ,USA Outside TV
+http://supersonictv.live:25461/903310/034806/22132
+#EXTINF:-1 ,USA Ovation
+http://supersonictv.live:25461/903310/034806/22133
+#EXTINF:-1 ,USA Oxygen East UHD
+http://supersonictv.live:25461/903310/034806/22134
+#EXTINF:-1 ,USA Oxygen West LHD
+http://supersonictv.live:25461/903310/034806/22135
+#EXTINF:-1 ,USA POP
+http://supersonictv.live:25461/903310/034806/22139
+#EXTINF:-1 ,USA Revolt
+http://supersonictv.live:25461/903310/034806/22143
+#EXTINF:-1 ,USA Ride TV
+http://supersonictv.live:25461/903310/034806/22144
+#EXTINF:-1 ,USA Science UHD
+http://supersonictv.live:25461/903310/034806/22145
+#EXTINF:-1 ,USA: RFD-TV
+http://supersonictv.live:25461/903310/034806/22146
+#EXTINF:-1 ,USA SHORTS TV
+http://supersonictv.live:25461/903310/034806/22147
+#EXTINF:-1 ,USA Smithsonian Channel LHD
+http://supersonictv.live:25461/903310/034806/22148
+#EXTINF:-1 ,USA TBS East UHD
+http://supersonictv.live:25461/903310/034806/22154
+#EXTINF:-1 ,USA TBS West LHD
+http://supersonictv.live:25461/903310/034806/22155
+#EXTINF:-1 ,USA TCM
+http://supersonictv.live:25461/903310/034806/22156
+#EXTINF:-1 ,USA TLC UHD
+http://supersonictv.live:25461/903310/034806/22157
+#EXTINF:-1 ,USA TLC West
+http://supersonictv.live:25461/903310/034806/22158
+#EXTINF:-1 ,USA TNT East UHD
+http://supersonictv.live:25461/903310/034806/22159
+#EXTINF:-1 ,USA Travel Pacific
+http://supersonictv.live:25461/903310/034806/22163
+#EXTINF:-1 ,USA TruTV East UHD
+http://supersonictv.live:25461/903310/034806/22164
+#EXTINF:-1 ,USA truTV West LHD
+http://supersonictv.live:25461/903310/034806/22165
+#EXTINF:-1 ,USA WWE Network UHD
+http://supersonictv.live:25461/903310/034806/22185
+#EXTINF:-1 ,USA GUSTO
+http://supersonictv.live:25461/903310/034806/77558
+#EXTINF:-1 ,USA ION TV
+http://supersonictv.live:25461/903310/034806/77472
+#EXTINF:-1 ,Cinemax East UHD
+http://supersonictv.live:25461/903310/034806/22879
+#EXTINF:-1 ,Cinemax West UHD
+http://supersonictv.live:25461/903310/034806/22880
+#EXTINF:-1 ,CINEMAX MORE MAX UHD
+http://supersonictv.live:25461/903310/034806/22882
+#EXTINF:-1 ,CINEMAX MOVIE MAX UHD
+http://supersonictv.live:25461/903310/034806/22883
+#EXTINF:-1 ,CINEMAX OUTER MAX UHD
+http://supersonictv.live:25461/903310/034806/22884
+#EXTINF:-1 ,CINEMAX THRILLER MAX UHD
+http://supersonictv.live:25461/903310/034806/22885
+#EXTINF:-1 ,Epix UHD
+http://supersonictv.live:25461/903310/034806/22886
+#EXTINF:-1 ,EPIX2 UHD
+http://supersonictv.live:25461/903310/034806/22887
+#EXTINF:-1 ,EPIX Drive-In UHD
+http://supersonictv.live:25461/903310/034806/22888
+#EXTINF:-1 ,Epix Hits UHD
+http://supersonictv.live:25461/903310/034806/22889
+#EXTINF:-1 ,Hallmark Channel East. UHD
+http://supersonictv.live:25461/903310/034806/22890
+#EXTINF:-1 ,Hallmark Channel EAST LHD
+http://supersonictv.live:25461/903310/034806/22891
+#EXTINF:-1 ,Hallmark Drama .UHD
+http://supersonictv.live:25461/903310/034806/22892
+#EXTINF:-1 ,Hallmark Movies & Mysteries East UHD
+http://supersonictv.live:25461/903310/034806/22893
+#EXTINF:-1 ,HBO East UHD
+http://supersonictv.live:25461/903310/034806/22894
+#EXTINF:-1 ,HBO West UHD
+http://supersonictv.live:25461/903310/034806/22895
+#EXTINF:-1 ,HBO 2 East UHD
+http://supersonictv.live:25461/903310/034806/22896
+#EXTINF:-1 ,HBO Comedy UHD
+http://supersonictv.live:25461/903310/034806/22897
+#EXTINF:-1 ,HBO Family UHD
+http://supersonictv.live:25461/903310/034806/22898
+#EXTINF:-1 ,HBO Pacific UHD
+http://supersonictv.live:25461/903310/034806/22899
+#EXTINF:-1 ,HBO Signature UHD
+http://supersonictv.live:25461/903310/034806/22900
+#EXTINF:-1 ,Paramount East UHD
+http://supersonictv.live:25461/903310/034806/22906
+#EXTINF:-1 ,Showtime East UHD
+http://supersonictv.live:25461/903310/034806/22908
+#EXTINF:-1 ,Showtime West UHD
+http://supersonictv.live:25461/903310/034806/22909
+#EXTINF:-1 ,Showtime 2 UHD
+http://supersonictv.live:25461/903310/034806/22910
+#EXTINF:-1 ,Showtime Extreme UHD
+http://supersonictv.live:25461/903310/034806/22912
+#EXTINF:-1 ,Showtime Family Zone UHD
+http://supersonictv.live:25461/903310/034806/22913
+#EXTINF:-1 ,Showtime Next UHD
+http://supersonictv.live:25461/903310/034806/22914
+#EXTINF:-1 ,Showtime Showcase UHD
+http://supersonictv.live:25461/903310/034806/22915
+#EXTINF:-1 ,Showtime Women UHD
+http://supersonictv.live:25461/903310/034806/22916
+#EXTINF:-1 ,Sony Movie Channel UHD
+http://supersonictv.live:25461/903310/034806/22917
+#EXTINF:-1 ,StarZ East UHD
+http://supersonictv.live:25461/903310/034806/22918
+#EXTINF:-1 ,Starz West UHD
+http://supersonictv.live:25461/903310/034806/22919
+#EXTINF:-1 ,Starz Comedy UHD
+http://supersonictv.live:25461/903310/034806/22921
+#EXTINF:-1 ,Starz Encore East UHD
+http://supersonictv.live:25461/903310/034806/22925
+#EXTINF:-1 ,Starz Encore Action UHD
+http://supersonictv.live:25461/903310/034806/22927
+#EXTINF:-1 ,Starz Encore Black UHD
+http://supersonictv.live:25461/903310/034806/22928
+#EXTINF:-1 ,Starz Encore Classic UHD
+http://supersonictv.live:25461/903310/034806/22929
+#EXTINF:-1 ,Starz Encore Family UHD
+http://supersonictv.live:25461/903310/034806/22930
+#EXTINF:-1 ,Starz Encore Suspense UHD
+http://supersonictv.live:25461/903310/034806/22931
+#EXTINF:-1 ,Starz Encore Westerns UHD
+http://supersonictv.live:25461/903310/034806/22932
+#EXTINF:-1 ,Turner Classic Movies UHD
+http://supersonictv.live:25461/903310/034806/22933
+#EXTINF:-1 ,Syfy UHD
+http://supersonictv.live:25461/903310/034806/22946
+#EXTINF:-1 ,Syfy East UHD
+http://supersonictv.live:25461/903310/034806/22947
+#EXTINF:-1 ,Syfy West UHD
+http://supersonictv.live:25461/903310/034806/22948
+#EXTINF:-1 ,RetroPlex East UHD
+http://supersonictv.live:25461/903310/034806/47746
+#EXTINF:-1 ,CINEMAX ACTIONMAX WEST UHD
+http://supersonictv.live:25461/903310/034806/61185
+#EXTINF:-1 ,CINEMAX MOREMAX WEST UHD
+http://supersonictv.live:25461/903310/034806/61186
+#EXTINF:-1 ,CINEMAX THRILLERMAX WEST UHD
+http://supersonictv.live:25461/903310/034806/61187
+#EXTINF:-1 ,Sky Cinema Family
+http://supersonictv.live:25461/903310/034806/77466
+#EXTINF:-1 ,Sky Cinema Drama
+http://supersonictv.live:25461/903310/034806/77465
+#EXTINF:-1 ,Sky Cinema |Disney
+http://supersonictv.live:25461/903310/034806/77464
+#EXTINF:-1 ,Sky Cinema Comedy
+http://supersonictv.live:25461/903310/034806/77463
+#EXTINF:-1 ,Sky Cinema Action & Adventure
+http://supersonictv.live:25461/903310/034806/77462
+#EXTINF:-1 ,CBS Atlanta WGCL
+http://supersonictv.live:25461/903310/034806/71291
+#EXTINF:-1 ,NBC Atlanta WXIA
+http://supersonictv.live:25461/903310/034806/71293
+#EXTINF:-1 ,CW69 (WUPA) Atlanta
+http://supersonictv.live:25461/903310/034806/71294
+#EXTINF:-1 ,Peachtree (WPCH) Atlanta
+http://supersonictv.live:25461/903310/034806/71295
+#EXTINF:-1 ,LA | Alexandria | NBC KALB
+http://supersonictv.live:25461/903310/034806/71296
+#EXTINF:-1 ,ABC Austin KVUE TX
+http://supersonictv.live:25461/903310/034806/71297
+#EXTINF:-1 ,TX | Austin | CBS KEYE
+http://supersonictv.live:25461/903310/034806/71298
+#EXTINF:-1 ,Fox Austin KTBC
+http://supersonictv.live:25461/903310/034806/71299
+#EXTINF:-1 ,TX | Austin | NBC KXAN
+http://supersonictv.live:25461/903310/034806/71300
+#EXTINF:-1 ,TX | Abilene | FOX Net
+http://supersonictv.live:25461/903310/034806/71301
+#EXTINF:-1 ,ABC10 (WTEN) Albany NY
+http://supersonictv.live:25461/903310/034806/71302
+#EXTINF:-1 ,CW15 (WCWN) Albany NY
+http://supersonictv.live:25461/903310/034806/71303
+#EXTINF:-1 ,FOX 23 Albany (WXXA) NY
+http://supersonictv.live:25461/903310/034806/71304
+#EXTINF:-1 ,NBC 13 Albany (WNYT) NY
+http://supersonictv.live:25461/903310/034806/71305
+#EXTINF:-1 ,ABC 10 Albany (WALB-DT2) GA
+http://supersonictv.live:25461/903310/034806/71306
+#EXTINF:-1 ,CBS Boston WBZ
+http://supersonictv.live:25461/903310/034806/71348
+#EXTINF:-1 ,Fox Boston WFXT
+http://supersonictv.live:25461/903310/034806/71349
+#EXTINF:-1 ,ID | Boise | CBS KBOI
+http://supersonictv.live:25461/903310/034806/71351
+#EXTINF:-1 ,ID | Boise | NBC KTVB
+http://supersonictv.live:25461/903310/034806/71352
+#EXTINF:-1 ,ABC 13 WBKO Bowling Green
+http://supersonictv.live:25461/903310/034806/71353
+#EXTINF:-1 ,NBC 40 (WNKY) Bowling Green
+http://supersonictv.live:25461/903310/034806/71354
+#EXTINF:-1 ,ABC68 (WABM) Birmingham
+http://supersonictv.live:25461/903310/034806/71355
+#EXTINF:-1 ,FOX 6 WBRC Birmingham
+http://supersonictv.live:25461/903310/034806/71357
+#EXTINF:-1 ,AL | Birmingham | NBC WVTM
+http://supersonictv.live:25461/903310/034806/71358
+#EXTINF:-1 ,CW21 (WTTO) Birmingham
+http://supersonictv.live:25461/903310/034806/71359
+#EXTINF:-1 ,NBC 13 WVTM Birmingham
+http://supersonictv.live:25461/903310/034806/71360
+#EXTINF:-1 ,WV | Bluefield | NBC WVVA
+http://supersonictv.live:25461/903310/034806/71362
+#EXTINF:-1 ,IL | Bloomington | FOX WYZZ
+http://supersonictv.live:25461/903310/034806/71363
+#EXTINF:-1 ,VT | Burlington | CBS WCAX
+http://supersonictv.live:25461/903310/034806/71365
+#EXTINF:-1 ,VT | Burlington | FOX WFFF
+http://supersonictv.live:25461/903310/034806/71366
+#EXTINF:-1 ,ABC7 (WKBW) Buffalo
+http://supersonictv.live:25461/903310/034806/71367
+#EXTINF:-1 ,CBS Buffalo WIVB
+http://supersonictv.live:25461/903310/034806/71368
+#EXTINF:-1 ,FL | Cape Coral | FOX WFTX
+http://supersonictv.live:25461/903310/034806/71380
+#EXTINF:-1 ,MO | Cape Girardeau | CBS KFVS
+http://supersonictv.live:25461/903310/034806/71381
+#EXTINF:-1 ,ID | Caldwell | FOX KNIN
+http://supersonictv.live:25461/903310/034806/71382
+#EXTINF:-1 ,CA | Chico | NBC KNVN
+http://supersonictv.live:25461/903310/034806/71383
+#EXTINF:-1 ,WY | Cheyenne | NBC KCHY
+http://supersonictv.live:25461/903310/034806/71384
+#EXTINF:-1 ,TX | Corpus Christi | CBS KZTV
+http://supersonictv.live:25461/903310/034806/71385
+#EXTINF:-1 ,NBC Charlotte WCNC NC
+http://supersonictv.live:25461/903310/034806/71389
+#EXTINF:-1 ,CBS12 WDEF Chattanooga
+http://supersonictv.live:25461/903310/034806/71393
+#EXTINF:-1 ,FOX9 WTVC-DT Chattanooga
+http://supersonictv.live:25461/903310/034806/71394
+#EXTINF:-1 ,NBC3 WRCB Chattanooga
+http://supersonictv.live:25461/903310/034806/71395
+#EXTINF:-1 ,ABC Chicago WLS
+http://supersonictv.live:25461/903310/034806/71396
+#EXTINF:-1 ,CBS Chicago WBBM
+http://supersonictv.live:25461/903310/034806/71397
+#EXTINF:-1 ,FOX Chicago WFLD
+http://supersonictv.live:25461/903310/034806/71398
+#EXTINF:-1 ,NBC Chicago WMAQ
+http://supersonictv.live:25461/903310/034806/71399
+#EXTINF:-1 ,WV | Clarksburg | NBC WBOY
+http://supersonictv.live:25461/903310/034806/71401
+#EXTINF:-1 ,ABC Cleveland WEWS
+http://supersonictv.live:25461/903310/034806/71402
+#EXTINF:-1 ,CBS Columbus WBNS
+http://supersonictv.live:25461/903310/034806/71407
+#EXTINF:-1 ,CW53 (WWHO) Columbus
+http://supersonictv.live:25461/903310/034806/71408
+#EXTINF:-1 ,Fox Columbus WTTE
+http://supersonictv.live:25461/903310/034806/71409
+#EXTINF:-1 ,IA | Davenport | FOX KLJB
+http://supersonictv.live:25461/903310/034806/71443
+#EXTINF:-1 ,IA | Davenport | NBC KWQC
+http://supersonictv.live:25461/903310/034806/71444
+#EXTINF:-1 ,ABC Denver KMGH
+http://supersonictv.live:25461/903310/034806/71445
+#EXTINF:-1 ,CBS Denver KCNC
+http://supersonictv.live:25461/903310/034806/71446
+#EXTINF:-1 ,Fox Denver KDVR
+http://supersonictv.live:25461/903310/034806/71447
+#EXTINF:-1 ,NBC Denver
+http://supersonictv.live:25461/903310/034806/71448
+#EXTINF:-1 ,ABC Detroit WXYZ
+http://supersonictv.live:25461/903310/034806/71449
+#EXTINF:-1 ,CBS Detroit WWJ
+http://supersonictv.live:25461/903310/034806/71450
+#EXTINF:-1 ,Fox Detroit WJBK
+http://supersonictv.live:25461/903310/034806/71451
+#EXTINF:-1 ,NBC Detroit WDIV
+http://supersonictv.live:25461/903310/034806/71452
+#EXTINF:-1 ,CW50 (WKBD) Detroit
+http://supersonictv.live:25461/903310/034806/71453
+#EXTINF:-1 ,IL | Decatur | NBC WAND
+http://supersonictv.live:25461/903310/034806/71454
+#EXTINF:-1 ,IA | Des Moines-Ames | CBS KCCI
+http://supersonictv.live:25461/903310/034806/71455
+#EXTINF:-1 ,IA | Des Moines | NBC WHO
+http://supersonictv.live:25461/903310/034806/71456
+#EXTINF:-1 ,ABC Durham WTVD
+http://supersonictv.live:25461/903310/034806/71457
+#EXTINF:-1 ,ABC22 (WKEF) Dayton
+http://supersonictv.live:25461/903310/034806/71458
+#EXTINF:-1 ,FOX 45 (WRGT) Dayton
+http://supersonictv.live:25461/903310/034806/71460
+#EXTINF:-1 ,NBC 2 (WDTN) Dayton
+http://supersonictv.live:25461/903310/034806/71461
+#EXTINF:-1 ,OR | Eugene | FOX KLSR
+http://supersonictv.live:25461/903310/034806/71469
+#EXTINF:-1 ,OR | Eugene | NBC KMTR
+http://supersonictv.live:25461/903310/034806/71470
+#EXTINF:-1 ,PA | Erie | NBC WICU
+http://supersonictv.live:25461/903310/034806/71471
+#EXTINF:-1 ,USA ABC 23 (KAEF) Eureka
+http://supersonictv.live:25461/903310/034806/71472
+#EXTINF:-1 ,IN | Evansville | NBC WFIE
+http://supersonictv.live:25461/903310/034806/71475
+#EXTINF:-1 ,AK | Fairbanks | NBC KTVF
+http://supersonictv.live:25461/903310/034806/71476
+#EXTINF:-1 ,CBS 30 (KXJB) Fargo
+http://supersonictv.live:25461/903310/034806/71477
+#EXTINF:-1 ,ND | Fargo | FOX KVRR
+http://supersonictv.live:25461/903310/034806/71478
+#EXTINF:-1 ,ND | Fargo | NBC KVLY
+http://supersonictv.live:25461/903310/034806/71479
+#EXTINF:-1 ,ABC 15 (WPDE) Florence
+http://supersonictv.live:25461/903310/034806/71482
+#EXTINF:-1 ,CBS 13 (WBTW) Florence
+http://supersonictv.live:25461/903310/034806/71483
+#EXTINF:-1 ,IN | Fort Wayne | CBS WANE
+http://supersonictv.live:25461/903310/034806/71484
+#EXTINF:-1 ,IN | Fort Wayne | FOX WFFT
+http://supersonictv.live:25461/903310/034806/71485
+#EXTINF:-1 ,IN | Fort Wayne | NBC WPTA
+http://supersonictv.live:25461/903310/034806/71486
+#EXTINF:-1 ,ABC40/29 (KHBS) Fort Smith
+http://supersonictv.live:25461/903310/034806/71487
+#EXTINF:-1 ,ABC7 (WZVN) Fort Myers
+http://supersonictv.live:25461/903310/034806/71491
+#EXTINF:-1 ,ABC Fresno KFSN
+http://supersonictv.live:25461/903310/034806/71496
+#EXTINF:-1 ,CA | Fresno | CBS KGPE
+http://supersonictv.live:25461/903310/034806/71497
+#EXTINF:-1 ,CA | Fresno | NBC KSEE
+http://supersonictv.live:25461/903310/034806/71498
+#EXTINF:-1 ,FL | Gainesville | NBC WNBW
+http://supersonictv.live:25461/903310/034806/71504
+#EXTINF:-1 ,ABC13 (WLOX) Gulfport
+http://supersonictv.live:25461/903310/034806/71505
+#EXTINF:-1 ,CBS13 (WLOX-DT2) Gulfport
+http://supersonictv.live:25461/903310/034806/71506
+#EXTINF:-1 ,MT | Helena | NBC KTVH
+http://supersonictv.live:25461/903310/034806/71541
+#EXTINF:-1 ,NC | High Point | FOX WGHP
+http://supersonictv.live:25461/903310/034806/71542
+#EXTINF:-1 ,ABC4 (KITV) Honolulu
+http://supersonictv.live:25461/903310/034806/71543
+#EXTINF:-1 ,HI | Honolulu | CBS KGMB
+http://supersonictv.live:25461/903310/034806/71544
+#EXTINF:-1 ,HI | Honolulu | FOX KHON
+http://supersonictv.live:25461/903310/034806/71545
+#EXTINF:-1 ,FOX 54 WZDX Huntsville
+http://supersonictv.live:25461/903310/034806/71549
+#EXTINF:-1 ,WV | Huntington | NBC WSAZ
+http://supersonictv.live:25461/903310/034806/71553
+#EXTINF:-1 ,ID | Idaho Falls-Pocatello | NBC KPVI
+http://supersonictv.live:25461/903310/034806/71554
+#EXTINF:-1 ,NBC Indianapolis WTHR
+http://supersonictv.live:25461/903310/034806/71558
+#EXTINF:-1 ,ABC3 (WSIL) Illinois
+http://supersonictv.live:25461/903310/034806/71559
+#EXTINF:-1 ,CBS WJTV Jackson
+http://supersonictv.live:25461/903310/034806/71560
+#EXTINF:-1 ,FOX WDBD Jackson
+http://supersonictv.live:25461/903310/034806/71561
+#EXTINF:-1 ,NBC WLBT Jackson
+http://supersonictv.live:25461/903310/034806/71562
+#EXTINF:-1 ,ABC25 (WJXX) Jacksonville
+http://supersonictv.live:25461/903310/034806/71563
+#EXTINF:-1 ,FOX Jacksonville WFOX
+http://supersonictv.live:25461/903310/034806/71565
+#EXTINF:-1 ,NBC Jacksonville
+http://supersonictv.live:25461/903310/034806/71566
+#EXTINF:-1 ,ABC17 (KMIZ) Jefferson City
+http://supersonictv.live:25461/903310/034806/71567
+#EXTINF:-1 ,CBS13 (KRCG) Jefferson City
+http://supersonictv.live:25461/903310/034806/71568
+#EXTINF:-1 ,FOX22 (KQFX) Jefferson City
+http://supersonictv.live:25461/903310/034806/71569
+#EXTINF:-1 ,NBC8 (KOMU) Jefferson City
+http://supersonictv.live:25461/903310/034806/71570
+#EXTINF:-1 ,PA | Johnstown | FOX WWCP
+http://supersonictv.live:25461/903310/034806/71571
+#EXTINF:-1 ,PA | Johnstown | NBC WJAC
+http://supersonictv.live:25461/903310/034806/71572
+#EXTINF:-1 ,AR | Jonesboro | NBC KAIT
+http://supersonictv.live:25461/903310/034806/71573
+#EXTINF:-1 ,PA | Joplin-Pittsburg | NBC KSNF
+http://supersonictv.live:25461/903310/034806/71574
+#EXTINF:-1 ,AK | Juneau-douglas | NBC KATH
+http://supersonictv.live:25461/903310/034806/71575
+#EXTINF:-1 ,LA | Lake Charles | NBC KPLC
+http://supersonictv.live:25461/903310/034806/71600
+#EXTINF:-1 ,TX | Laredo | NBC KGNS
+http://supersonictv.live:25461/903310/034806/71605
+#EXTINF:-1 ,AR | Little Rock | CBS KTHV
+http://supersonictv.live:25461/903310/034806/71606
+#EXTINF:-1 ,AR | Little Rock | FOX KLRT
+http://supersonictv.live:25461/903310/034806/71607
+#EXTINF:-1 ,AR | Little Rock | NBC KARK
+http://supersonictv.live:25461/903310/034806/71608
+#EXTINF:-1 ,ABC Los Angeles KABC
+http://supersonictv.live:25461/903310/034806/71609
+#EXTINF:-1 ,NBC Los Angeles KNBC
+http://supersonictv.live:25461/903310/034806/71613
+#EXTINF:-1 ,ABC36 (WTVQ) Lexington
+http://supersonictv.live:25461/903310/034806/71621
+#EXTINF:-1 ,NBC WLEX Lexington
+http://supersonictv.live:25461/903310/034806/71623
+#EXTINF:-1 ,NE | Lincoln | CBS KOLN
+http://supersonictv.live:25461/903310/034806/71624
+#EXTINF:-1 ,NBC 8 (WLIO) Lima
+http://supersonictv.live:25461/903310/034806/71625
+#EXTINF:-1 ,ABC28 (KAMC) Lubbock
+http://supersonictv.live:25461/903310/034806/71626
+#EXTINF:-1 ,CBS13 (KLBK) Lubbock
+http://supersonictv.live:25461/903310/034806/71627
+#EXTINF:-1 ,NBC 6 WLUC Marquette
+http://supersonictv.live:25461/903310/034806/71631
+#EXTINF:-1 ,ABC9 (WMUR) Manchester
+http://supersonictv.live:25461/903310/034806/71632
+#EXTINF:-1 ,GA | Macon | CBS WMAZ
+http://supersonictv.live:25461/903310/034806/71636
+#EXTINF:-1 ,GA | Macon | NBC WMGT
+http://supersonictv.live:25461/903310/034806/71637
+#EXTINF:-1 ,ABC24 (WATN) Memphis
+http://supersonictv.live:25461/903310/034806/71638
+#EXTINF:-1 ,CBS 3 WREG Memphis
+http://supersonictv.live:25461/903310/034806/71639
+#EXTINF:-1 ,FOX 13 WHBQ Memphis
+http://supersonictv.live:25461/903310/034806/71640
+#EXTINF:-1 ,NBC 5 WMC Memphis
+http://supersonictv.live:25461/903310/034806/71641
+#EXTINF:-1 ,ABC Miami WPLG
+http://supersonictv.live:25461/903310/034806/71645
+#EXTINF:-1 ,FOX Miami WSVN UHD
+http://supersonictv.live:25461/903310/034806/71647
+#EXTINF:-1 ,MY33 (WBFS) Miami
+http://supersonictv.live:25461/903310/034806/71649
+#EXTINF:-1 ,MT | Missoula | NBC KECI
+http://supersonictv.live:25461/903310/034806/71650
+#EXTINF:-1 ,ABC Milwaukee WISN
+http://supersonictv.live:25461/903310/034806/71651
+#EXTINF:-1 ,CBS Milwaukee
+http://supersonictv.live:25461/903310/034806/71652
+#EXTINF:-1 ,CBS Philadelphia KYW
+http://supersonictv.live:25461/903310/034806/71721
+#EXTINF:-1 ,CW57 (WPSG) Philadelphia
+http://supersonictv.live:25461/903310/034806/71722
+#EXTINF:-1 ,Fox Philadelphia WTXF
+http://supersonictv.live:25461/903310/034806/71723
+#EXTINF:-1 ,NBC Philadelphia WCAU
+http://supersonictv.live:25461/903310/034806/71724
+#EXTINF:-1 ,NY | Plattsburgh | NBC WPTZ
+http://supersonictv.live:25461/903310/034806/71725
+#EXTINF:-1 ,VA | Portsmouth | NBC WAVY
+http://supersonictv.live:25461/903310/034806/71726
+#EXTINF:-1 ,USA NBC 10 WJAR Providence
+http://supersonictv.live:25461/903310/034806/71730
+#EXTINF:-1 ,ABC Pittsburgh WTAE
+http://supersonictv.live:25461/903310/034806/71731
+#EXTINF:-1 ,CBS Pittsburgh KDKA
+http://supersonictv.live:25461/903310/034806/71732
+#EXTINF:-1 ,Fox Pittsburgh WPGH
+http://supersonictv.live:25461/903310/034806/71734
+#EXTINF:-1 ,NBC Pittsburgh WPXI
+http://supersonictv.live:25461/903310/034806/71735
+#EXTINF:-1 ,ABC Phoenix KNXV
+http://supersonictv.live:25461/903310/034806/71736
+#EXTINF:-1 ,ABC Portland KATU
+http://supersonictv.live:25461/903310/034806/71741
+#EXTINF:-1 ,OR | Portland | CBS KOIN
+http://supersonictv.live:25461/903310/034806/71742
+#EXTINF:-1 ,OR | Portland | FOX KPTV
+http://supersonictv.live:25461/903310/034806/71743
+#EXTINF:-1 ,NBC Portland KGW
+http://supersonictv.live:25461/903310/034806/71744
+#EXTINF:-1 ,ME | Portland | CBS WGME
+http://supersonictv.live:25461/903310/034806/71745
+#EXTINF:-1 ,ME | Portland | NBC WCSH
+http://supersonictv.live:25461/903310/034806/71746
+#EXTINF:-1 ,CO | Pueblo | NBC KOAA
+http://supersonictv.live:25461/903310/034806/71748
+#EXTINF:-1 ,CA | Salinas | FOX KCBA
+http://supersonictv.live:25461/903310/034806/71779
+#EXTINF:-1 ,CA | Salinas | NBC KSBW
+http://supersonictv.live:25461/903310/034806/71780
+#EXTINF:-1 ,USA ABC 16 (WNEP) Scranton
+http://supersonictv.live:25461/903310/034806/71781
+#EXTINF:-1 ,ABC San Antonio KSAT
+http://supersonictv.live:25461/903310/034806/71782
+#EXTINF:-1 ,CBS San Antonio KENS
+http://supersonictv.live:25461/903310/034806/71783
+#EXTINF:-1 ,CW35 (KMYS) San Antonio
+http://supersonictv.live:25461/903310/034806/71784
+#EXTINF:-1 ,Fox San Antonio KABB
+http://supersonictv.live:25461/903310/034806/71785
+#EXTINF:-1 ,TX | San Antonio | NBC WOAI
+http://supersonictv.live:25461/903310/034806/71786
+#EXTINF:-1 ,ABC San Francisco KGO
+http://supersonictv.live:25461/903310/034806/71793
+#EXTINF:-1 ,CBS San Francisco KCBS
+http://supersonictv.live:25461/903310/034806/71794
+#EXTINF:-1 ,CBS San Francisco KPIX
+http://supersonictv.live:25461/903310/034806/71795
+#EXTINF:-1 ,CW44 (KBCW) San Francisco
+http://supersonictv.live:25461/903310/034806/71796
+#EXTINF:-1 ,FOX San Francisco KTVU
+http://supersonictv.live:25461/903310/034806/71797
+#EXTINF:-1 ,NBC San Francisco KNTV
+http://supersonictv.live:25461/903310/034806/71798
+#EXTINF:-1 ,CA | San Jose | FOX KICU
+http://supersonictv.live:25461/903310/034806/71799
+#EXTINF:-1 ,CA | San Luis Obispo | FOX KKFX
+http://supersonictv.live:25461/903310/034806/71800
+#EXTINF:-1 ,CA | San Luis Obispo | NBC KSBY
+http://supersonictv.live:25461/903310/034806/71801
+#EXTINF:-1 ,MD | Salisbury | NBC WRDE
+http://supersonictv.live:25461/903310/034806/71803
+#EXTINF:-1 ,NBC 25 WEYI Saginaw
+http://supersonictv.live:25461/903310/034806/71804
+#EXTINF:-1 ,CBS Seattle KIRO
+http://supersonictv.live:25461/903310/034806/71808
+#EXTINF:-1 ,Fox Seattle KCPQ
+http://supersonictv.live:25461/903310/034806/71810
+#EXTINF:-1 ,IA | Sioux City | NBC KTIV
+http://supersonictv.live:25461/903310/034806/71817
+#EXTINF:-1 ,ABC 57 South Bend (WBND)
+http://supersonictv.live:25461/903310/034806/71818
+#EXTINF:-1 ,CBS 22 South Bend (WSBT)
+http://supersonictv.live:25461/903310/034806/71819
+#EXTINF:-1 ,IN | South Bend | NBC WNDU
+http://supersonictv.live:25461/903310/034806/71820
+#EXTINF:-1 ,WA | Spokane | CBS KREM
+http://supersonictv.live:25461/903310/034806/71821
+#EXTINF:-1 ,MA | Springfield | FOX WWGB
+http://supersonictv.live:25461/903310/034806/71824
+#EXTINF:-1 ,FOX St Louis KTVI
+http://supersonictv.live:25461/903310/034806/71831
+#EXTINF:-1 ,NBC St Louis KSDK
+http://supersonictv.live:25461/903310/034806/71832
+#EXTINF:-1 ,FL | St. Petersburg | CBS WTSP
+http://supersonictv.live:25461/903310/034806/71833
+#EXTINF:-1 ,OH | Steubenville | NBC WTOV
+http://supersonictv.live:25461/903310/034806/71835
+#EXTINF:-1 ,GA | Savannah | CBS WTOC
+http://supersonictv.live:25461/903310/034806/71836
+#EXTINF:-1 ,NE | Superior | NBC KSNB
+http://supersonictv.live:25461/903310/034806/71837
+#EXTINF:-1 ,ABC9 (WSYR) Syracuse
+http://supersonictv.live:25461/903310/034806/71838
+#EXTINF:-1 ,NBC3 (WSTM) Syracuse
+http://supersonictv.live:25461/903310/034806/71841
+#EXTINF:-1 ,ABC3 (KTBS) Shreveport
+http://supersonictv.live:25461/903310/034806/71842
+#EXTINF:-1 ,LA | Shreveport | FOX KMSS
+http://supersonictv.live:25461/903310/034806/71844
+#EXTINF:-1 ,LA | Shreveport | NBC KSL
+http://supersonictv.live:25461/903310/034806/71845
+#EXTINF:-1 ,SC | Spartanburg | CBS WSPA
+http://supersonictv.live:25461/903310/034806/71846
+#EXTINF:-1 ,US ABC 27 (WTXL) Tallahassee
+http://supersonictv.live:25461/903310/034806/71847
+#EXTINF:-1 ,US CBS 6 (WCTV) Tallahassee
+http://supersonictv.live:25461/903310/034806/71848
+#EXTINF:-1 ,AZ | Tucson | CBS KOLD
+http://supersonictv.live:25461/903310/034806/71859
+#EXTINF:-1 ,AZ | Tucson | FOX KMSB
+http://supersonictv.live:25461/903310/034806/71860
+#EXTINF:-1 ,AZ | Tucson | NBC KVOA
+http://supersonictv.live:25461/903310/034806/71861
+#EXTINF:-1 ,ABC Tampa Bay
+http://supersonictv.live:25461/903310/034806/71862
+#EXTINF:-1 ,CBS Tampa  WTSP
+http://supersonictv.live:25461/903310/034806/71863
+#EXTINF:-1 ,FOX Tampa WTVT
+http://supersonictv.live:25461/903310/034806/71864
+#EXTINF:-1 ,NBC TAMPA WFLA
+http://supersonictv.live:25461/903310/034806/71865
+#EXTINF:-1 ,ABC8 (KTUL) Tulsa
+http://supersonictv.live:25461/903310/034806/71866
+#EXTINF:-1 ,GA | Thomasville | CBS WCTV
+http://supersonictv.live:25461/903310/034806/71867
+#EXTINF:-1 ,CBS 6 KOTV Tulsa
+http://supersonictv.live:25461/903310/034806/71868
+#EXTINF:-1 ,CW 19 KQCW Tulsa
+http://supersonictv.live:25461/903310/034806/71869
+#EXTINF:-1 ,FOX 23 KOKI Tulsa
+http://supersonictv.live:25461/903310/034806/71870
+#EXTINF:-1 ,NBC 2 KJRH Tulsa
+http://supersonictv.live:25461/903310/034806/71871
+#EXTINF:-1 ,OH | Toledo | CBS WTOL
+http://supersonictv.live:25461/903310/034806/71872
+#EXTINF:-1 ,OH | Toledo | NBC WNWO
+http://supersonictv.live:25461/903310/034806/71874
+#EXTINF:-1 ,TN-VA | Tri-Cities | CBS WJHL
+http://supersonictv.live:25461/903310/034806/71875
+#EXTINF:-1 ,TN-VA | Tri-Cities | NBC WCYB
+http://supersonictv.live:25461/903310/034806/71876
+#EXTINF:-1 ,VA | Virginia Beach | FOX WVBT
+http://supersonictv.live:25461/903310/034806/71881
+#EXTINF:-1 ,TX | Victoria | NBC KMOL
+http://supersonictv.live:25461/903310/034806/71882
+#EXTINF:-1 ,WI | Wausau | NBC WJFW
+http://supersonictv.live:25461/903310/034806/71883
+#EXTINF:-1 ,TX | Waco | CBS KWTX
+http://supersonictv.live:25461/903310/034806/71884
+#EXTINF:-1 ,TX | Waco | FOX KWKT
+http://supersonictv.live:25461/903310/034806/71885
+#EXTINF:-1 ,ABC Washington
+http://supersonictv.live:25461/903310/034806/71886
+#EXTINF:-1 ,NC | Washington | NBC WITN
+http://supersonictv.live:25461/903310/034806/71890
+#EXTINF:-1 ,IA | Waterloo | NBC KWWL
+http://supersonictv.live:25461/903310/034806/71891
+#EXTINF:-1 ,NY | Watertown | NBC WVNC
+http://supersonictv.live:25461/903310/034806/71892
+#EXTINF:-1 ,FL | West Palm Beach | FOX WFLX
+http://supersonictv.live:25461/903310/034806/71894
+#EXTINF:-1 ,FL | West Palm Beach | NBC WPTV
+http://supersonictv.live:25461/903310/034806/71895
+#EXTINF:-1 ,NC | Wilmington | CBS WWAY
+http://supersonictv.live:25461/903310/034806/71896
+#EXTINF:-1 ,FOX 24 KSAS Wichita
+http://supersonictv.live:25461/903310/034806/71903
+#EXTINF:-1 ,NBC 3 KSNW Wichita
+http://supersonictv.live:25461/903310/034806/71904
+#EXTINF:-1 ,CW38 (WSWB) Wilkes-Barre
+http://supersonictv.live:25461/903310/034806/71905
+#EXTINF:-1 ,CBS WYOU Wilkes-Barre
+http://supersonictv.live:25461/903310/034806/71906
+#EXTINF:-1 ,PA | Wilkes-Barre | NBC WBRE
+http://supersonictv.live:25461/903310/034806/71907
+#EXTINF:-1 ,OH | Youngstown | CBS WKBN
+http://supersonictv.live:25461/903310/034806/71911
+#EXTINF:-1 ,OH | Youngstown | FOX WYFX
+http://supersonictv.live:25461/903310/034806/71912
+#EXTINF:-1 ,OH | Youngstown | NBC WFMJ
+http://supersonictv.live:25461/903310/034806/71913
+#EXTINF:-1 ,PA | York | FOX WPMT
+http://supersonictv.live:25461/903310/034806/71914
+#EXTINF:-1 ,AZ | Yuma | NBC KYMA
+http://supersonictv.live:25461/903310/034806/71915
+#EXTINF:-1 ,USA My33 (WBFS) Fort Lauderdale
+http://supersonictv.live:25461/903310/034806/71918
+#EXTINF:-1 ,USA PBS (KWCM) MN | Appleton
+http://supersonictv.live:25461/903310/034806/78452
+#EXTINF:-1 ,GA | Savannah | FOX WTGS
+http://supersonictv.live:25461/903310/034806/78976
+#EXTINF:-1 ,GA | Savannah | NBC WSAV
+http://supersonictv.live:25461/903310/034806/78977
+#EXTINF:-1 ,GA | Savannah | ABC 22 WJCL
+http://supersonictv.live:25461/903310/034806/81941
+#EXTINF:-1 ,USA ABC News
+http://supersonictv.live:25461/903310/034806/21753
+#EXTINF:-1 ,USA BBC World News UHD
+http://supersonictv.live:25461/903310/034806/21755
+#EXTINF:-1 ,USA Bloomberg UHD
+http://supersonictv.live:25461/903310/034806/21756
+#EXTINF:-1 ,USA CBS News UHD
+http://supersonictv.live:25461/903310/034806/21759
+#EXTINF:-1 ,USA CNN UHD
+http://supersonictv.live:25461/903310/034806/21764
+#EXTINF:-1 ,USA Fox Business UHD
+http://supersonictv.live:25461/903310/034806/21769
+#EXTINF:-1 ,USA: HLN
+http://supersonictv.live:25461/903310/034806/21771
+#EXTINF:-1 ,USA  NEWS 12 BROOKLYN
+http://supersonictv.live:25461/903310/034806/21775
+#EXTINF:-1 ,USA NEWS 12 THE BRONX
+http://supersonictv.live:25461/903310/034806/21778
+#EXTINF:-1 ,USA ESPN 2 UHD
+http://supersonictv.live:25461/903310/034806/22199
+#EXTINF:-1 ,USA NBC Sports Chicago Plus
+http://supersonictv.live:25461/903310/034806/78969
+#EXTINF:-1 ,USA NBC Sports Boston
+http://supersonictv.live:25461/903310/034806/78965
+#EXTINF:-1 ,USA Golf UHD
+http://supersonictv.live:25461/903310/034806/40401
+#EXTINF:-1 ,USA MLB Network UHD
+http://supersonictv.live:25461/903310/034806/40402
+#EXTINF:-1 ,USA MLB Strike One
+http://supersonictv.live:25461/903310/034806/40403
+#EXTINF:-1 ,USA MSG
+http://supersonictv.live:25461/903310/034806/40404
+#EXTINF:-1 ,USA NBA TV UHD
+http://supersonictv.live:25461/903310/034806/40409
+#EXTINF:-1 ,USA NESN Boston
+http://supersonictv.live:25461/903310/034806/40410
+#EXTINF:-1 ,USA NHL Network UHD
+http://supersonictv.live:25461/903310/034806/40413
+#EXTINF:-1 ,24/7 3rd Rock from the Sun
+http://supersonictv.live:25461/903310/034806/79074
+#EXTINF:-1 ,24/7 An Unexpected Killer
+http://supersonictv.live:25461/903310/034806/79142
+#EXTINF:-1 ,24/7 Ancient Aliens
+http://supersonictv.live:25461/903310/034806/79143
+#EXTINF:-1 ,24/7 Animal Kingdom
+http://supersonictv.live:25461/903310/034806/79145
+#EXTINF:-1 ,24/7 Animals
+http://supersonictv.live:25461/903310/034806/79146
+#EXTINF:-1 ,24/7 Anne
+http://supersonictv.live:25461/903310/034806/79147
+#EXTINF:-1 ,24/7 Anthony Bourdain Parts Unknown
+http://supersonictv.live:25461/903310/034806/79148
+#EXTINF:-1 ,24/7 Ares
+http://supersonictv.live:25461/903310/034806/79151
+#EXTINF:-1 ,24/7 Arrow
+http://supersonictv.live:25461/903310/034806/79152
+#EXTINF:-1 ,24/7 Atlanta
+http://supersonictv.live:25461/903310/034806/79156
+#EXTINF:-1 ,24/7 Atomic Puppet
+http://supersonictv.live:25461/903310/034806/79157
+#EXTINF:-1 ,24/7 Anger Management
+http://supersonictv.live:25461/903310/034806/79197
+#EXTINF:-1 ,24/7 A Useless Onmyoji Family
+http://supersonictv.live:25461/903310/034806/79207
+#EXTINF:-1 ,24/7 Avatar The Last Airbender Book 1 Water
+http://supersonictv.live:25461/903310/034806/79208
+#EXTINF:-1 ,24/7 Avatar The Last Airbender Book 2 Earth
+http://supersonictv.live:25461/903310/034806/79209
+#EXTINF:-1 ,24/7 Avatar The Legend of Korra Book 3 Change
+http://supersonictv.live:25461/903310/034806/79213
+#EXTINF:-1 ,24/7 Avatar The Legend of Korra Book 4 Balance
+http://supersonictv.live:25461/903310/034806/79214
+#EXTINF:-1 ,24/7 Awkward
+http://supersonictv.live:25461/903310/034806/79215
+#EXTINF:-1 ,24/7 American Ripper
+http://supersonictv.live:25461/903310/034806/79218
+#EXTINF:-1 ,24/7 Botched
+http://supersonictv.live:25461/903310/034806/79235
+#EXTINF:-1 ,24/7 Boy Band
+http://supersonictv.live:25461/903310/034806/79236
+#EXTINF:-1 ,24/7 Baby Daddy
+http://supersonictv.live:25461/903310/034806/79240
+#EXTINF:-1 ,24/7 Barely Famous
+http://supersonictv.live:25461/903310/034806/79245
+#EXTINF:-1 ,24/7 Bordertown
+http://supersonictv.live:25461/903310/034806/79278
+#EXTINF:-1 ,24/7 Brothers and Sisters
+http://supersonictv.live:25461/903310/034806/79292
+#EXTINF:-1 ,24/7 Brown Nation
+http://supersonictv.live:25461/903310/034806/79293
+#EXTINF:-1 ,24/7 Bubble Guppies
+http://supersonictv.live:25461/903310/034806/79294
+#EXTINF:-1 ,24/7 Bulge Bracket
+http://supersonictv.live:25461/903310/034806/79295
+#EXTINF:-1 ,24/7 Bunheads
+http://supersonictv.live:25461/903310/034806/79296
+#EXTINF:-1 ,24/7 Bunk d
+http://supersonictv.live:25461/903310/034806/79297
+#EXTINF:-1 ,24/7 Burn Notice
+http://supersonictv.live:25461/903310/034806/79298
+#EXTINF:-1 ,24/7 Babies
+http://supersonictv.live:25461/903310/034806/79299
+#EXTINF:-1 ,24/7 Babylon
+http://supersonictv.live:25461/903310/034806/79300
+#EXTINF:-1 ,24/7 Babylon 5
+http://supersonictv.live:25461/903310/034806/79301
+#EXTINF:-1 ,24/7 Babylon Berlin
+http://supersonictv.live:25461/903310/034806/79302
+#EXTINF:-1 ,24/7 Bachelor in Paradise
+http://supersonictv.live:25461/903310/034806/79303
+#EXTINF:-1 ,24/7 Bajillionaires
+http://supersonictv.live:25461/903310/034806/79308
+#EXTINF:-1 ,24/7 Bakeaway Camp With Martha Stewart
+http://supersonictv.live:25461/903310/034806/79309
+#EXTINF:-1 ,24/7 Ballers
+http://supersonictv.live:25461/903310/034806/79310
+#EXTINF:-1 ,24/7 Chance
+http://supersonictv.live:25461/903310/034806/79480
+#EXTINF:-1 ,24/7 Chesapeake Shores
+http://supersonictv.live:25461/903310/034806/79481
+#EXTINF:-1 ,24/7 Childrens Hospital
+http://supersonictv.live:25461/903310/034806/79485
+#EXTINF:-1 ,24/7 Chou Futsuu Toshi Kashiwa Densetsu R
+http://supersonictv.live:25461/903310/034806/79486
+#EXTINF:-1 ,24/7 Cleaners
+http://supersonictv.live:25461/903310/034806/79491
+#EXTINF:-1 ,24/7 Clipped
+http://supersonictv.live:25461/903310/034806/79493
+#EXTINF:-1 ,24/7 Cristela
+http://supersonictv.live:25461/903310/034806/79510
+#EXTINF:-1 ,24/7 Crossing Lines
+http://supersonictv.live:25461/903310/034806/79512
+#EXTINF:-1 ,24/7 Crossing Swords
+http://supersonictv.live:25461/903310/034806/79513
+#EXTINF:-1 ,24/7 CSI
+http://supersonictv.live:25461/903310/034806/79515
+#EXTINF:-1 ,24/7 CSI Miami
+http://supersonictv.live:25461/903310/034806/79516
+#EXTINF:-1 ,24/7 Cuckoo
+http://supersonictv.live:25461/903310/034806/79517
+#EXTINF:-1 ,24/7 Cursed
+http://supersonictv.live:25461/903310/034806/79518
+#EXTINF:-1 ,24/7 Criminal Minds Beyond Borders
+http://supersonictv.live:25461/903310/034806/79530
+#EXTINF:-1 ,24/7 CSI Cyber
+http://supersonictv.live:25461/903310/034806/79531
+#EXTINF:-1 ,24/7 Dads
+http://supersonictv.live:25461/903310/034806/79532
+#EXTINF:-1 ,24/7 Damien
+http://supersonictv.live:25461/903310/034806/79533
+#EXTINF:-1 ,24/7 Danger Force
+http://supersonictv.live:25461/903310/034806/79534
+#EXTINF:-1 ,24/7 Daytime Divas
+http://supersonictv.live:25461/903310/034806/79541
+#EXTINF:-1 ,24/7 Dead Like Me
+http://supersonictv.live:25461/903310/034806/79542
+#EXTINF:-1 ,24/7 Deadwood
+http://supersonictv.live:25461/903310/034806/79543
+#EXTINF:-1 ,24/7 Dear White People
+http://supersonictv.live:25461/903310/034806/79544
+#EXTINF:-1 ,24/7 Deathstroke Knights and Dragons
+http://supersonictv.live:25461/903310/034806/79545
+#EXTINF:-1 ,24/7 Descendants Wicked World
+http://supersonictv.live:25461/903310/034806/79550
+#EXTINF:-1 ,24/7 Dog with a Blog
+http://supersonictv.live:25461/903310/034806/79559
+#EXTINF:-1 ,24/7 Dragons Rider of Berk
+http://supersonictv.live:25461/903310/034806/79565
+#EXTINF:-1 ,24/7 Drop Dead Diva
+http://supersonictv.live:25461/903310/034806/79566
+#EXTINF:-1 ,24/7 Drunk History UK
+http://supersonictv.live:25461/903310/034806/79567
+#EXTINF:-1 ,24/7 Damages
+http://supersonictv.live:25461/903310/034806/79568
+#EXTINF:-1 ,24/7 Daniel Tigers Neighborhood
+http://supersonictv.live:25461/903310/034806/79572
+#EXTINF:-1 ,24/7 Deadliest Catch Bloodline
+http://supersonictv.live:25461/903310/034806/79584
+#EXTINF:-1 ,24/7 Dead of Summer
+http://supersonictv.live:25461/903310/034806/79585
+#EXTINF:-1 ,24/7 Dear
+http://supersonictv.live:25461/903310/034806/79586
+#EXTINF:-1 ,24/7 Death March kara Hajimaru Isekai Kyousoukyoku
+http://supersonictv.live:25461/903310/034806/79587
+#EXTINF:-1 ,24/7 Deca Dence
+http://supersonictv.live:25461/903310/034806/79588
+#EXTINF:-1 ,24/7 Delicious
+http://supersonictv.live:25461/903310/034806/79589
+#EXTINF:-1 ,24/7 Dirk Gently s Holistic Detective Agency
+http://supersonictv.live:25461/903310/034806/79599
+#EXTINF:-1 ,24/7 Doc McStuffins
+http://supersonictv.live:25461/903310/034806/79604
+#EXTINF:-1 ,24/7 Doctor Thorne
+http://supersonictv.live:25461/903310/034806/79605
+#EXTINF:-1 ,24/7 Doctor Who The Power of the Daleks
+http://supersonictv.live:25461/903310/034806/79606
+#EXTINF:-1 ,24/7 Documentary Now
+http://supersonictv.live:25461/903310/034806/79607
+#EXTINF:-1 ,24/7 Dominion
+http://supersonictv.live:25461/903310/034806/79608
+#EXTINF:-1 ,24/7 Don t Trust The Bitch In Apartment 23
+http://supersonictv.live:25461/903310/034806/79609
+#EXTINF:-1 ,24/7 Down to Earth with Zac Efron
+http://supersonictv.live:25461/903310/034806/79612
+#EXTINF:-1 ,24/7 Dragon Ball Z Kai
+http://supersonictv.live:25461/903310/034806/79614
+#EXTINF:-1 ,24/7 Drifters
+http://supersonictv.live:25461/903310/034806/79616
+#EXTINF:-1 ,24/7 Dare Me
+http://supersonictv.live:25461/903310/034806/79624
+#EXTINF:-1 ,24/7 Dave
+http://supersonictv.live:25461/903310/034806/79631
+#EXTINF:-1 ,24/7 DC's Legends of Tomorrow
+http://supersonictv.live:25461/903310/034806/79632
+#EXTINF:-1 ,24/7 Dead Silent
+http://supersonictv.live:25461/903310/034806/79635
+#EXTINF:-1 ,24/7 Deadliest Catch
+http://supersonictv.live:25461/903310/034806/79638
+#EXTINF:-1 ,24/7 Deadly Class
+http://supersonictv.live:25461/903310/034806/79639
+#EXTINF:-1 ,24/7 Deadwater Fell
+http://supersonictv.live:25461/903310/034806/79640
+#EXTINF:-1 ,24/7 Every Witch Way
+http://supersonictv.live:25461/903310/034806/79740
+#EXTINF:-1 ,24/7 Eve Uk
+http://supersonictv.live:25461/903310/034806/79741
+#EXTINF:-1 ,24/7 Eyewitness
+http://supersonictv.live:25461/903310/034806/79742
+#EXTINF:-1 ,24/7 Extant
+http://supersonictv.live:25461/903310/034806/79743
+#EXTINF:-1 ,24/7 Falling Skies
+http://supersonictv.live:25461/903310/034806/79744
+#EXTINF:-1 ,24/7 Famous in Love
+http://supersonictv.live:25461/903310/034806/79745
+#EXTINF:-1 ,24/7 Fanboy and Chum Chum
+http://supersonictv.live:25461/903310/034806/79746
+#EXTINF:-1 ,24/7 Fantastic Four Worlds Greatest Heroes
+http://supersonictv.live:25461/903310/034806/79747
+#EXTINF:-1 ,24/7 From Dusk Till Dawn
+http://supersonictv.live:25461/903310/034806/79763
+#EXTINF:-1 ,24/7 Fungus the Bogeyman
+http://supersonictv.live:25461/903310/034806/79764
+#EXTINF:-1 ,24/7 Faking It
+http://supersonictv.live:25461/903310/034806/79765
+#EXTINF:-1 ,24/7 Famously Single
+http://supersonictv.live:25461/903310/034806/79766
+#EXTINF:-1 ,24/7 Fantastic
+http://supersonictv.live:25461/903310/034806/79767
+#EXTINF:-1 ,24/7 Father Ill Take Care of You
+http://supersonictv.live:25461/903310/034806/79768
+#EXTINF:-1 ,24/7 Feed the Beast
+http://supersonictv.live:25461/903310/034806/79769
+#EXTINF:-1 ,24/7 Five Children
+http://supersonictv.live:25461/903310/034806/79770
+#EXTINF:-1 ,24/7 Franklin and Bash
+http://supersonictv.live:25461/903310/034806/79774
+#EXTINF:-1 ,24/7 Freakish
+http://supersonictv.live:25461/903310/034806/79775
+#EXTINF:-1 ,24/7 Frequency
+http://supersonictv.live:25461/903310/034806/79776
+#EXTINF:-1 ,24/7 Friday Night Lights
+http://supersonictv.live:25461/903310/034806/79777
+#EXTINF:-1 ,24/7 Family Guy
+http://supersonictv.live:25461/903310/034806/79791
+#EXTINF:-1 ,24/7 Farscape
+http://supersonictv.live:25461/903310/034806/79795
+#EXTINF:-1 ,24/7 Fast N Loud
+http://supersonictv.live:25461/903310/034806/79796
+#EXTINF:-1 ,24/7 or Is Lava
+http://supersonictv.live:25461/903310/034806/79820
+#EXTINF:-1 ,24/7 ribama Shore
+http://supersonictv.live:25461/903310/034806/79821
+#EXTINF:-1 ,24/7 For The People
+http://supersonictv.live:25461/903310/034806/79825
+#EXTINF:-1 ,24/7 Get Even
+http://supersonictv.live:25461/903310/034806/79860
+#EXTINF:-1 ,24/7 Ghost Adventures
+http://supersonictv.live:25461/903310/034806/79861
+#EXTINF:-1 ,24/7 Ghosts
+http://supersonictv.live:25461/903310/034806/79867
+#EXTINF:-1 ,24/7 Gordon Ramsay's 24 Hours to Hell and Back
+http://supersonictv.live:25461/903310/034806/79890
+#EXTINF:-1 ,24/7 Greenleaf
+http://supersonictv.live:25461/903310/034806/79901
+#EXTINF:-1 ,24/7 Growing Up Hip Hop
+http://supersonictv.live:25461/903310/034806/79905
+#EXTINF:-1 ,24/7 Heartbeat
+http://supersonictv.live:25461/903310/034806/79988
+#EXTINF:-1 ,24/7 Helix
+http://supersonictv.live:25461/903310/034806/79989
+#EXTINF:-1 ,24/7 Hellcats
+http://supersonictv.live:25461/903310/034806/79990
+#EXTINF:-1 ,24/7 History of the Eagles
+http://supersonictv.live:25461/903310/034806/79999
+#EXTINF:-1 ,24/7 Holby City
+http://supersonictv.live:25461/903310/034806/80002
+#EXTINF:-1 ,24/7 Holby City 2
+http://supersonictv.live:25461/903310/034806/80003
+#EXTINF:-1 ,24/7 Hostages
+http://supersonictv.live:25461/903310/034806/80008
+#EXTINF:-1 ,24/7 Hot in Cleveland
+http://supersonictv.live:25461/903310/034806/80009
+#EXTINF:-1 ,24/7 How the Victorians Built Britain
+http://supersonictv.live:25461/903310/034806/80076
+#EXTINF:-1 ,24/7 How to Fix a Drug Scandal
+http://supersonictv.live:25461/903310/034806/80077
+#EXTINF:-1 ,24/7 Humans
+http://supersonictv.live:25461/903310/034806/80084
+#EXTINF:-1 ,24/7 Hunted
+http://supersonictv.live:25461/903310/034806/80085
+#EXTINF:-1 ,24/7 Hunters
+http://supersonictv.live:25461/903310/034806/80086
+#EXTINF:-1 ,24/7 I Am Frankie
+http://supersonictv.live:25461/903310/034806/80087
+#EXTINF:-1 ,24/7 I Am the Night
+http://supersonictv.live:25461/903310/034806/80091
+#EXTINF:-1 ,24/7 I Know This Much Is True
+http://supersonictv.live:25461/903310/034806/80092
+#EXTINF:-1 ,24/7 I Love Us
+http://supersonictv.live:25461/903310/034806/80093
+#EXTINF:-1 ,24/7 Valeria
+http://supersonictv.live:25461/903310/034806/81789
+#EXTINF:-1 ,24/7 What If
+http://supersonictv.live:25461/903310/034806/81830
+#EXTINF:-1 ,24/7 What We Do in the Shadows
+http://supersonictv.live:25461/903310/034806/81831
+#EXTINF:-1 ,24/7 What's My Name | Muhammad Ali
+http://supersonictv.live:25461/903310/034806/81832
+#EXTINF:-1 ,24/7 When Calls the Heart
+http://supersonictv.live:25461/903310/034806/81833
+#EXTINF:-1 ,24/7 When Calls the Heart
+http://supersonictv.live:25461/903310/034806/81834
+#EXTINF:-1 ,24/7 Whiskey Cavalier
+http://supersonictv.live:25461/903310/034806/81837
+#EXTINF:-1 ,24/7 Who Is America?
+http://supersonictv.live:25461/903310/034806/81841
+#EXTINF:-1 ,24/7 Wild Wild East
+http://supersonictv.live:25461/903310/034806/81848
+#EXTINF:-1 ,24/7 World of Dance
+http://supersonictv.live:25461/903310/034806/81855
+#EXTINF:-1 ,USA Music Choice Video | R&B
+http://supersonictv.live:25461/903310/034806/13732
+#EXTINF:-1 ,USA Music Choice Video | Brits + Hits
+http://supersonictv.live:25461/903310/034806/13737
+#EXTINF:-1 ,USA Music Choice Video | Kidz Bop
+http://supersonictv.live:25461/903310/034806/13748
+#EXTINF:-1 ,USA Music Choice Video | Toddler Tunes
+http://supersonictv.live:25461/903310/034806/13749
+#EXTINF:-1 ,USA MTV 2
+http://supersonictv.live:25461/903310/034806/13750
+#EXTINF:-1 ,UK MTV Music
+http://supersonictv.live:25461/903310/034806/13760
+#EXTINF:-1 ,Telemundo (East)
+http://supersonictv.live:25461/903310/034806/10548
+#EXTINF:-1 ,NBC Telemundo
+http://supersonictv.live:25461/903310/034806/10550
+#EXTINF:-1 ,Univision West
+http://supersonictv.live:25461/903310/034806/10585
+#EXTINF:-1 ,Univision 19 (KUVS) Sacramento
+http://supersonictv.live:25461/903310/034806/10586
+#EXTINF:-1 ,CA Treehouse
+http://supersonictv.live:25461/903310/034806/22007
+#EXTINF:-1 ,CA TSC
+http://supersonictv.live:25461/903310/034806/22008
+#EXTINF:-1 ,CA TV Ontario
+http://supersonictv.live:25461/903310/034806/22009
+#EXTINF:-1 ,CA TV Rogers
+http://supersonictv.live:25461/903310/034806/22010
+#EXTINF:-1 ,CA TV5 (FR)
+http://supersonictv.live:25461/903310/034806/22011
+#EXTINF:-1 ,CA TV5 Quebec (FR)
+http://supersonictv.live:25461/903310/034806/22012
+#EXTINF:-1 ,CA TVA  Sports
+http://supersonictv.live:25461/903310/034806/22013
+#EXTINF:-1 ,CA TVA Montreal (CFTM)
+http://supersonictv.live:25461/903310/034806/22014
+#EXTINF:-1 ,UK Fox News HD
+http://supersonictv.live:25461/903310/034806/12243
+#EXTINF:-1 ,UK History 2
+http://supersonictv.live:25461/903310/034806/12248
+#EXTINF:-1 ,UK History HD
+http://supersonictv.live:25461/903310/034806/12249
+#EXTINF:-1 ,UK RTE 1 HD
+http://supersonictv.live:25461/903310/034806/12281
+#EXTINF:-1 ,UK RTE 2 HD
+http://supersonictv.live:25461/903310/034806/12282
+#EXTINF:-1 ,UK RTE 2
+http://supersonictv.live:25461/903310/034806/12286
+#EXTINF:-1 ,|AFR CAMAROON| AFRICA NEWS***
+http://supersonictv.live:25461/903310/034806/77754
+#EXTINF:-1 ,|AFR MUSIC| TRACE AFRICA
+http://supersonictv.live:25461/903310/034806/77851
+#EXTINF:-1 ,|AFR MUSIC| TRACE AFRICA*
+http://supersonictv.live:25461/903310/034806/77852
+#EXTINF:-1 ,|AFR MUSIC| TRACE MIZKI*
+http://supersonictv.live:25461/903310/034806/77857
+#EXTINF:-1 ,RO | Megamax
+http://supersonictv.live:25461/903310/034806/78039
+#EXTINF:-1 ,RO | Minimax
+http://supersonictv.live:25461/903310/034806/78040
+#EXTINF:-1 ,RO | MTV
+http://supersonictv.live:25461/903310/034806/78041
+#EXTINF:-1 ,RO | MTV Dance
+http://supersonictv.live:25461/903310/034806/78042
+#EXTINF:-1 ,RO | MTV Hits
+http://supersonictv.live:25461/903310/034806/78043
+#EXTINF:-1 ,RO | PRO Cinema
+http://supersonictv.live:25461/903310/034806/78054
+#EXTINF:-1 ,RO | PRO TV
+http://supersonictv.live:25461/903310/034806/78055
+#EXTINF:-1 ,RO | Pro TV FHD
+http://supersonictv.live:25461/903310/034806/78056
+#EXTINF:-1 ,RO | Realitatea TV
+http://supersonictv.live:25461/903310/034806/78057
+#EXTINF:-1 ,RO | ROmania TV
+http://supersonictv.live:25461/903310/034806/78058
+#EXTINF:-1 ,RO | Sport
+http://supersonictv.live:25461/903310/034806/78059
+#EXTINF:-1 ,RO | Telekom 3
+http://supersonictv.live:25461/903310/034806/78066
+#EXTINF:-1 ,RO | Travel
+http://supersonictv.live:25461/903310/034806/78070
+#EXTINF:-1 ,RO | Travel Mix
+http://supersonictv.live:25461/903310/034806/78071
+#EXTINF:-1 ,RO | TV Paprika
+http://supersonictv.live:25461/903310/034806/78072
+#EXTINF:-1 ,RO | TV1000
+http://supersonictv.live:25461/903310/034806/78073
+#EXTINF:-1 ,RO | TVR
+http://supersonictv.live:25461/903310/034806/78074
+#EXTINF:-1 ,RO | Viasat History
+http://supersonictv.live:25461/903310/034806/78082
+#EXTINF:-1 ,RO | Viasat Nature
+http://supersonictv.live:25461/903310/034806/78083
+#EXTINF:-1 ,RO | ZU TV
+http://supersonictv.live:25461/903310/034806/78084
+#EXTINF:-1 ,ES | Antena 3 SD
+http://supersonictv.live:25461/903310/034806/78595
+#EXTINF:-1 ,ES | Antena 3 HD
+http://supersonictv.live:25461/903310/034806/78596
+#EXTINF:-1 ,ES | Fox life FHD
+http://supersonictv.live:25461/903310/034806/78779
+#EXTINF:-1 ,ES | Axn SD
+http://supersonictv.live:25461/903310/034806/78780
+#EXTINF:-1 ,ES | Tnt FHD
+http://supersonictv.live:25461/903310/034806/78788
+#EXTINF:-1 ,ES | Calle 13 SD
+http://supersonictv.live:25461/903310/034806/78789
+#EXTINF:-1 ,ES | Movistar Comedia HD
+http://supersonictv.live:25461/903310/034806/78803
+#EXTINF:-1 ,ES | Movistar Comedia FHD
+http://supersonictv.live:25461/903310/034806/78804
+#EXTINF:-1 ,ES | Movistar Accion FHD
+http://supersonictv.live:25461/903310/034806/78812
+#EXTINF:-1 ,ES | Hollywood SD
+http://supersonictv.live:25461/903310/034806/78819
+#EXTINF:-1 ,IND_& Flix HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/335
+#EXTINF:-1 ,IND_& Pictures HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/7
+#EXTINF:-1 ,IND_& privé HD(eng)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/8
+#EXTINF:-1 ,IND_& TV (UK)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/325
+#EXTINF:-1 ,IND_& TV FHD (IND)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1008
+#EXTINF:-1 ,IND_& Xplor HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/336
+#EXTINF:-1 ,IND_1st India (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/25
+#EXTINF:-1 ,IND_9X Jalwa HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1033
+#EXTINF:-1 ,IND_9XM (Music)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/12
+#EXTINF:-1 ,IND_Aaj Tak HD (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/11
+#EXTINF:-1 ,IND_Aastha Bhajan HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/609
+#EXTINF:-1 ,IND_ABAYE_DHAHDAK (lk)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/933
+#EXTINF:-1 ,IND_ABP_News_India FHD (IND)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/9
+#EXTINF:-1 ,IND_Animal_Planet_Hindi_HD (4K+)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/55
+#EXTINF:-1 ,IND_Arihant TV HD (Spirtual)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/643
+#EXTINF:-1 ,IND_Awakening HD (Spirtual)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/891
+#EXTINF:-1 ,IND_B4u  Alfam HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/14
+#EXTINF:-1 ,IND_B4U Movies (IND)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/39
+#EXTINF:-1 ,IND_B4U Movies (uk)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/721
+#EXTINF:-1 ,IND_B4U Music HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/19
+#EXTINF:-1 ,IND_B4u-kadak HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/13
+#EXTINF:-1 ,IND_Bhagti Sagar (Spirtual)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/365
+#EXTINF:-1 ,IND_Care World (Health)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/364
+#EXTINF:-1 ,IND_CNBC Awaaz (News) HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/15
+#EXTINF:-1 ,IND_CNBC_Tv_18 (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/53
+#EXTINF:-1 ,IND_COLOR CINEPLEX HD (JIO)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/572
+#EXTINF:-1 ,IND_Colors FHD (IN) -VIP (jio)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/218
+#EXTINF:-1 ,IND_Colors infinity India HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1150
+#EXTINF:-1 ,IND_COLORS Rishtey (UK)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/864
+#EXTINF:-1 ,IND_Colors SD  (UK)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/211
+#EXTINF:-1 ,IND_THE Q HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1133
+#EXTINF:-1 ,IND_DD India HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/21
+#EXTINF:-1 ,IND_DD KASHIR HD(lk)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1037
+#EXTINF:-1 ,IND_DD Kisan
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/20
+#EXTINF:-1 ,IND_DD National HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/75
+#EXTINF:-1 ,IND_DD News (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/18
+#EXTINF:-1 ,IND_DD Uttar Pradesh HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/17
+#EXTINF:-1 ,IND_ Discovery Science Hindi (jio)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/950
+#EXTINF:-1 ,IND_Discovery_Turbo(JIO)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1029
+#EXTINF:-1 ,IND_divya (Spirtual)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/347
+#EXTINF:-1 ,IND_E24 HD(lk)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/339
+#EXTINF:-1 ,IND_ET NOW (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/255
+#EXTINF:-1 ,IND_Food Food HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/3
+#EXTINF:-1 ,IND_Hare Krsna (Spirtual)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1130
+#EXTINF:-1 ,IND_Hungama_Dil Se HD (Miusc)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1157
+#EXTINF:-1 ,IND_Hungama_POP_Pataka_HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1159
+#EXTINF:-1 ,IND_ILOVE (Music)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/78
+#EXTINF:-1 ,IND_India News Haryana (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/30
+#EXTINF:-1 ,IND_India Today (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/26
+#EXTINF:-1 ,IND_Joo Music HD (Music)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1156
+#EXTINF:-1 ,IND_JUS_HINDI HD (Jio)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1161
+#EXTINF:-1 ,IND_Lok Sabha *News*
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/216
+#EXTINF:-1 ,IND_Maha Movies
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/246
+#EXTINF:-1 ,IND_ManoranjanMovies
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/340
+#EXTINF:-1 ,IND_Masti HD (Music)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/248
+#EXTINF:-1 ,IND_Mirror Now (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/623
+#EXTINF:-1 ,IND_MTV_Beats HD (jio)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/861
+#EXTINF:-1 ,IND_MUSIC INDIA (Music)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/57
+#EXTINF:-1 ,IND_NAT GEO WILD HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1114
+#EXTINF:-1 ,IND_NDTV Profit (news)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/36
+#EXTINF:-1 ,IND_Oscar Movies HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/627
+#EXTINF:-1 ,IND_Peace Of Mind TV (Spirtual)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/349
+#EXTINF:-1 ,IND_Rajya Sabha TV(News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1016
+#EXTINF:-1 ,IND_Republic Bharat (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/42
+#EXTINF:-1 ,IND_Republic TV HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/43
+#EXTINF:-1 ,IND_Rishtey Cineplex (UK)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/414
+#EXTINF:-1 ,IND_Sahara Filmy(lk)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/573
+#EXTINF:-1 ,IND_Sanskar TV (Spirtual)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/337
+#EXTINF:-1 ,ind_Satsang TV (Spirtual)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/348
+#EXTINF:-1 ,IND_Show Box HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/4
+#EXTINF:-1 ,IND_Sony BBC Earth Hindi FHD (jio)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/652
+#EXTINF:-1 ,IND_Sony Entertainment  HD (IN)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/471
+#EXTINF:-1 ,IND_SONY Entertainment sd (UK)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/49
+#EXTINF:-1 ,IND_Sony Max 2 (UK)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/965
+#EXTINF:-1 ,IND_Sony Max HD (IND)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/225
+#EXTINF:-1 ,IND_Sony Pal HD (Jio)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/557
+#EXTINF:-1 ,IND_Sony Saab FHD (IN) -VIP
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/224
+#EXTINF:-1 ,IND_Sony SAB (UK)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/50
+#EXTINF:-1 ,IND_SONY Waha HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1102
+#EXTINF:-1 ,IND_Sony_Pix_HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/46
+#EXTINF:-1 ,IND_Sony_SIX_HD(sl)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/62
+#EXTINF:-1 ,IND_Sony_Ten_1_HD (VIP)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/59
+#EXTINF:-1 ,IND_sony_Ten_2_HD(vip)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/60
+#EXTINF:-1 ,IND_Sony_Ten_3 HD (JIO)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/61
+#EXTINF:-1 ,IND_Star Bharat (UK)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/215
+#EXTINF:-1 ,IND_Star Bharat HD (4K)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/45
+#EXTINF:-1 ,IND_Star Bhart FHD (IND) VIP
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/651
+#EXTINF:-1 ,IND_Star Gold FHD (IN)  Local
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/516
+#EXTINF:-1 ,IND_UTSAV Gold FHD (UK)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/698
+#EXTINF:-1 ,IND_Star Gold SD  (uk)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/297
+#EXTINF:-1 ,IND_STAR GOLD SELECT HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/515
+#EXTINF:-1 ,IND_Star Sports 2 HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/220
+#EXTINF:-1 ,IND_Star Sports 3 HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/221
+#EXTINF:-1 ,IND_Suraya_cinema HD(chahcha)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/453
+#EXTINF:-1 ,IND_Ten Sports
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/223
+#EXTINF:-1 ,IND_TEZ News (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/27
+#EXTINF:-1 ,IND_THE Q HD TV
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/946
+#EXTINF:-1 ,IND_TLC_Hindi HD (JIO)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/58
+#EXTINF:-1 ,IND_TV9 Bharatvarsh (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1067
+#EXTINF:-1 ,IND_UTV HD (Movies)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/626
+#EXTINF:-1 ,IND_Vedic HD (Spirtual)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/644
+#EXTINF:-1 ,IND_Willow HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/222
+#EXTINF:-1 ,IND_Wion TV(News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/64
+#EXTINF:-1 ,IND_Wow Cinema HD(lk)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/860
+#EXTINF:-1 ,IND_Zee Action HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/85
+#EXTINF:-1 ,IND_Zee Anmol Cinema HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/84
+#EXTINF:-1 ,IND_Zee Anmol HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/83
+#EXTINF:-1 ,IND_ZEE Bollywood HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/276
+#EXTINF:-1 ,IND_Zee Business (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/81
+#EXTINF:-1 ,IND_Zee Cafe HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/273
+#EXTINF:-1 ,IND_ZEE CINEMA (USA)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/80
+#EXTINF:-1 ,IND_Zee Cinema HD (UK-TIME)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/79
+#EXTINF:-1 ,IND_ZEE Cinema SD (IND)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/693
+#EXTINF:-1 ,IND_ZEE Classic HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/695
+#EXTINF:-1 ,IND_Zee Hindustan
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/73
+#EXTINF:-1 ,IND_ZEE living usa
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/87
+#EXTINF:-1 ,IND_Zee MP (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/76
+#EXTINF:-1 ,IND_Zee News (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/74
+#EXTINF:-1 ,IND_Zee Rajasthan HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/72
+#EXTINF:-1 ,IND_Zee Theatre HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/86
+#EXTINF:-1 ,IND_Zee TV (UK)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/69
+#EXTINF:-1 ,IND_ZEE TV APAC
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/71
+#EXTINF:-1 ,IND_ZEE TV HD (Canada)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/278
+#EXTINF:-1 ,IND_Zee TV HD (IND)/VIP
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/68
+#EXTINF:-1 ,IND_ZEE TV HD (USA)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/67
+#EXTINF:-1 ,IND_zee5 romance (music)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/23
+#EXTINF:-1 ,IND_Zing (Music)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/66
+#EXTINF:-1 ,ind_Zing HD (Usa)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/279
+#EXTINF:-1 ,IND_Zoom (Music)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/65
+#EXTINF:-1 ,IN_OM Shanti TV (Spirtual)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1010
+#EXTINF:-1 ,Test Derect
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1005
+#EXTINF:-1 ,IND_Vedant TV (Spirtual)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/454
+#EXTINF:-1 ,PB_5AAB TV
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/196
+#EXTINF:-1 ,PB_5aabmusic
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/171
+#EXTINF:-1 ,PB_5aabTV kabaddi
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/135
+#EXTINF:-1 ,PB_ABP Sanjha HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/161
+#EXTINF:-1 ,PB_Akaal Channel (UK)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/200
+#EXTINF:-1 ,PB_Alph etc Punjabi(usa)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/133
+#EXTINF:-1 ,PB_AONE Punjabi HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/186
+#EXTINF:-1 ,PB_apnapunjab TV HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/144
+#EXTINF:-1 ,PB_Ptunes Hd *Music*
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/360
+#EXTINF:-1 ,PB_Brit Asia HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/206
+#EXTINF:-1 ,PB_Chanenl Y
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/207
+#EXTINF:-1 ,PB_Channel Punjab HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/151
+#EXTINF:-1 ,PB_CHARDIKLA TIME TV
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/179
+#EXTINF:-1 ,PB_CINE VOICE HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/203
+#EXTINF:-1 ,PB_DD Punjabi
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/169
+#EXTINF:-1 ,PB_DESI CHANNEL HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/174
+#EXTINF:-1 ,PB_Dil Apna Punjabi
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/344
+#EXTINF:-1 ,PB_FASTWAY NEWS
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/183
+#EXTINF:-1 ,PB_Fastway TV
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/210
+#EXTINF:-1 ,PB_Garv Gurban HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/452
+#EXTINF:-1 ,PB_GLOBAL Punjab HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/157
+#EXTINF:-1 ,PB_GURBANI HEALING
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/202
+#EXTINF:-1 ,PB_Hamdard Laugther HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/363
+#EXTINF:-1 ,PB_HULCHUL TV
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/193
+#EXTINF:-1 ,PB_JHANJAR MUSIC HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/191
+#EXTINF:-1 ,PB_Punjab National HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/455
+#EXTINF:-1 ,PB_Khalistan TV HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/156
+#EXTINF:-1 ,PB_Sikhi TV HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/176
+#EXTINF:-1 ,PB_Ratwara Sahib
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/447
+#EXTINF:-1 ,PB_living india news HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/489
+#EXTINF:-1 ,PB_Mhone music HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/154
+#EXTINF:-1 ,PB_mhone-news
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/155
+#EXTINF:-1 ,PB_7X Music HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/182
+#EXTINF:-1 ,PB_Boogle Bollywood
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/251
+#EXTINF:-1 ,PB_PARDES TV HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/170
+#EXTINF:-1 ,PB_Prime Asia HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/132
+#EXTINF:-1 ,PB_PRIME CANADA TV
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/181
+#EXTINF:-1 ,PB_PTC CHAKDE
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/198
+#EXTINF:-1 ,PB_PTC MUSIC HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/188
+#EXTINF:-1 ,PB_PTC NEWS
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/197
+#EXTINF:-1 ,PB_PTC SIMRAN HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/187
+#EXTINF:-1 ,PB_PTC_Punjabi (UK)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/381
+#EXTINF:-1 ,PB_PTC_Punjabi IND
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/167
+#EXTINF:-1 ,PB_PTV Pardesi
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/205
+#EXTINF:-1 ,PB_Punjabi Junction HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/450
+#EXTINF:-1 ,PB_Punjabi Star Canada
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/361
+#EXTINF:-1 ,PB_Safar TV
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/150
+#EXTINF:-1 ,PB_PUNJABI ZINDABAAD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/209
+#EXTINF:-1 ,PB_Raunak Punjab Dee
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/148
+#EXTINF:-1 ,PB_SADA TV HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/185
+#EXTINF:-1 ,PB_saint_tv
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/362
+#EXTINF:-1 ,PB_SARDARI TV
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/178
+#EXTINF:-1 ,PB_Sikh Channel (UK)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/213
+#EXTINF:-1 ,PB_Ek Onkar HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/147
+#EXTINF:-1 ,PB_TANGY PUNJABI TV
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/192
+#EXTINF:-1 ,PB_Garv Plunajbi HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/143
+#EXTINF:-1 ,PB_Vision Punjab Gurbani
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/142
+#EXTINF:-1 ,PB_Vision Punjab Music
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/140
+#EXTINF:-1 ,PB_Vision Punjab TV
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/141
+#EXTINF:-1 ,PB_Namdhari TV
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/139
+#EXTINF:-1 ,PB_Zee Punjab HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/456
+#EXTINF:-1 ,PB_Zee Punjabi News
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/138
+#EXTINF:-1 ,PB_PTC_Punjabi_Gold HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/190
+#EXTINF:-1 ,PB_Sangat Tv (UK)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/624
+#EXTINF:-1 ,IND_India News Punjabi
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/650
+#EXTINF:-1 ,PB_Steelbird Music HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/696
+#EXTINF:-1 ,PB_Khalsa TV HD (UK)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/716
+#EXTINF:-1 ,PB_jigsa tv HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/850
+#EXTINF:-1 ,PB_Sikhi Lehar TV(MY)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1021
+#EXTINF:-1 ,PB_9X Tashan HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1034
+#EXTINF:-1 ,PB_Sounds of ZEE5 - Punjabi Beats
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1090
+#EXTINF:-1 ,PB_GURBANI TV HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1092
+#EXTINF:-1 ,PB_TV PUNJAB HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1129
+#EXTINF:-1 ,PB_World Punjabi HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1137
+#EXTINF:-1 ,PB_JUS_ONE_HD (JIO)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1162
+#EXTINF:-1 ,PB_JUS_PUNJABI_HD (JIO)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1163
+#EXTINF:-1 ,GuJ_Zee 24 Kalak HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/227
+#EXTINF:-1 ,GUJ_SANSKAR TV HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/228
+#EXTINF:-1 ,GUJ_CNBC Bajar GUJRATI HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/232
+#EXTINF:-1 ,Guj_DD_Girnar HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/233
+#EXTINF:-1 ,Guj_GS_TV HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/234
+#EXTINF:-1 ,GUJ_KALYAN TV HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/241
+#EXTINF:-1 ,GUJ_India News Gujrat(lk)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/245
+#EXTINF:-1 ,GUJ_Mantavya News Gujrat
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/247
+#EXTINF:-1 ,Guj_Colors Gujarati (JIO)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/408
+#EXTINF:-1 ,GUJ:SOMNATH
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/513
+#EXTINF:-1 ,Guj_mitra HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/544
+#EXTINF:-1 ,Guj_Garv Swaminaryan HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/853
+#EXTINF:-1 ,Simiptv_Japji Sahib Katha (SSDHUNDA)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1020
+#EXTINF:-1 ,Simiptv_Gaane Sune Ansune (Music)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/40
+#EXTINF:-1 ,Simiptv_Bollywood Classics HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/41
+#EXTINF:-1 ,Marathi_Sony Marathi HD (jio)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/257
+#EXTINF:-1 ,Marathi_BBC Marthi-(jio)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/258
+#EXTINF:-1 ,Marathi_9x Jhakaas  HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/259
+#EXTINF:-1 ,Marathi_ABP Majha
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/260
+#EXTINF:-1 ,Marathi_Fakt marathi
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/262
+#EXTINF:-1 ,Marathi_Sangeet Marathi(lk)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/266
+#EXTINF:-1 ,Marathi_SAAM Marathi HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/267
+#EXTINF:-1 ,Marathi_Zee Yuva.HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/268
+#EXTINF:-1 ,Marathi_Zee Marathi HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/270
+#EXTINF:-1 ,Marathi_Zee  24 Taas
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/271
+#EXTINF:-1 ,IND_ZEE Marathi (usa)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/277
+#EXTINF:-1 ,Marathi _Zee Talkies HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/546
+#EXTINF:-1 ,Marathi_Zee Talkies HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/269
+#EXTINF:-1 ,Marathi_Colors_Marathi_FHD (VIP)-Jio
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/594
+#EXTINF:-1 ,Marathi_sugran-tv HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1023
+#EXTINF:-1 ,PK_8xm HD (mj)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/654
+#EXTINF:-1 ,PK_92 News FHD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/666
+#EXTINF:-1 ,PK_ARY DIGITAL
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/670
+#EXTINF:-1 ,PK_Ary World
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/669
+#EXTINF:-1 ,PK_ARY ZINDAGI HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/629
+#EXTINF:-1 ,PK_BOL News FHD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/655
+#EXTINF:-1 ,PK_CAPITAL TV
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/674
+#EXTINF:-1 ,PK_City 41 HD (mj)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/682
+#EXTINF:-1 ,PK_City 42 HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/664
+#EXTINF:-1 ,PK_Express News HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/667
+#EXTINF:-1 ,PK_GEO ENTERTAINMENT HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/659
+#EXTINF:-1 ,PK_GEO KAHANI
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/660
+#EXTINF:-1 ,PK_Geo Super(Sport)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/661
+#EXTINF:-1 ,PK_Hum Europe (uk)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/653
+#EXTINF:-1 ,PK_Hum Masala HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/673
+#EXTINF:-1 ,PK_HUM NEWS FHD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/665
+#EXTINF:-1 ,PK_HUM SITARY
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/328
+#EXTINF:-1 ,PK_qaim TV Muslim
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/329
+#EXTINF:-1 ,PK_Kay2 (multi-lingual)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/680
+#EXTINF:-1 ,PK_Lahore News HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/668
+#EXTINF:-1 ,PK_Madina Live
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/331
+#EXTINF:-1 ,PK_Metro 1 News HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/677
+#EXTINF:-1 ,PK_News 24 HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/662
+#EXTINF:-1 ,PK_Samma News HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/658
+#EXTINF:-1 ,PK_SUCH News TV HD (mj)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/663
+#EXTINF:-1 ,PK_VENUS (UK)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/330
+#EXTINF:-1 ,PK_Waseeb TV
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/332
+#EXTINF:-1 ,PK_islamchannel HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/713
+#EXTINF:-1 ,PK_HUM PASHTOO 1 HD(mj)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/731
+#EXTINF:-1 ,PK_EXPRESS ENTERTAINMENT
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/767
+#EXTINF:-1 ,PK_Urdu 1 HD (MJ)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/768
+#EXTINF:-1 ,PK_PTV World HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/805
+#EXTINF:-1 ,PK_PTV NEWS HD *local*
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/806
+#EXTINF:-1 ,PK_PTV HOME HD (Local)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/807
+#EXTINF:-1 ,PK_Kasish TV HD (mj)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/809
+#EXTINF:-1 ,PK_Z9TV Digital Canda HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/884
+#EXTINF:-1 ,PK_Abb Tak News(mj)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1004
+#EXTINF:-1 ,PK_Ary News HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1089
+#EXTINF:-1 ,PK_SAMAA NEWS UK
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1160
+#EXTINF:-1 ,Tamil_AASTHA Tamil HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/647
+#EXTINF:-1 ,Tamil_Angel Tv HD (Europe)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/372
+#EXTINF:-1 ,Tamil_Angel Tv HD (IN)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/371
+#EXTINF:-1 ,Tamil_Colors Tamil HD (jio)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/412
+#EXTINF:-1 ,Tamil_DD Podhigai
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/354
+#EXTINF:-1 ,Tamil_ETV Bharat Keralam
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/386
+#EXTINF:-1 ,Tamil_Tune6 HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/398
+#EXTINF:-1 ,Tamil_ibc canada HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/401
+#EXTINF:-1 ,Tamil_IBC canada HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/356
+#EXTINF:-1 ,Tamil_Ibc Music HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/402
+#EXTINF:-1 ,Tamil_IBC Tamil HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/357
+#EXTINF:-1 ,Tamil_Jaya TV
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/409
+#EXTINF:-1 ,Tamil_Jaya_Max HD(JIO)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1148
+#EXTINF:-1 ,Tamil_Jaya_Plus HD(jio)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1147
+#EXTINF:-1 ,Tamil_KTV  FHD (usa)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/610
+#EXTINF:-1 ,Tamil_KTV FHD (IND)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/611
+#EXTINF:-1 ,Tamil_Makkal TV HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/351
+#EXTINF:-1 ,Tamil_News 18 Tamil Nadu HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/378
+#EXTINF:-1 ,Tamil_ polimer tv HD (jio)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1124
+#EXTINF:-1 ,Tamil_ Puthuyugam TV
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/353
+#EXTINF:-1 ,Tamil_Raj Digital Plush (jio)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1126
+#EXTINF:-1 ,Tamil_Raj TV (Airtal)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1125
+#EXTINF:-1 ,Tamil_Sigaram TV
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/395
+#EXTINF:-1 ,Tamil_Sun Life HD (IND)*
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/738
+#EXTINF:-1 ,Tamil_Sun Life HD (usa)*
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/591
+#EXTINF:-1 ,Tamil_Sun Music HD VIP (usa)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/589
+#EXTINF:-1 ,Tamil_Sun TV HD (UK)*
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/631
+#EXTINF:-1 ,Tamil_Sun TV HD (usa)*
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/384
+#EXTINF:-1 ,Tamil_Tamilvision HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/380
+#EXTINF:-1 ,Tamil_Vendhar TV HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1017
+#EXTINF:-1 ,Tamil_ Zee Tamil HD (Usa)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/368
+#EXTINF:-1 ,Tamil_Zee Thirai HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1153
+#EXTINF:-1 ,5USA HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/481
+#EXTINF:-1 ,BBC AME HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/679
+#EXTINF:-1 ,Bravo (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/489
+#EXTINF:-1 ,CBSNY
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/498
+#EXTINF:-1 ,CBSNEWYORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/497
+#EXTINF:-1 ,CBSMIAMI
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/496
+#EXTINF:-1 ,CBSPENN
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/499
+#EXTINF:-1 ,CBSSN
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/500
+#EXTINF:-1 ,CNBC HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/501
+#EXTINF:-1 ,CNBC US
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/502
+#EXTINF:-1 ,DISTRITO COMEDIA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/691
+#EXTINF:-1 ,E! Entertaiment USA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/516
+#EXTINF:-1 ,ESPN1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520
+#EXTINF:-1 ,FREEFORM
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/548
+#EXTINF:-1 ,FX
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/708
+#EXTINF:-1 ,HGTV (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/564
+#EXTINF:-1 ,History HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/565
+#EXTINF:-1 ,Lifetime HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/567
+#EXTINF:-1 ,MSNBC HD ENG
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/596
+#EXTINF:-1 ,NATGEO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/597
+#EXTINF:-1 ,NBA HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600
+#EXTINF:-1 ,NBC NEW YORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/601
+#EXTINF:-1 ,NBCSN  HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/606
+#EXTINF:-1 ,NFL NETWORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/616
+#EXTINF:-1 ,OLYMPIC CHANNEL  HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/624
+#EXTINF:-1 ,SYFY
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/652
+#EXTINF:-1 ,TELEMUNDOMIAMI
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/657
+#EXTINF:-1 ,TNT
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/660
+#EXTINF:-1 ,TOONCAST
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725
+#EXTINF:-1 ,A&E ENG HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/482
+#EXTINF:-1 ,ABC7CHICAGO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/483
+#EXTINF:-1 ,CBS2CHICAGO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/492
+#EXTINF:-1 ,COOKING
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/504
+#EXTINF:-1 ,COZI
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/505
+#EXTINF:-1 ,DESTINATION AMERICA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/508
+#EXTINF:-1 ,DISCOVERYFAMENG
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/509
+#EXTINF:-1 ,DISCOVERYFAMSPA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/510
+#EXTINF:-1 ,VELOCITY
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/669
+#EXTINF:-1 ,DISNEY
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/512
+#EXTINF:-1 ,DISNEYJR
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
+#EXTINF:-1 ,DISNEYXD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514
+#EXTINF:-1 ,EPIXHITS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/519
+#EXTINF:-1 ,FOX2CHICAGO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/534
+#EXTINF:-1 ,FOX2DETROIT
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/535
+#EXTINF:-1 ,FOX11LA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/533
+#EXTINF:-1 ,FOX7MIAMI
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/540
+#EXTINF:-1 ,FOX5NEWYORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/539
+#EXTINF:-1 ,GALAVISION
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/556
+#EXTINF:-1 ,CBSKPIX
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/494
+#EXTINF:-1 ,Lifetime Movie
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/568
+#EXTINF:-1 ,NATGEO MUNDO HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/598
+#EXTINF:-1 ,NBC5CHICAGO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/602
+#EXTINF:-1 ,NBCMIAMI
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/603
+#EXTINF:-1 ,NUEVE 9
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/719
+#EXTINF:-1 ,OWN
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/627
+#EXTINF:-1 ,OXYGEN
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/628
+#EXTINF:-1 ,REVOLT MUSIC
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/640
+#EXTINF:-1 ,TELEMUNDO44
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/654
+#EXTINF:-1 ,TELEMUNDOLA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/656
+#EXTINF:-1 ,TELEMUNDO48
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/655
+#EXTINF:-1 ,TELEMUNDONEWYORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/658
+#EXTINF:-1 ,UNIMAS HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/663
+#EXTINF:-1 ,UNIVERSO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/665
+#EXTINF:-1 ,UNIVISION SPORTS   ULTIMO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/666
+#EXTINF:-1 ,XITEROCK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/673
+#EXTINF:-1 ,XITEVIBE
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/674
+#EXTINF:-1 ,BTN
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/490
+#EXTINF:-1 ,FOX DEPORTES HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531
+#EXTINF:-1 ,FS1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/549
+#EXTINF:-1 ,FS2
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/550
+#EXTINF:-1 ,FOXCOLLEGESPORTSCENTRAL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/542
+#EXTINF:-1 ,GOLF CHANNEL HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/558
+#EXTINF:-1 ,Animal HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/730
+#EXTINF:-1 ,Comedy Central HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/731
+#EXTINF:-1 ,CW HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/732
+#EXTINF:-1 ,ESPN 2 HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/733
+#EXTINF:-1 ,Fox News HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/734
+#EXTINF:-1 ,MLB NETWORKS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/736
+#EXTINF:-1 ,Investigation Discovery ID
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/735
+#EXTINF:-1 ,MTV LIVE
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/737
+#EXTINF:-1 ,NATGEO KIDS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/738
+#EXTINF:-1 ,Nickelodeon HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/754
+#EXTINF:-1 ,SUNDANCETV HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/757
+#EXTINF:-1 ,TBS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/758
+#EXTINF:-1 ,TIIN
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/759
+#EXTINF:-1 ,TRUTV ESP
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/760
+#EXTINF:-1 ,VEPLUSTV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/762
+#EXTINF:-1 ,AFIZZIONADOS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/729
+#EXTINF:-1 ,REDBULL TV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/756
+#EXTINF:-1 ,TVC DEPORTES
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/761
+#EXTINF:-1 ,BEIN SPORTS ENG HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
+#EXTINF:-1 ,ELEVEN SPORTS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/517
+#EXTINF:-1 ,SPORTSBAYAREA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/644
+#EXTINF:-1 ,sportsboston
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/645
+#EXTINF:-1 ,SPORTSCALIFORNIA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/646
+#EXTINF:-1 ,SPORTSCHICAGO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/647
+#EXTINF:-1 ,SPORTSMAN CHANNEL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/648
+#EXTINF:-1 ,SPORTSNORTHWEST
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/649
+#EXTINF:-1 ,SPORTSPHILADELPHIA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/650
+#EXTINF:-1 ,SPORTSWASHINGTON
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/651
+#EXTINF:-1 ,MLB 725
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/575
+#EXTINF:-1 ,MLB 726
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/576
+#EXTINF:-1 ,MLB 727
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/577
+#EXTINF:-1 ,MLB 728
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/578
+#EXTINF:-1 ,MLB 729
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/579
+#EXTINF:-1 ,MLB 730
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/580
+#EXTINF:-1 ,MLB 731
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/581
+#EXTINF:-1 ,MLB 732
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/582
+#EXTINF:-1 ,MLB 733
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/583
+#EXTINF:-1 ,MLB 734
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/584
+#EXTINF:-1 ,MLB 735
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/585
+#EXTINF:-1 ,MLB 736
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/586
+#EXTINF:-1 ,MLB 737
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/587
+#EXTINF:-1 ,MLB 738
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/588
+#EXTINF:-1 ,MLB 739
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/589
+#EXTINF:-1 ,MLB 740
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/590
+#EXTINF:-1 ,MLB 742
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/591
+#EXTINF:-1 ,MLB 744
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/592
+#EXTINF:-1 ,MLB 746
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/593
+#EXTINF:-1 ,MLB 720
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/570
+#EXTINF:-1 ,MLB 721
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/571
+#EXTINF:-1 ,MLB 722
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/572
+#EXTINF:-1 ,MLB 723
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/573
+#EXTINF:-1 ,MLB 724
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/574
+#EXTINF:-1 ,UFC ESP
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/726
+#EXTINF:-1 ,ESTRELLATV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/697
+#EXTINF:-1 ,Canal De Las Estrellas
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/682
+#EXTINF:-1 ,FOODNETWORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/528
+#EXTINF:-1 ,FXM
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/553
+#EXTINF:-1 ,IMAGEN NOTICIAS SD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/712
+#EXTINF:-1 ,OUTDOOR CHANNEL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/625
+#EXTINF:-1 ,TRAVEL HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/661
+#EXTINF:-1 ,TDN DEPORTES
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722
+#EXTINF:-1 ,ANTENA3
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/484
+#EXTINF:-1 ,BEIN ESPANIOL HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
+#EXTINF:-1 ,FIGHT NETWORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/526
+#EXTINF:-1 ,TV5
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/775
+#EXTINF:-1 ,RAI
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/774
+#EXTINF:-1 ,EUROCHANNEL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/772
+#EXTINF:-1 ,AZTECA CINEMA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/766
+#EXTINF:-1 ,AZTECA UNO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/678
+#EXTINF:-1 ,baby tv
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/485
+#EXTINF:-1 ,BANDAMAX
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/486
+#EXTINF:-1 ,Bloomberg
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/767
+#EXTINF:-1 ,BOOMERANG MEXICO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/680
+#EXTINF:-1 ,Canal 5
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/681
+#EXTINF:-1 ,Caracol HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/768
+#EXTINF:-1 ,CARTOON NETWORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683
+#EXTINF:-1 ,CBS4TEXAS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/493
+#EXTINF:-1 ,CINEMAX HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/769
+#EXTINF:-1 ,PBS HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/773
+#EXTINF:-1 ,AXN
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/765
+#EXTINF:-1 ,DISCOVERY SCIENCE
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/770
+#EXTINF:-1 ,goltv esp
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/559
+#EXTINF:-1 ,FXX
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/554
+#EXTINF:-1 ,UFC USA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1122
+#EXTINF:-1 ,Discovery Channel US
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1125
+#EXTINF:-1 ,UNIVISION USA HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/668
+#EXTINF:-1 ,FORMULA 1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/698
+#EXTINF:-1 ,NBA-1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1142
+#EXTINF:-1 ,NBA-11
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1132
+#EXTINF:-1 ,NBA-12
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1131
+#EXTINF:-1 ,NBA-14
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1129
+#EXTINF:-1 ,NBA-15
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1128
+#EXTINF:-1 ,NBA-16
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1127
+#EXTINF:-1 ,ABC Miami
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1126
+#EXTINF:-1 ,NHL-1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1164
+#EXTINF:-1 ,NHL-2
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1163
+#EXTINF:-1 ,NBA-19
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1176
+#EXTINF:-1 ,NBA-21
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1174
+#EXTINF:-1 ,NBA-27
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1168
+#EXTINF:-1 ,NBA-28
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1167
+#EXTINF:-1 ,NBA-29
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1166
+#EXTINF:-1 ,Comet-TV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1181
+#EXTINF:-1 ,Fox-Sports-Kansas
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1180
+#EXTINF:-1 ,Morbido-TV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1182
+#EXTINF:-1 ,HALLMARKDRAMA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/562
+#EXTINF:-1 ,UNIVERSALKIDS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/664
+#EXTINF:-1 ,HALLMARK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/561
+#EXTINF:-1 ,El Gourmet
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1186
+#EXTINF:-1 ,ESPN News
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1191
+#EXTINF:-1 ,ESPN U
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1190
+#EXTINF:-1 ,LO BEINS PORTS 1 4K
+http://bazarhd.online:80/307210133711/307210133711/164061
+#EXTINF:-1 ,LO BEINS PORTS PREMIUM 01 FHD
+http://bazarhd.online:80/307210133711/307210133711/164060
+#EXTINF:-1 ,LO BEINS PORTS PREMIUM  01 HD
+http://bazarhd.online:80/307210133711/307210133711/164059
+#EXTINF:-1 ,LO BEINS PORTS PREMIUM  01 SD
+http://bazarhd.online:80/307210133711/307210133711/164058
+#EXTINF:-1 ,LO BEINS PORTS PREMIUM  02 FHD
+http://bazarhd.online:80/307210133711/307210133711/164057
+#EXTINF:-1 ,LO BEINS PORTS PREMIUM  02 HD
+http://bazarhd.online:80/307210133711/307210133711/164056
+#EXTINF:-1 ,LO BEINS PORTS PREMIUM  02 SD
+http://bazarhd.online:80/307210133711/307210133711/164055
+#EXTINF:-1 ,LO BEINS PORTS PREMIUM  03 FHD
+http://bazarhd.online:80/307210133711/307210133711/164054
+#EXTINF:-1 ,LO BEINS PORTS PREMIUM  03 HD
+http://bazarhd.online:80/307210133711/307210133711/164053
+#EXTINF:-1 ,LO BEINS PORTS PREMIUM  03 SD
+http://bazarhd.online:80/307210133711/307210133711/164052
+#EXTINF:-1 ,LO BEINS PORTS 01 FHD
+http://bazarhd.online:80/307210133711/307210133711/164051
+#EXTINF:-1 ,LO BEINS PORTS 01 HD
+http://bazarhd.online:80/307210133711/307210133711/164050
+#EXTINF:-1 ,LO BEINS PORTS 01 SD
+http://bazarhd.online:80/307210133711/307210133711/164049
+#EXTINF:-1 ,LO BEINS PORTS 02 FHD
+http://bazarhd.online:80/307210133711/307210133711/164048
+#EXTINF:-1 ,LO BEINS PORTS 02 HD
+http://bazarhd.online:80/307210133711/307210133711/164047
+#EXTINF:-1 ,LO BEINS PORTS 02 SD
+http://bazarhd.online:80/307210133711/307210133711/164046
+#EXTINF:-1 ,LO BEINS PORTS 03 FHD
+http://bazarhd.online:80/307210133711/307210133711/164045
+#EXTINF:-1 ,..LO BEINS PORTS 03 HD
+http://bazarhd.online:80/307210133711/307210133711/164044
+#EXTINF:-1 ,LO BEINS PORTS 03 SD
+http://bazarhd.online:80/307210133711/307210133711/164043
+#EXTINF:-1 ,LO  BEINS PORTS 04 FHD
+http://bazarhd.online:80/307210133711/307210133711/164042
+#EXTINF:-1 ,LO  BEINS PORTS 04 HD
+http://bazarhd.online:80/307210133711/307210133711/164041
+#EXTINF:-1 ,LO BEINS PORTS 04 SD
+http://bazarhd.online:80/307210133711/307210133711/164040
+#EXTINF:-1 ,LO  BEINS PORTS 05 FHD
+http://bazarhd.online:80/307210133711/307210133711/164039
+#EXTINF:-1 ,LO  BEINS PORTS 05 HD
+http://bazarhd.online:80/307210133711/307210133711/164038
+#EXTINF:-1 ,LO BEINS PORTS 05 SD
+http://bazarhd.online:80/307210133711/307210133711/164037
+#EXTINF:-1 ,LO BEINS PORTS 06 FHD
+http://bazarhd.online:80/307210133711/307210133711/164036
+#EXTINF:-1 ,LO BEINS PORTS 06 HD
+http://bazarhd.online:80/307210133711/307210133711/164035
+#EXTINF:-1 ,LO BEINS PORTS 06 SD
+http://bazarhd.online:80/307210133711/307210133711/164034
+#EXTINF:-1 ,LO  BEINS PORTS 07 FHD
+http://bazarhd.online:80/307210133711/307210133711/164033
+#EXTINF:-1 ,LO  BEINS PORTS 07 HD
+http://bazarhd.online:80/307210133711/307210133711/164032
+#EXTINF:-1 ,LO BEINS PORTS 07 SD
+http://bazarhd.online:80/307210133711/307210133711/164031
+#EXTINF:-1 ,LO  BEINS PORTS 01 FHD EN
+http://bazarhd.online:80/307210133711/307210133711/164030
+#EXTINF:-1 ,LO  BEINS PORTS 01 HD EN
+http://bazarhd.online:80/307210133711/307210133711/164029
+#EXTINF:-1 ,LO BEINS PORTS 01 SD EN
+http://bazarhd.online:80/307210133711/307210133711/164028
+#EXTINF:-1 ,LO BEINS PORTS 02 FHD EN
+http://bazarhd.online:80/307210133711/307210133711/164027
+#EXTINF:-1 ,LO BEINS PORTS 02 SD EN
+http://bazarhd.online:80/307210133711/307210133711/164026
+#EXTINF:-1 ,LO BEINS PORTS 02 HD EN
+http://bazarhd.online:80/307210133711/307210133711/164025
+#EXTINF:-1 ,Bein Sport HD
+http://bazarhd.online:80/307210133711/307210133711/163931
+#EXTINF:-1 ,Bein Sport News HD
+http://bazarhd.online:80/307210133711/307210133711/163930
+#EXTINF:-1 ,Bein Sports Premium 1 HD
+http://bazarhd.online:80/307210133711/307210133711/163929
+#EXTINF:-1 ,Bein Sports Premium 2 HD
+http://bazarhd.online:80/307210133711/307210133711/163928
+#EXTINF:-1 ,Bein Sports Premium 3 HD
+http://bazarhd.online:80/307210133711/307210133711/163927
+#EXTINF:-1 ,Bein Sports HD1 HD
+http://bazarhd.online:80/307210133711/307210133711/163926
+#EXTINF:-1 ,Bein Sports HD2 HD
+http://bazarhd.online:80/307210133711/307210133711/163925
+#EXTINF:-1 ,Bein Sports HD3 HD
+http://bazarhd.online:80/307210133711/307210133711/163924
+#EXTINF:-1 ,Bein Sports HD4 HD
+http://bazarhd.online:80/307210133711/307210133711/163923
+#EXTINF:-1 ,Bein Sports HD5 HD
+http://bazarhd.online:80/307210133711/307210133711/163922
+#EXTINF:-1 ,Bein Sports HD6 HD
+http://bazarhd.online:80/307210133711/307210133711/163921
+#EXTINF:-1 ,Bein Sports HD7 HD
+http://bazarhd.online:80/307210133711/307210133711/163920
+#EXTINF:-1 ,Bein Sports Extra 1
+http://bazarhd.online:80/307210133711/307210133711/163919
+#EXTINF:-1 ,Bein Sports English HD2
+http://bazarhd.online:80/307210133711/307210133711/163918
+#EXTINF:-1 ,Bein Sports English HD3
+http://bazarhd.online:80/307210133711/307210133711/163917
+#EXTINF:-1 ,Bein Sports French HD2
+http://bazarhd.online:80/307210133711/307210133711/163915
+#EXTINF:-1 ,Bein Sports English HD1
+http://bazarhd.online:80/307210133711/307210133711/163914
+#EXTINF:-1 ,Bein Sport NBA HD
+http://bazarhd.online:80/307210133711/307210133711/163913
+#EXTINF:-1 ,Bein Sport Premium SD1
+http://bazarhd.online:80/307210133711/307210133711/163912
+#EXTINF:-1 ,Bein Sport Premium SD2
+http://bazarhd.online:80/307210133711/307210133711/163911
+#EXTINF:-1 ,Bein Sport Premium SD3
+http://bazarhd.online:80/307210133711/307210133711/163910
+#EXTINF:-1 ,Bein Sport SD1
+http://bazarhd.online:80/307210133711/307210133711/163909
+#EXTINF:-1 ,Bein Sport SD2
+http://bazarhd.online:80/307210133711/307210133711/163908
+#EXTINF:-1 ,Bein Sport SD3
+http://bazarhd.online:80/307210133711/307210133711/163907
+#EXTINF:-1 ,Bein Sport SD4
+http://bazarhd.online:80/307210133711/307210133711/163906
+#EXTINF:-1 ,Bein Sport SD5
+http://bazarhd.online:80/307210133711/307210133711/163905
+#EXTINF:-1 ,Bein Sport SD6
+http://bazarhd.online:80/307210133711/307210133711/163904
+#EXTINF:-1 ,Bein Sport SD7
+http://bazarhd.online:80/307210133711/307210133711/163903
+#EXTINF:-1 ,Bein Sport Extra SD1
+http://bazarhd.online:80/307210133711/307210133711/163902
+#EXTINF:-1 ,Bein Sport English SD2
+http://bazarhd.online:80/307210133711/307210133711/163901
+#EXTINF:-1 ,Bein Sport English SD3
+http://bazarhd.online:80/307210133711/307210133711/163900
+#EXTINF:-1 ,Bein Sport French SD1
+http://bazarhd.online:80/307210133711/307210133711/163899
+#EXTINF:-1 ,Bein Sport French SD2
+http://bazarhd.online:80/307210133711/307210133711/163898
+#EXTINF:-1 ,Bein Sport English SD1
+http://bazarhd.online:80/307210133711/307210133711/163897
+#EXTINF:-1 ,Ar- Alkass 1 HD
+http://bazarhd.online:80/307210133711/307210133711/163896
+#EXTINF:-1 ,Ar- Alkass 2 HD
+http://bazarhd.online:80/307210133711/307210133711/163895
+#EXTINF:-1 ,Ar- Alkass 4 HD
+http://bazarhd.online:80/307210133711/307210133711/163894
+#EXTINF:-1 ,Ar- Alkass 5 HD
+http://bazarhd.online:80/307210133711/307210133711/163893
+#EXTINF:-1 ,Bein Sport Premium1 720
+http://bazarhd.online:80/307210133711/307210133711/163892
+#EXTINF:-1 ,Bein Sport Premium2 720
+http://bazarhd.online:80/307210133711/307210133711/163891
+#EXTINF:-1 ,Bein Sport Premium3 720
+http://bazarhd.online:80/307210133711/307210133711/163890
+#EXTINF:-1 ,Bein Sport HD1 720
+http://bazarhd.online:80/307210133711/307210133711/163889
+#EXTINF:-1 ,Bein Sport HD2 720
+http://bazarhd.online:80/307210133711/307210133711/163888
+#EXTINF:-1 ,Bein Sport HD4 720
+http://bazarhd.online:80/307210133711/307210133711/163886
+#EXTINF:-1 ,Bein Sport HD5 720
+http://bazarhd.online:80/307210133711/307210133711/163885
+#EXTINF:-1 ,Bein Sport HD6 720
+http://bazarhd.online:80/307210133711/307210133711/163884
+#EXTINF:-1 ,Bein Sport HD7 720
+http://bazarhd.online:80/307210133711/307210133711/163883
+#EXTINF:-1 ,beIN SPORTS Premium 4K 1
+http://bazarhd.online:80/307210133711/307210133711/163948
+#EXTINF:-1 ,beIN SPORTS Premium 4K 2
+http://bazarhd.online:80/307210133711/307210133711/163947
+#EXTINF:-1 ,beIN SPORTS Premium 4K 3
+http://bazarhd.online:80/307210133711/307210133711/163946
+#EXTINF:-1 ,beIN SPORTS 4K 1
+http://bazarhd.online:80/307210133711/307210133711/163945
+#EXTINF:-1 ,beIN SPORTS 4K 2
+http://bazarhd.online:80/307210133711/307210133711/163944
+#EXTINF:-1 ,beIN SPORTS 4K 3
+http://bazarhd.online:80/307210133711/307210133711/163943
+#EXTINF:-1 ,beIN SPORTS 4K 4
+http://bazarhd.online:80/307210133711/307210133711/163942
+#EXTINF:-1 ,beIN SPORTS 4K 5
+http://bazarhd.online:80/307210133711/307210133711/163941
+#EXTINF:-1 ,beIN SPORTS 4K 6
+http://bazarhd.online:80/307210133711/307210133711/163940
+#EXTINF:-1 ,beIN SPORTS 4K 7
+http://bazarhd.online:80/307210133711/307210133711/163939
+#EXTINF:-1 ,beIN SPORTS Extra 4K 1
+http://bazarhd.online:80/307210133711/307210133711/163938
+#EXTINF:-1 ,beIN Sport English 4k 2
+http://bazarhd.online:80/307210133711/307210133711/163937
+#EXTINF:-1 ,beIN Sport English 4k 3
+http://bazarhd.online:80/307210133711/307210133711/163936
+#EXTINF:-1 ,beIN Sport French 4k 1
+http://bazarhd.online:80/307210133711/307210133711/163935
+#EXTINF:-1 ,beIN Sport French 4k 2
+http://bazarhd.online:80/307210133711/307210133711/163934
+#EXTINF:-1 ,beIN Sport English 4k 1
+http://bazarhd.online:80/307210133711/307210133711/163933
+#EXTINF:-1 ,Bein Sport NBA 4K
+http://bazarhd.online:80/307210133711/307210133711/163932
+#EXTINF:-1 ,|AR| BEINS SPORTS PREMIUM 1 UHD
+http://bazarhd.online:80/307210133711/307210133711/78637
+#EXTINF:-1 ,|AR| BEINS SPORTS PREMIUM 2 UHD
+http://bazarhd.online:80/307210133711/307210133711/78636
+#EXTINF:-1 ,|AR| BEINS SPORTS PREMIUM 3 UHD
+http://bazarhd.online:80/307210133711/307210133711/78635
+#EXTINF:-1 ,|AR| BEIN SPORTS 4 UHD
+http://bazarhd.online:80/307210133711/307210133711/78634
+#EXTINF:-1 ,|AR| BEIN SPORTS 5 UHD
+http://bazarhd.online:80/307210133711/307210133711/78633
+#EXTINF:-1 ,|AR| BEIN SPORTS 6 UHD
+http://bazarhd.online:80/307210133711/307210133711/78632
+#EXTINF:-1 ,|AR| BEIN SPORTS 7 UHD
+http://bazarhd.online:80/307210133711/307210133711/78631
+#EXTINF:-1 ,|AR| BEIN SPORTS 8 UHD
+http://bazarhd.online:80/307210133711/307210133711/78630
+#EXTINF:-1 ,|AR| BEIN SPORTS 9 UHD
+http://bazarhd.online:80/307210133711/307210133711/78629
+#EXTINF:-1 ,|AR| BEIN SPORTS 10 UHD OLYMPIC
+http://bazarhd.online:80/307210133711/307210133711/78628
+#EXTINF:-1 ,|AR| BEIN SPORTS 11 UHD EN
+http://bazarhd.online:80/307210133711/307210133711/78627
+#EXTINF:-1 ,|AR| BEIN SPORTS 12 UHD EN
+http://bazarhd.online:80/307210133711/307210133711/78626
+#EXTINF:-1 ,|AR| BEIN SPORTS 13 UHD
+http://bazarhd.online:80/307210133711/307210133711/78625
+#EXTINF:-1 ,|AR| ABU DHABI SPORTS 1 HD
+http://bazarhd.online:80/307210133711/307210133711/86493
+#EXTINF:-1 ,|AR| ABU DHABI SPORTS 2 HD
+http://bazarhd.online:80/307210133711/307210133711/86492
+#EXTINF:-1 ,|AR| ABU DHABI SPORTS 3 HD
+http://bazarhd.online:80/307210133711/307210133711/86491
+#EXTINF:-1 ,|AR| ABU DHABI SPORTS 4 HD
+http://bazarhd.online:80/307210133711/307210133711/86490
+#EXTINF:-1 ,LO BEINS PORTS 1 4K
+http://185.71.64.167:80/307202106505/307202106505/164061
+#EXTINF:-1 ,LO BEINS PORTS PREMIUM 01 FHD
+http://185.71.64.167:80/307202106505/307202106505/164060
+#EXTINF:-1 ,LO BEINS PORTS PREMIUM  01 HD
+http://185.71.64.167:80/307202106505/307202106505/164059
+#EXTINF:-1 ,LO BEINS PORTS PREMIUM  01 SD
+http://185.71.64.167:80/307202106505/307202106505/164058
+#EXTINF:-1 ,LO BEINS PORTS PREMIUM  02 FHD
+http://185.71.64.167:80/307202106505/307202106505/164057
+#EXTINF:-1 ,LO BEINS PORTS PREMIUM  02 HD
+http://185.71.64.167:80/307202106505/307202106505/164056
+#EXTINF:-1 ,LO BEINS PORTS PREMIUM  02 SD
+http://185.71.64.167:80/307202106505/307202106505/164055
+#EXTINF:-1 ,LO BEINS PORTS PREMIUM  03 FHD
+http://185.71.64.167:80/307202106505/307202106505/164054
+#EXTINF:-1 ,LO BEINS PORTS PREMIUM  03 HD
+http://185.71.64.167:80/307202106505/307202106505/164053
+#EXTINF:-1 ,LO BEINS PORTS PREMIUM  03 SD
+http://185.71.64.167:80/307202106505/307202106505/164052
+#EXTINF:-1 ,LO BEINS PORTS 01 FHD
+http://185.71.64.167:80/307202106505/307202106505/164051
+#EXTINF:-1 ,LO BEINS PORTS 01 HD
+http://185.71.64.167:80/307202106505/307202106505/164050
+#EXTINF:-1 ,LO BEINS PORTS 01 SD
+http://185.71.64.167:80/307202106505/307202106505/164049
+#EXTINF:-1 ,LO BEINS PORTS 02 FHD
+http://185.71.64.167:80/307202106505/307202106505/164048
+#EXTINF:-1 ,LO BEINS PORTS 02 HD
+http://185.71.64.167:80/307202106505/307202106505/164047
+#EXTINF:-1 ,LO BEINS PORTS 02 SD
+http://185.71.64.167:80/307202106505/307202106505/164046
+#EXTINF:-1 ,LO BEINS PORTS 03 FHD
+http://185.71.64.167:80/307202106505/307202106505/164045
+#EXTINF:-1 ,..LO BEINS PORTS 03 HD
+http://185.71.64.167:80/307202106505/307202106505/164044
+#EXTINF:-1 ,LO BEINS PORTS 03 SD
+http://185.71.64.167:80/307202106505/307202106505/164043
+#EXTINF:-1 ,LO  BEINS PORTS 04 FHD
+http://185.71.64.167:80/307202106505/307202106505/164042
+#EXTINF:-1 ,LO  BEINS PORTS 04 HD
+http://185.71.64.167:80/307202106505/307202106505/164041
+#EXTINF:-1 ,LO BEINS PORTS 04 SD
+http://185.71.64.167:80/307202106505/307202106505/164040
+#EXTINF:-1 ,LO  BEINS PORTS 05 FHD
+http://185.71.64.167:80/307202106505/307202106505/164039
+#EXTINF:-1 ,LO  BEINS PORTS 05 HD
+http://185.71.64.167:80/307202106505/307202106505/164038
+#EXTINF:-1 ,LO BEINS PORTS 05 SD
+http://185.71.64.167:80/307202106505/307202106505/164037
+#EXTINF:-1 ,LO BEINS PORTS 06 FHD
+http://185.71.64.167:80/307202106505/307202106505/164036
+#EXTINF:-1 ,LO BEINS PORTS 06 HD
+http://185.71.64.167:80/307202106505/307202106505/164035
+#EXTINF:-1 ,LO BEINS PORTS 06 SD
+http://185.71.64.167:80/307202106505/307202106505/164034
+#EXTINF:-1 ,LO  BEINS PORTS 07 FHD
+http://185.71.64.167:80/307202106505/307202106505/164033
+#EXTINF:-1 ,LO  BEINS PORTS 07 HD
+http://185.71.64.167:80/307202106505/307202106505/164032
+#EXTINF:-1 ,LO BEINS PORTS 07 SD
+http://185.71.64.167:80/307202106505/307202106505/164031
+#EXTINF:-1 ,LO  BEINS PORTS 01 FHD EN
+http://185.71.64.167:80/307202106505/307202106505/164030
+#EXTINF:-1 ,LO  BEINS PORTS 01 HD EN
+http://185.71.64.167:80/307202106505/307202106505/164029
+#EXTINF:-1 ,LO BEINS PORTS 01 SD EN
+http://185.71.64.167:80/307202106505/307202106505/164028
+#EXTINF:-1 ,LO BEINS PORTS 02 FHD EN
+http://185.71.64.167:80/307202106505/307202106505/164027
+#EXTINF:-1 ,LO BEINS PORTS 02 SD EN
+http://185.71.64.167:80/307202106505/307202106505/164026
+#EXTINF:-1 ,LO BEINS PORTS 02 HD EN
+http://185.71.64.167:80/307202106505/307202106505/164025
+#EXTINF:-1 ,Bein Sport HD
+http://185.71.64.167:80/307202106505/307202106505/163931
+#EXTINF:-1 ,Bein Sport News HD
+http://185.71.64.167:80/307202106505/307202106505/163930
+#EXTINF:-1 ,Bein Sports Premium 1 HD
+http://185.71.64.167:80/307202106505/307202106505/163929
+#EXTINF:-1 ,Bein Sports Premium 2 HD
+http://185.71.64.167:80/307202106505/307202106505/163928
+#EXTINF:-1 ,Bein Sports Premium 3 HD
+http://185.71.64.167:80/307202106505/307202106505/163927
+#EXTINF:-1 ,Bein Sports HD1 HD
+http://185.71.64.167:80/307202106505/307202106505/163926
+#EXTINF:-1 ,Bein Sports HD2 HD
+http://185.71.64.167:80/307202106505/307202106505/163925
+#EXTINF:-1 ,Bein Sports HD3 HD
+http://185.71.64.167:80/307202106505/307202106505/163924
+#EXTINF:-1 ,Bein Sports HD4 HD
+http://185.71.64.167:80/307202106505/307202106505/163923
+#EXTINF:-1 ,Bein Sports HD5 HD
+http://185.71.64.167:80/307202106505/307202106505/163922
+#EXTINF:-1 ,Bein Sports HD6 HD
+http://185.71.64.167:80/307202106505/307202106505/163921
+#EXTINF:-1 ,Bein Sports HD7 HD
+http://185.71.64.167:80/307202106505/307202106505/163920
+#EXTINF:-1 ,Bein Sports Extra 1
+http://185.71.64.167:80/307202106505/307202106505/163919
+#EXTINF:-1 ,Bein Sports English HD2
+http://185.71.64.167:80/307202106505/307202106505/163918
+#EXTINF:-1 ,Bein Sports English HD3
+http://185.71.64.167:80/307202106505/307202106505/163917
+#EXTINF:-1 ,Bein Sport NBA HD
+http://185.71.64.167:80/307202106505/307202106505/163913
+#EXTINF:-1 ,Bein Sport Premium SD1
+http://185.71.64.167:80/307202106505/307202106505/163912
+#EXTINF:-1 ,Bein Sport Premium SD2
+http://185.71.64.167:80/307202106505/307202106505/163911
+#EXTINF:-1 ,Bein Sport Premium SD3
+http://185.71.64.167:80/307202106505/307202106505/163910
+#EXTINF:-1 ,Bein Sport SD1
+http://185.71.64.167:80/307202106505/307202106505/163909
+#EXTINF:-1 ,Bein Sport SD2
+http://185.71.64.167:80/307202106505/307202106505/163908
+#EXTINF:-1 ,Bein Sport SD3
+http://185.71.64.167:80/307202106505/307202106505/163907
+#EXTINF:-1 ,Bein Sport SD4
+http://185.71.64.167:80/307202106505/307202106505/163906
+#EXTINF:-1 ,Bein Sport SD5
+http://185.71.64.167:80/307202106505/307202106505/163905
+#EXTINF:-1 ,Bein Sport SD6
+http://185.71.64.167:80/307202106505/307202106505/163904
+#EXTINF:-1 ,Bein Sport SD7
+http://185.71.64.167:80/307202106505/307202106505/163903
+#EXTINF:-1 ,Bein Sport Extra SD1
+http://185.71.64.167:80/307202106505/307202106505/163902
+#EXTINF:-1 ,Bein Sport English SD2
+http://185.71.64.167:80/307202106505/307202106505/163901
+#EXTINF:-1 ,Bein Sport English SD3
+http://185.71.64.167:80/307202106505/307202106505/163900
+#EXTINF:-1 ,Ar- Alkass 1 HD
+http://185.71.64.167:80/307202106505/307202106505/163896
+#EXTINF:-1 ,Ar- Alkass 2 HD
+http://185.71.64.167:80/307202106505/307202106505/163895
+#EXTINF:-1 ,Ar- Alkass 4 HD
+http://185.71.64.167:80/307202106505/307202106505/163894
+#EXTINF:-1 ,Ar- Alkass 5 HD
+http://185.71.64.167:80/307202106505/307202106505/163893
+#EXTINF:-1 ,Bein Sport Premium1 720
+http://185.71.64.167:80/307202106505/307202106505/163892
+#EXTINF:-1 ,Bein Sport Premium2 720
+http://185.71.64.167:80/307202106505/307202106505/163891
+#EXTINF:-1 ,Bein Sport Premium3 720
+http://185.71.64.167:80/307202106505/307202106505/163890
+#EXTINF:-1 ,Bein Sport HD1 720
+http://185.71.64.167:80/307202106505/307202106505/163889
+#EXTINF:-1 ,Bein Sport HD2 720
+http://185.71.64.167:80/307202106505/307202106505/163888
+#EXTINF:-1 ,Bein Sport HD4 720
+http://185.71.64.167:80/307202106505/307202106505/163886
+#EXTINF:-1 ,Bein Sport HD5 720
+http://185.71.64.167:80/307202106505/307202106505/163885
+#EXTINF:-1 ,Bein Sport HD6 720
+http://185.71.64.167:80/307202106505/307202106505/163884
+#EXTINF:-1 ,Bein Sport HD7 720
+http://185.71.64.167:80/307202106505/307202106505/163883
+#EXTINF:-1 ,beIN SPORTS Premium 4K 1
+http://185.71.64.167:80/307202106505/307202106505/163948
+#EXTINF:-1 ,beIN SPORTS Premium 4K 2
+http://185.71.64.167:80/307202106505/307202106505/163947
+#EXTINF:-1 ,beIN SPORTS Premium 4K 3
+http://185.71.64.167:80/307202106505/307202106505/163946
+#EXTINF:-1 ,beIN SPORTS 4K 1
+http://185.71.64.167:80/307202106505/307202106505/163945
+#EXTINF:-1 ,beIN SPORTS 4K 2
+http://185.71.64.167:80/307202106505/307202106505/163944
+#EXTINF:-1 ,beIN SPORTS 4K 3
+http://185.71.64.167:80/307202106505/307202106505/163943
+#EXTINF:-1 ,beIN SPORTS 4K 4
+http://185.71.64.167:80/307202106505/307202106505/163942
+#EXTINF:-1 ,beIN SPORTS 4K 5
+http://185.71.64.167:80/307202106505/307202106505/163941
+#EXTINF:-1 ,beIN SPORTS 4K 6
+http://185.71.64.167:80/307202106505/307202106505/163940
+#EXTINF:-1 ,beIN SPORTS 4K 7
+http://185.71.64.167:80/307202106505/307202106505/163939
+#EXTINF:-1 ,beIN SPORTS Extra 4K 1
+http://185.71.64.167:80/307202106505/307202106505/163938
+#EXTINF:-1 ,beIN Sport English 4k 2
+http://185.71.64.167:80/307202106505/307202106505/163937
+#EXTINF:-1 ,beIN Sport English 4k 3
+http://185.71.64.167:80/307202106505/307202106505/163936
+#EXTINF:-1 ,beIN Sport French 4k 1
+http://185.71.64.167:80/307202106505/307202106505/163935
+#EXTINF:-1 ,beIN Sport French 4k 2
+http://185.71.64.167:80/307202106505/307202106505/163934
+#EXTINF:-1 ,beIN Sport English 4k 1
+http://185.71.64.167:80/307202106505/307202106505/163933
+#EXTINF:-1 ,Bein Sport NBA 4K
+http://185.71.64.167:80/307202106505/307202106505/163932
+#EXTINF:-1 ,|AR| BEINS SPORTS PREMIUM 1 UHD
+http://185.71.64.167:80/307202106505/307202106505/78637
+#EXTINF:-1 ,|AR| BEINS SPORTS PREMIUM 2 UHD
+http://185.71.64.167:80/307202106505/307202106505/78636
+#EXTINF:-1 ,|AR| BEINS SPORTS PREMIUM 3 UHD
+http://185.71.64.167:80/307202106505/307202106505/78635
+#EXTINF:-1 ,|AR| BEIN SPORTS 4 UHD
+http://185.71.64.167:80/307202106505/307202106505/78634
+#EXTINF:-1 ,|AR| BEIN SPORTS 5 UHD
+http://185.71.64.167:80/307202106505/307202106505/78633
+#EXTINF:-1 ,|AR| BEIN SPORTS 6 UHD
+http://185.71.64.167:80/307202106505/307202106505/78632
+#EXTINF:-1 ,|AR| BEIN SPORTS 7 UHD
+http://185.71.64.167:80/307202106505/307202106505/78631
+#EXTINF:-1 ,|AR| BEIN SPORTS 8 UHD
+http://185.71.64.167:80/307202106505/307202106505/78630
+#EXTINF:-1 ,|AR| BEIN SPORTS 9 UHD
+http://185.71.64.167:80/307202106505/307202106505/78629
+#EXTINF:-1 ,|AR| BEIN SPORTS 10 UHD OLYMPIC
+http://185.71.64.167:80/307202106505/307202106505/78628
+#EXTINF:-1 ,|AR| BEIN SPORTS 11 UHD EN
+http://185.71.64.167:80/307202106505/307202106505/78627
+#EXTINF:-1 ,|AR| BEIN SPORTS 12 UHD EN
+http://185.71.64.167:80/307202106505/307202106505/78626
+#EXTINF:-1 ,|AR| BEIN SPORTS 13 UHD
+http://185.71.64.167:80/307202106505/307202106505/78625
+#EXTINF:-1 ,|AR| ABU DHABI SPORTS 1 HD
+http://185.71.64.167:80/307202106505/307202106505/86493
+#EXTINF:-1 ,|AR| ABU DHABI SPORTS 2 HD
+http://185.71.64.167:80/307202106505/307202106505/86492
+#EXTINF:-1 ,|AR| ABU DHABI SPORTS 3 HD
+http://185.71.64.167:80/307202106505/307202106505/86491
+#EXTINF:-1 ,|AR| ABU DHABI SPORTS 4 HD
+http://185.71.64.167:80/307202106505/307202106505/86490
+#EXTINF:-1 ,beIN 01 EN FULL HD
+http://s1.mainevents.icu:8000/239021AM4884820/47212021AMM4784345/1437
+#EXTINF:-1 ,beIN 02 EN FULL HD
+http://s1.mainevents.icu:8000/239021AM4884820/47212021AMM4784345/1438
+#EXTINF:-1 ,beIN 03 EN FULL HD
+http://s1.mainevents.icu:8000/239021AM4884820/47212021AMM4784345/1439
+#EXTINF:-1 ,beIN HD1 720p
+http://s1.mainevents.icu:8000/239021AM4884820/47212021AMM4784345/1441
+#EXTINF:-1 ,beIN HD2 720p
+http://s1.mainevents.icu:8000/239021AM4884820/47212021AMM4784345/1442
+#EXTINF:-1 ,beIN HD3 720p
+http://s1.mainevents.icu:8000/239021AM4884820/47212021AMM4784345/1443
+#EXTINF:-1 ,beIN HD4 720p
+http://s1.mainevents.icu:8000/239021AM4884820/47212021AMM4784345/1444
+#EXTINF:-1 ,beIN HD5 720p
+http://s1.mainevents.icu:8000/239021AM4884820/47212021AMM4784345/1445
+#EXTINF:-1 ,beIN HD6 720p
+http://s1.mainevents.icu:8000/239021AM4884820/47212021AMM4784345/1446
+#EXTINF:-1 ,beIN HD07 720p
+http://s1.mainevents.icu:8000/239021AM4884820/47212021AMM4784345/1447
+#EXTINF:-1 ,beIN 01 FR 720p
+http://s1.mainevents.icu:8000/239021AM4884820/47212021AMM4784345/1449
+#EXTINF:-1 ,beIN 02 FR 720p
+http://s1.mainevents.icu:8000/239021AM4884820/47212021AMM4784345/1450
+#EXTINF:-1 ,beIN 03 FR 720p
+http://s1.mainevents.icu:8000/239021AM4884820/47212021AMM4784345/1451
+#EXTINF:-1 ,beIN 01 SD EN
+http://s1.mainevents.icu:8000/239021AM4884820/47212021AMM4784345/1453
+#EXTINF:-1 ,beIN 02 SD EN
+http://s1.mainevents.icu:8000/239021AM4884820/47212021AMM4784345/1454
+#EXTINF:-1 ,beIN 03 SD EN
+http://s1.mainevents.icu:8000/239021AM4884820/47212021AMM4784345/1455
+#EXTINF:-1 ,beIN 1 SD
+http://s1.mainevents.icu:8000/239021AM4884820/47212021AMM4784345/1457
+#EXTINF:-1 ,beIN 2 SD
+http://s1.mainevents.icu:8000/239021AM4884820/47212021AMM4784345/1458
+#EXTINF:-1 ,beIN 3 SD
+http://s1.mainevents.icu:8000/239021AM4884820/47212021AMM4784345/1459
+#EXTINF:-1 ,beIN 4 SD
+http://s1.mainevents.icu:8000/239021AM4884820/47212021AMM4784345/1460
+#EXTINF:-1 ,beIN 5 SD
+http://s1.mainevents.icu:8000/239021AM4884820/47212021AMM4784345/1461
+#EXTINF:-1 ,beIN 6 SD
+http://s1.mainevents.icu:8000/239021AM4884820/47212021AMM4784345/1462
+#EXTINF:-1 ,beIN 7 SD
+http://s1.mainevents.icu:8000/239021AM4884820/47212021AMM4784345/2448
+#EXTINF:-1 ,beIN 1
+http://s1.mainevents.icu:8000/239021AM4884820/47212021AMM4784345/2450
+#EXTINF:-1 ,beIN 2
+http://s1.mainevents.icu:8000/239021AM4884820/47212021AMM4784345/2451
+#EXTINF:-1 ,beIN 3
+http://s1.mainevents.icu:8000/239021AM4884820/47212021AMM4784345/2452
+#EXTINF:-1 ,beIN 4
+http://s1.mainevents.icu:8000/239021AM4884820/47212021AMM4784345/2453
+#EXTINF:-1 ,beIN 5
+http://s1.mainevents.icu:8000/239021AM4884820/47212021AMM4784345/2454
+#EXTINF:-1 ,beIN 6
+http://s1.mainevents.icu:8000/239021AM4884820/47212021AMM4784345/2455
+#EXTINF:-1 ,beIN 7
+http://s1.mainevents.icu:8000/239021AM4884820/47212021AMM4784345/2456
+#EXTINF:-1 ,beIN XTRA 01 FHD
+http://s1.mainevents.icu:8000/239021AM4884820/47212021AMM4784345/2459
+#EXTINF:-1 ,beIN XTRA 02 FHD
+http://s1.mainevents.icu:8000/239021AM4884820/47212021AMM4784345/2460
+#EXTINF:-1 ,LO BEINS PORTS PREMIUM 01 FHD
+http://rv.therevenge.co:80/307211774215/307211774215/164060
+#EXTINF:-1 ,LO BEINS PORTS PREMIUM  01 HD
+http://rv.therevenge.co:80/307211774215/307211774215/164059
+#EXTINF:-1 ,LO BEINS PORTS PREMIUM  01 SD
+http://rv.therevenge.co:80/307211774215/307211774215/164058
+#EXTINF:-1 ,LO BEINS PORTS PREMIUM  02 FHD
+http://rv.therevenge.co:80/307211774215/307211774215/164057
+#EXTINF:-1 ,LO BEINS PORTS PREMIUM  02 HD
+http://rv.therevenge.co:80/307211774215/307211774215/164056
+#EXTINF:-1 ,LO BEINS PORTS PREMIUM  02 SD
+http://rv.therevenge.co:80/307211774215/307211774215/164055
+#EXTINF:-1 ,LO BEINS PORTS PREMIUM  03 FHD
+http://rv.therevenge.co:80/307211774215/307211774215/164054
+#EXTINF:-1 ,LO BEINS PORTS PREMIUM  03 HD
+http://rv.therevenge.co:80/307211774215/307211774215/164053
+#EXTINF:-1 ,LO BEINS PORTS PREMIUM  03 SD
+http://rv.therevenge.co:80/307211774215/307211774215/164052
+#EXTINF:-1 ,LO BEINS PORTS 01 FHD
+http://rv.therevenge.co:80/307211774215/307211774215/164051
+#EXTINF:-1 ,LO BEINS PORTS 01 HD
+http://rv.therevenge.co:80/307211774215/307211774215/164050
+#EXTINF:-1 ,LO BEINS PORTS 01 SD
+http://rv.therevenge.co:80/307211774215/307211774215/164049
+#EXTINF:-1 ,LO BEINS PORTS 02 FHD
+http://rv.therevenge.co:80/307211774215/307211774215/164048
+#EXTINF:-1 ,LO BEINS PORTS 02 HD
+http://rv.therevenge.co:80/307211774215/307211774215/164047
+#EXTINF:-1 ,LO BEINS PORTS 02 SD
+http://rv.therevenge.co:80/307211774215/307211774215/164046
+#EXTINF:-1 ,LO BEINS PORTS 03 FHD
+http://rv.therevenge.co:80/307211774215/307211774215/164045
+#EXTINF:-1 ,..LO BEINS PORTS 03 HD
+http://rv.therevenge.co:80/307211774215/307211774215/164044
+#EXTINF:-1 ,LO BEINS PORTS 03 SD
+http://rv.therevenge.co:80/307211774215/307211774215/164043
+#EXTINF:-1 ,LO  BEINS PORTS 04 FHD
+http://rv.therevenge.co:80/307211774215/307211774215/164042
+#EXTINF:-1 ,LO  BEINS PORTS 04 HD
+http://rv.therevenge.co:80/307211774215/307211774215/164041
+#EXTINF:-1 ,LO BEINS PORTS 04 SD
+http://rv.therevenge.co:80/307211774215/307211774215/164040
+#EXTINF:-1 ,LO  BEINS PORTS 05 FHD
+http://rv.therevenge.co:80/307211774215/307211774215/164039
+#EXTINF:-1 ,LO  BEINS PORTS 05 HD
+http://rv.therevenge.co:80/307211774215/307211774215/164038
+#EXTINF:-1 ,LO BEINS PORTS 05 SD
+http://rv.therevenge.co:80/307211774215/307211774215/164037
+#EXTINF:-1 ,LO BEINS PORTS 06 FHD
+http://rv.therevenge.co:80/307211774215/307211774215/164036
+#EXTINF:-1 ,LO BEINS PORTS 06 HD
+http://rv.therevenge.co:80/307211774215/307211774215/164035
+#EXTINF:-1 ,LO BEINS PORTS 06 SD
+http://rv.therevenge.co:80/307211774215/307211774215/164034
+#EXTINF:-1 ,LO  BEINS PORTS 07 FHD
+http://rv.therevenge.co:80/307211774215/307211774215/164033
+#EXTINF:-1 ,LO  BEINS PORTS 07 HD
+http://rv.therevenge.co:80/307211774215/307211774215/164032
+#EXTINF:-1 ,LO BEINS PORTS 07 SD
+http://rv.therevenge.co:80/307211774215/307211774215/164031
+#EXTINF:-1 ,LO  BEINS PORTS 01 FHD EN
+http://rv.therevenge.co:80/307211774215/307211774215/164030
+#EXTINF:-1 ,LO  BEINS PORTS 01 HD EN
+http://rv.therevenge.co:80/307211774215/307211774215/164029
+#EXTINF:-1 ,LO BEINS PORTS 01 SD EN
+http://rv.therevenge.co:80/307211774215/307211774215/164028
+#EXTINF:-1 ,LO BEINS PORTS 02 FHD EN
+http://rv.therevenge.co:80/307211774215/307211774215/164027
+#EXTINF:-1 ,LO BEINS PORTS 02 SD EN
+http://rv.therevenge.co:80/307211774215/307211774215/164026
+#EXTINF:-1 ,LO BEINS PORTS 02 HD EN
+http://rv.therevenge.co:80/307211774215/307211774215/164025
+#EXTINF:-1 ,Bein Sport HD
+http://rv.therevenge.co:80/307211774215/307211774215/163931
+#EXTINF:-1 ,Bein Sport News HD
+http://rv.therevenge.co:80/307211774215/307211774215/163930
+#EXTINF:-1 ,Bein Sports Premium 1 HD
+http://rv.therevenge.co:80/307211774215/307211774215/163929
+#EXTINF:-1 ,Bein Sports Premium 2 HD
+http://rv.therevenge.co:80/307211774215/307211774215/163928
+#EXTINF:-1 ,Bein Sports Premium 3 HD
+http://rv.therevenge.co:80/307211774215/307211774215/163927
+#EXTINF:-1 ,Bein Sports HD1 HD
+http://rv.therevenge.co:80/307211774215/307211774215/163926
+#EXTINF:-1 ,Bein Sports HD2 HD
+http://rv.therevenge.co:80/307211774215/307211774215/163925
+#EXTINF:-1 ,Bein Sports HD3 HD
+http://rv.therevenge.co:80/307211774215/307211774215/163924
+#EXTINF:-1 ,Bein Sports HD4 HD
+http://rv.therevenge.co:80/307211774215/307211774215/163923
+#EXTINF:-1 ,Bein Sports HD5 HD
+http://rv.therevenge.co:80/307211774215/307211774215/163922
+#EXTINF:-1 ,Bein Sports HD6 HD
+http://rv.therevenge.co:80/307211774215/307211774215/163921
+#EXTINF:-1 ,Bein Sports HD7 HD
+http://rv.therevenge.co:80/307211774215/307211774215/163920
+#EXTINF:-1 ,Bein Sports Extra 1
+http://rv.therevenge.co:80/307211774215/307211774215/163919
+#EXTINF:-1 ,Bein Sports English HD2
+http://rv.therevenge.co:80/307211774215/307211774215/163918
+#EXTINF:-1 ,Bein Sports English HD3
+http://rv.therevenge.co:80/307211774215/307211774215/163917
+#EXTINF:-1 ,Bein Sports French HD2
+http://rv.therevenge.co:80/307211774215/307211774215/163915
+#EXTINF:-1 ,Bein Sports English HD1
+http://rv.therevenge.co:80/307211774215/307211774215/163914
+#EXTINF:-1 ,Bein Sport NBA HD
+http://rv.therevenge.co:80/307211774215/307211774215/163913
+#EXTINF:-1 ,Bein Sport Premium SD1
+http://rv.therevenge.co:80/307211774215/307211774215/163912
+#EXTINF:-1 ,Bein Sport Premium SD2
+http://rv.therevenge.co:80/307211774215/307211774215/163911
+#EXTINF:-1 ,Bein Sport Premium SD3
+http://rv.therevenge.co:80/307211774215/307211774215/163910
+#EXTINF:-1 ,Bein Sport SD1
+http://rv.therevenge.co:80/307211774215/307211774215/163909
+#EXTINF:-1 ,Bein Sport SD2
+http://rv.therevenge.co:80/307211774215/307211774215/163908
+#EXTINF:-1 ,Bein Sport SD3
+http://rv.therevenge.co:80/307211774215/307211774215/163907
+#EXTINF:-1 ,Bein Sport SD4
+http://rv.therevenge.co:80/307211774215/307211774215/163906
+#EXTINF:-1 ,Bein Sport SD5
+http://rv.therevenge.co:80/307211774215/307211774215/163905
+#EXTINF:-1 ,Bein Sport SD6
+http://rv.therevenge.co:80/307211774215/307211774215/163904
+#EXTINF:-1 ,Bein Sport SD7
+http://rv.therevenge.co:80/307211774215/307211774215/163903
+#EXTINF:-1 ,Bein Sport Extra SD1
+http://rv.therevenge.co:80/307211774215/307211774215/163902
+#EXTINF:-1 ,Bein Sport English SD2
+http://rv.therevenge.co:80/307211774215/307211774215/163901
+#EXTINF:-1 ,Bein Sport English SD3
+http://rv.therevenge.co:80/307211774215/307211774215/163900
+#EXTINF:-1 ,Bein Sport French SD1
+http://rv.therevenge.co:80/307211774215/307211774215/163899
+#EXTINF:-1 ,Bein Sport French SD2
+http://rv.therevenge.co:80/307211774215/307211774215/163898
+#EXTINF:-1 ,Bein Sport English SD1
+http://rv.therevenge.co:80/307211774215/307211774215/163897
+#EXTINF:-1 ,Ar- Alkass 1 HD
+http://rv.therevenge.co:80/307211774215/307211774215/163896
+#EXTINF:-1 ,Ar- Alkass 2 HD
+http://rv.therevenge.co:80/307211774215/307211774215/163895
+#EXTINF:-1 ,Ar- Alkass 4 HD
+http://rv.therevenge.co:80/307211774215/307211774215/163894
+#EXTINF:-1 ,Ar- Alkass 5 HD
+http://rv.therevenge.co:80/307211774215/307211774215/163893
+#EXTINF:-1 ,Bein Sport Premium1 720
+http://rv.therevenge.co:80/307211774215/307211774215/163892
+#EXTINF:-1 ,Bein Sport Premium2 720
+http://rv.therevenge.co:80/307211774215/307211774215/163891
+#EXTINF:-1 ,Bein Sport Premium3 720
+http://rv.therevenge.co:80/307211774215/307211774215/163890
+#EXTINF:-1 ,Bein Sport HD1 720
+http://rv.therevenge.co:80/307211774215/307211774215/163889
+#EXTINF:-1 ,Bein Sport HD2 720
+http://rv.therevenge.co:80/307211774215/307211774215/163888
+#EXTINF:-1 ,Bein Sport HD4 720
+http://rv.therevenge.co:80/307211774215/307211774215/163886
+#EXTINF:-1 ,Bein Sport HD5 720
+http://rv.therevenge.co:80/307211774215/307211774215/163885
+#EXTINF:-1 ,Bein Sport HD6 720
+http://rv.therevenge.co:80/307211774215/307211774215/163884
+#EXTINF:-1 ,Bein Sport HD7 720
+http://rv.therevenge.co:80/307211774215/307211774215/163883
+#EXTINF:-1 ,beIN SPORTS Premium 4K 1
+http://rv.therevenge.co:80/307211774215/307211774215/163948
+#EXTINF:-1 ,beIN SPORTS Premium 4K 2
+http://rv.therevenge.co:80/307211774215/307211774215/163947
+#EXTINF:-1 ,beIN SPORTS Premium 4K 3
+http://rv.therevenge.co:80/307211774215/307211774215/163946
+#EXTINF:-1 ,beIN SPORTS 4K 1
+http://rv.therevenge.co:80/307211774215/307211774215/163945
+#EXTINF:-1 ,beIN SPORTS 4K 2
+http://rv.therevenge.co:80/307211774215/307211774215/163944
+#EXTINF:-1 ,beIN SPORTS 4K 3
+http://rv.therevenge.co:80/307211774215/307211774215/163943
+#EXTINF:-1 ,beIN SPORTS 4K 4
+http://rv.therevenge.co:80/307211774215/307211774215/163942
+#EXTINF:-1 ,beIN SPORTS 4K 5
+http://rv.therevenge.co:80/307211774215/307211774215/163941
+#EXTINF:-1 ,beIN SPORTS 4K 6
+http://rv.therevenge.co:80/307211774215/307211774215/163940
+#EXTINF:-1 ,beIN SPORTS 4K 7
+http://rv.therevenge.co:80/307211774215/307211774215/163939
+#EXTINF:-1 ,beIN SPORTS Extra 4K 1
+http://rv.therevenge.co:80/307211774215/307211774215/163938
+#EXTINF:-1 ,beIN Sport English 4k 2
+http://rv.therevenge.co:80/307211774215/307211774215/163937
+#EXTINF:-1 ,beIN Sport English 4k 3
+http://rv.therevenge.co:80/307211774215/307211774215/163936
+#EXTINF:-1 ,beIN Sport French 4k 1
+http://rv.therevenge.co:80/307211774215/307211774215/163935
+#EXTINF:-1 ,beIN Sport French 4k 2
+http://rv.therevenge.co:80/307211774215/307211774215/163934
+#EXTINF:-1 ,beIN Sport English 4k 1
+http://rv.therevenge.co:80/307211774215/307211774215/163933
+#EXTINF:-1 ,Bein Sport NBA 4K
+http://rv.therevenge.co:80/307211774215/307211774215/163932
+#EXTINF:-1 ,|AR| BEINS SPORTS PREMIUM 1 UHD
+http://rv.therevenge.co:80/307211774215/307211774215/78637
+#EXTINF:-1 ,|AR| BEINS SPORTS PREMIUM 2 UHD
+http://rv.therevenge.co:80/307211774215/307211774215/78636
+#EXTINF:-1 ,|AR| BEINS SPORTS PREMIUM 3 UHD
+http://rv.therevenge.co:80/307211774215/307211774215/78635
+#EXTINF:-1 ,|AR| BEIN SPORTS 4 UHD
+http://rv.therevenge.co:80/307211774215/307211774215/78634
+#EXTINF:-1 ,|AR| BEIN SPORTS 5 UHD
+http://rv.therevenge.co:80/307211774215/307211774215/78633
+#EXTINF:-1 ,|AR| BEIN SPORTS 6 UHD
+http://rv.therevenge.co:80/307211774215/307211774215/78632
+#EXTINF:-1 ,|AR| BEIN SPORTS 7 UHD
+http://rv.therevenge.co:80/307211774215/307211774215/78631
+#EXTINF:-1 ,|AR| BEIN SPORTS 8 UHD
+http://rv.therevenge.co:80/307211774215/307211774215/78630
+#EXTINF:-1 ,|AR| BEIN SPORTS 9 UHD
+http://rv.therevenge.co:80/307211774215/307211774215/78629
+#EXTINF:-1 ,|AR| BEIN SPORTS 10 UHD OLYMPIC
+http://rv.therevenge.co:80/307211774215/307211774215/78628
+#EXTINF:-1 ,|AR| BEIN SPORTS 11 UHD EN
+http://rv.therevenge.co:80/307211774215/307211774215/78627
+#EXTINF:-1 ,|AR| BEIN SPORTS 12 UHD EN
+http://rv.therevenge.co:80/307211774215/307211774215/78626
+#EXTINF:-1 ,|AR| BEIN SPORTS 13 UHD
+http://rv.therevenge.co:80/307211774215/307211774215/78625
+#EXTINF:-1 ,|AR| ABU DHABI SPORTS 1 HD
+http://rv.therevenge.co:80/307211774215/307211774215/86493
+#EXTINF:-1 ,|AR| ABU DHABI SPORTS 2 HD
+http://rv.therevenge.co:80/307211774215/307211774215/86492
+#EXTINF:-1 ,|AR| ABU DHABI SPORTS 3 HD
+http://rv.therevenge.co:80/307211774215/307211774215/86491
+#EXTINF:-1 ,|AR| ABU DHABI SPORTS 4 HD
+http://rv.therevenge.co:80/307211774215/307211774215/86490
+#EXTINF:-1 ,LO BEINS PORTS 1 4K
+http://pn.tvott.info:80/307234111041/307234111041/164061
+#EXTINF:-1 ,LO BEINS PORTS PREMIUM 01 FHD
+http://pn.tvott.info:80/307234111041/307234111041/164060
+#EXTINF:-1 ,LO BEINS PORTS PREMIUM  01 HD
+http://pn.tvott.info:80/307234111041/307234111041/164059
+#EXTINF:-1 ,LO BEINS PORTS PREMIUM  01 SD
+http://pn.tvott.info:80/307234111041/307234111041/164058
+#EXTINF:-1 ,LO BEINS PORTS PREMIUM  02 FHD
+http://pn.tvott.info:80/307234111041/307234111041/164057
+#EXTINF:-1 ,LO BEINS PORTS PREMIUM  02 HD
+http://pn.tvott.info:80/307234111041/307234111041/164056
+#EXTINF:-1 ,LO BEINS PORTS PREMIUM  02 SD
+http://pn.tvott.info:80/307234111041/307234111041/164055
+#EXTINF:-1 ,LO BEINS PORTS PREMIUM  03 FHD
+http://pn.tvott.info:80/307234111041/307234111041/164054
+#EXTINF:-1 ,LO BEINS PORTS PREMIUM  03 HD
+http://pn.tvott.info:80/307234111041/307234111041/164053
+#EXTINF:-1 ,LO BEINS PORTS PREMIUM  03 SD
+http://pn.tvott.info:80/307234111041/307234111041/164052
+#EXTINF:-1 ,LO BEINS PORTS 01 FHD
+http://pn.tvott.info:80/307234111041/307234111041/164051
+#EXTINF:-1 ,LO BEINS PORTS 01 HD
+http://pn.tvott.info:80/307234111041/307234111041/164050
+#EXTINF:-1 ,LO BEINS PORTS 01 SD
+http://pn.tvott.info:80/307234111041/307234111041/164049
+#EXTINF:-1 ,LO BEINS PORTS 02 FHD
+http://pn.tvott.info:80/307234111041/307234111041/164048
+#EXTINF:-1 ,LO BEINS PORTS 02 HD
+http://pn.tvott.info:80/307234111041/307234111041/164047
+#EXTINF:-1 ,LO BEINS PORTS 02 SD
+http://pn.tvott.info:80/307234111041/307234111041/164046
+#EXTINF:-1 ,LO BEINS PORTS 03 FHD
+http://pn.tvott.info:80/307234111041/307234111041/164045
+#EXTINF:-1 ,..LO BEINS PORTS 03 HD
+http://pn.tvott.info:80/307234111041/307234111041/164044
+#EXTINF:-1 ,LO BEINS PORTS 03 SD
+http://pn.tvott.info:80/307234111041/307234111041/164043
+#EXTINF:-1 ,LO  BEINS PORTS 04 FHD
+http://pn.tvott.info:80/307234111041/307234111041/164042
+#EXTINF:-1 ,LO  BEINS PORTS 04 HD
+http://pn.tvott.info:80/307234111041/307234111041/164041
+#EXTINF:-1 ,LO BEINS PORTS 04 SD
+http://pn.tvott.info:80/307234111041/307234111041/164040
+#EXTINF:-1 ,LO  BEINS PORTS 05 FHD
+http://pn.tvott.info:80/307234111041/307234111041/164039
+#EXTINF:-1 ,LO  BEINS PORTS 05 HD
+http://pn.tvott.info:80/307234111041/307234111041/164038
+#EXTINF:-1 ,LO BEINS PORTS 05 SD
+http://pn.tvott.info:80/307234111041/307234111041/164037
+#EXTINF:-1 ,LO BEINS PORTS 06 FHD
+http://pn.tvott.info:80/307234111041/307234111041/164036
+#EXTINF:-1 ,LO BEINS PORTS 06 HD
+http://pn.tvott.info:80/307234111041/307234111041/164035
+#EXTINF:-1 ,LO BEINS PORTS 06 SD
+http://pn.tvott.info:80/307234111041/307234111041/164034
+#EXTINF:-1 ,LO  BEINS PORTS 07 FHD
+http://pn.tvott.info:80/307234111041/307234111041/164033
+#EXTINF:-1 ,LO  BEINS PORTS 07 HD
+http://pn.tvott.info:80/307234111041/307234111041/164032
+#EXTINF:-1 ,LO BEINS PORTS 07 SD
+http://pn.tvott.info:80/307234111041/307234111041/164031
+#EXTINF:-1 ,LO  BEINS PORTS 01 FHD EN
+http://pn.tvott.info:80/307234111041/307234111041/164030
+#EXTINF:-1 ,LO  BEINS PORTS 01 HD EN
+http://pn.tvott.info:80/307234111041/307234111041/164029
+#EXTINF:-1 ,LO BEINS PORTS 01 SD EN
+http://pn.tvott.info:80/307234111041/307234111041/164028
+#EXTINF:-1 ,LO BEINS PORTS 02 FHD EN
+http://pn.tvott.info:80/307234111041/307234111041/164027
+#EXTINF:-1 ,LO BEINS PORTS 02 SD EN
+http://pn.tvott.info:80/307234111041/307234111041/164026
+#EXTINF:-1 ,LO BEINS PORTS 02 HD EN
+http://pn.tvott.info:80/307234111041/307234111041/164025
+#EXTINF:-1 ,Bein Sport HD
+http://pn.tvott.info:80/307234111041/307234111041/163931
+#EXTINF:-1 ,Bein Sport News HD
+http://pn.tvott.info:80/307234111041/307234111041/163930
+#EXTINF:-1 ,Bein Sports Premium 1 HD
+http://pn.tvott.info:80/307234111041/307234111041/163929
+#EXTINF:-1 ,Bein Sports Premium 2 HD
+http://pn.tvott.info:80/307234111041/307234111041/163928
+#EXTINF:-1 ,Bein Sports Premium 3 HD
+http://pn.tvott.info:80/307234111041/307234111041/163927
+#EXTINF:-1 ,Bein Sports HD1 HD
+http://pn.tvott.info:80/307234111041/307234111041/163926
+#EXTINF:-1 ,Bein Sports HD2 HD
+http://pn.tvott.info:80/307234111041/307234111041/163925
+#EXTINF:-1 ,Bein Sports HD3 HD
+http://pn.tvott.info:80/307234111041/307234111041/163924
+#EXTINF:-1 ,Bein Sports HD4 HD
+http://pn.tvott.info:80/307234111041/307234111041/163923
+#EXTINF:-1 ,Bein Sports HD5 HD
+http://pn.tvott.info:80/307234111041/307234111041/163922
+#EXTINF:-1 ,Bein Sports HD6 HD
+http://pn.tvott.info:80/307234111041/307234111041/163921
+#EXTINF:-1 ,Bein Sports HD7 HD
+http://pn.tvott.info:80/307234111041/307234111041/163920
+#EXTINF:-1 ,Bein Sports Extra 1
+http://pn.tvott.info:80/307234111041/307234111041/163919
+#EXTINF:-1 ,Bein Sports English HD2
+http://pn.tvott.info:80/307234111041/307234111041/163918
+#EXTINF:-1 ,Bein Sports English HD3
+http://pn.tvott.info:80/307234111041/307234111041/163917
+#EXTINF:-1 ,Bein Sports French HD2
+http://pn.tvott.info:80/307234111041/307234111041/163915
+#EXTINF:-1 ,Bein Sports English HD1
+http://pn.tvott.info:80/307234111041/307234111041/163914
+#EXTINF:-1 ,Bein Sport NBA HD
+http://pn.tvott.info:80/307234111041/307234111041/163913
+#EXTINF:-1 ,Bein Sport Premium SD1
+http://pn.tvott.info:80/307234111041/307234111041/163912
+#EXTINF:-1 ,Bein Sport Premium SD2
+http://pn.tvott.info:80/307234111041/307234111041/163911
+#EXTINF:-1 ,Bein Sport Premium SD3
+http://pn.tvott.info:80/307234111041/307234111041/163910
+#EXTINF:-1 ,Bein Sport SD1
+http://pn.tvott.info:80/307234111041/307234111041/163909
+#EXTINF:-1 ,Bein Sport SD2
+http://pn.tvott.info:80/307234111041/307234111041/163908
+#EXTINF:-1 ,Bein Sport SD3
+http://pn.tvott.info:80/307234111041/307234111041/163907
+#EXTINF:-1 ,Bein Sport SD4
+http://pn.tvott.info:80/307234111041/307234111041/163906
+#EXTINF:-1 ,Bein Sport SD5
+http://pn.tvott.info:80/307234111041/307234111041/163905
+#EXTINF:-1 ,Bein Sport SD6
+http://pn.tvott.info:80/307234111041/307234111041/163904
+#EXTINF:-1 ,Bein Sport SD7
+http://pn.tvott.info:80/307234111041/307234111041/163903
+#EXTINF:-1 ,Bein Sport Extra SD1
+http://pn.tvott.info:80/307234111041/307234111041/163902
+#EXTINF:-1 ,Bein Sport English SD2
+http://pn.tvott.info:80/307234111041/307234111041/163901
+#EXTINF:-1 ,Bein Sport English SD3
+http://pn.tvott.info:80/307234111041/307234111041/163900
+#EXTINF:-1 ,Bein Sport French SD1
+http://pn.tvott.info:80/307234111041/307234111041/163899
+#EXTINF:-1 ,Bein Sport French SD2
+http://pn.tvott.info:80/307234111041/307234111041/163898
+#EXTINF:-1 ,Bein Sport English SD1
+http://pn.tvott.info:80/307234111041/307234111041/163897
+#EXTINF:-1 ,Ar- Alkass 1 HD
+http://pn.tvott.info:80/307234111041/307234111041/163896
+#EXTINF:-1 ,Ar- Alkass 2 HD
+http://pn.tvott.info:80/307234111041/307234111041/163895
+#EXTINF:-1 ,Ar- Alkass 4 HD
+http://pn.tvott.info:80/307234111041/307234111041/163894
+#EXTINF:-1 ,Ar- Alkass 5 HD
+http://pn.tvott.info:80/307234111041/307234111041/163893
+#EXTINF:-1 ,Bein Sport Premium1 720
+http://pn.tvott.info:80/307234111041/307234111041/163892
+#EXTINF:-1 ,Bein Sport Premium2 720
+http://pn.tvott.info:80/307234111041/307234111041/163891
+#EXTINF:-1 ,Bein Sport Premium3 720
+http://pn.tvott.info:80/307234111041/307234111041/163890
+#EXTINF:-1 ,Bein Sport HD1 720
+http://pn.tvott.info:80/307234111041/307234111041/163889
+#EXTINF:-1 ,Bein Sport HD2 720
+http://pn.tvott.info:80/307234111041/307234111041/163888
+#EXTINF:-1 ,Bein Sport HD4 720
+http://pn.tvott.info:80/307234111041/307234111041/163886
+#EXTINF:-1 ,Bein Sport HD5 720
+http://pn.tvott.info:80/307234111041/307234111041/163885
+#EXTINF:-1 ,Bein Sport HD6 720
+http://pn.tvott.info:80/307234111041/307234111041/163884
+#EXTINF:-1 ,Bein Sport HD7 720
+http://pn.tvott.info:80/307234111041/307234111041/163883
+#EXTINF:-1 ,beIN SPORTS Premium 4K 1
+http://pn.tvott.info:80/307234111041/307234111041/163948
+#EXTINF:-1 ,beIN SPORTS Premium 4K 2
+http://pn.tvott.info:80/307234111041/307234111041/163947
+#EXTINF:-1 ,beIN SPORTS Premium 4K 3
+http://pn.tvott.info:80/307234111041/307234111041/163946
+#EXTINF:-1 ,beIN SPORTS 4K 1
+http://pn.tvott.info:80/307234111041/307234111041/163945
+#EXTINF:-1 ,beIN SPORTS 4K 2
+http://pn.tvott.info:80/307234111041/307234111041/163944
+#EXTINF:-1 ,beIN SPORTS 4K 3
+http://pn.tvott.info:80/307234111041/307234111041/163943
+#EXTINF:-1 ,beIN SPORTS 4K 4
+http://pn.tvott.info:80/307234111041/307234111041/163942
+#EXTINF:-1 ,beIN SPORTS 4K 5
+http://pn.tvott.info:80/307234111041/307234111041/163941
+#EXTINF:-1 ,beIN SPORTS 4K 6
+http://pn.tvott.info:80/307234111041/307234111041/163940
+#EXTINF:-1 ,beIN SPORTS 4K 7
+http://pn.tvott.info:80/307234111041/307234111041/163939
+#EXTINF:-1 ,beIN SPORTS Extra 4K 1
+http://pn.tvott.info:80/307234111041/307234111041/163938
+#EXTINF:-1 ,beIN Sport English 4k 2
+http://pn.tvott.info:80/307234111041/307234111041/163937
+#EXTINF:-1 ,beIN Sport English 4k 3
+http://pn.tvott.info:80/307234111041/307234111041/163936
+#EXTINF:-1 ,beIN Sport French 4k 1
+http://pn.tvott.info:80/307234111041/307234111041/163935
+#EXTINF:-1 ,beIN Sport French 4k 2
+http://pn.tvott.info:80/307234111041/307234111041/163934
+#EXTINF:-1 ,beIN Sport English 4k 1
+http://pn.tvott.info:80/307234111041/307234111041/163933
+#EXTINF:-1 ,Bein Sport NBA 4K
+http://pn.tvott.info:80/307234111041/307234111041/163932
+#EXTINF:-1 ,|AR| BEINS SPORTS PREMIUM 1 UHD
+http://pn.tvott.info:80/307234111041/307234111041/78637
+#EXTINF:-1 ,|AR| BEINS SPORTS PREMIUM 2 UHD
+http://pn.tvott.info:80/307234111041/307234111041/78636
+#EXTINF:-1 ,|AR| BEINS SPORTS PREMIUM 3 UHD
+http://pn.tvott.info:80/307234111041/307234111041/78635
+#EXTINF:-1 ,|AR| BEIN SPORTS 4 UHD
+http://pn.tvott.info:80/307234111041/307234111041/78634
+#EXTINF:-1 ,|AR| BEIN SPORTS 5 UHD
+http://pn.tvott.info:80/307234111041/307234111041/78633
+#EXTINF:-1 ,|AR| BEIN SPORTS 6 UHD
+http://pn.tvott.info:80/307234111041/307234111041/78632
+#EXTINF:-1 ,|AR| BEIN SPORTS 7 UHD
+http://pn.tvott.info:80/307234111041/307234111041/78631
+#EXTINF:-1 ,|AR| BEIN SPORTS 8 UHD
+http://pn.tvott.info:80/307234111041/307234111041/78630
+#EXTINF:-1 ,|AR| BEIN SPORTS 9 UHD
+http://pn.tvott.info:80/307234111041/307234111041/78629
+#EXTINF:-1 ,|AR| BEIN SPORTS 10 UHD OLYMPIC
+http://pn.tvott.info:80/307234111041/307234111041/78628
+#EXTINF:-1 ,|AR| BEIN SPORTS 11 UHD EN
+http://pn.tvott.info:80/307234111041/307234111041/78627
+#EXTINF:-1 ,|AR| BEIN SPORTS 12 UHD EN
+http://pn.tvott.info:80/307234111041/307234111041/78626
+#EXTINF:-1 ,|AR| BEIN SPORTS 13 UHD
+http://pn.tvott.info:80/307234111041/307234111041/78625
+#EXTINF:-1 ,|AR| ABU DHABI SPORTS 1 HD
+http://pn.tvott.info:80/307234111041/307234111041/86493
+#EXTINF:-1 ,|AR| ABU DHABI SPORTS 2 HD
+http://pn.tvott.info:80/307234111041/307234111041/86492
+#EXTINF:-1 ,|AR| ABU DHABI SPORTS 3 HD
+http://pn.tvott.info:80/307234111041/307234111041/86491
+#EXTINF:-1 ,|AR| ABU DHABI SPORTS 4 HD
+http://pn.tvott.info:80/307234111041/307234111041/86490
+#EXTINF:-1 ,LO BEINS PORTS 1 4K
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/164061
+#EXTINF:-1 ,LO BEINS PORTS PREMIUM 01 FHD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/164060
+#EXTINF:-1 ,LO BEINS PORTS PREMIUM  01 HD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/164059
+#EXTINF:-1 ,LO BEINS PORTS PREMIUM  01 SD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/164058
+#EXTINF:-1 ,LO BEINS PORTS PREMIUM  02 FHD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/164057
+#EXTINF:-1 ,LO BEINS PORTS PREMIUM  02 HD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/164056
+#EXTINF:-1 ,LO BEINS PORTS PREMIUM  02 SD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/164055
+#EXTINF:-1 ,LO BEINS PORTS PREMIUM  03 FHD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/164054
+#EXTINF:-1 ,LO BEINS PORTS PREMIUM  03 HD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/164053
+#EXTINF:-1 ,LO BEINS PORTS PREMIUM  03 SD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/164052
+#EXTINF:-1 ,LO BEINS PORTS 01 FHD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/164051
+#EXTINF:-1 ,LO BEINS PORTS 01 HD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/164050
+#EXTINF:-1 ,LO BEINS PORTS 01 SD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/164049
+#EXTINF:-1 ,LO BEINS PORTS 02 FHD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/164048
+#EXTINF:-1 ,LO BEINS PORTS 02 HD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/164047
+#EXTINF:-1 ,LO BEINS PORTS 02 SD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/164046
+#EXTINF:-1 ,LO BEINS PORTS 03 FHD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/164045
+#EXTINF:-1 ,..LO BEINS PORTS 03 HD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/164044
+#EXTINF:-1 ,LO BEINS PORTS 03 SD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/164043
+#EXTINF:-1 ,LO  BEINS PORTS 04 FHD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/164042
+#EXTINF:-1 ,LO  BEINS PORTS 04 HD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/164041
+#EXTINF:-1 ,LO BEINS PORTS 04 SD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/164040
+#EXTINF:-1 ,LO  BEINS PORTS 05 FHD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/164039
+#EXTINF:-1 ,LO  BEINS PORTS 05 HD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/164038
+#EXTINF:-1 ,LO BEINS PORTS 05 SD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/164037
+#EXTINF:-1 ,LO BEINS PORTS 06 FHD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/164036
+#EXTINF:-1 ,LO BEINS PORTS 06 HD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/164035
+#EXTINF:-1 ,LO BEINS PORTS 06 SD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/164034
+#EXTINF:-1 ,LO  BEINS PORTS 07 FHD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/164033
+#EXTINF:-1 ,LO  BEINS PORTS 07 HD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/164032
+#EXTINF:-1 ,LO BEINS PORTS 07 SD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/164031
+#EXTINF:-1 ,LO  BEINS PORTS 01 FHD EN
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/164030
+#EXTINF:-1 ,LO  BEINS PORTS 01 HD EN
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/164029
+#EXTINF:-1 ,LO BEINS PORTS 01 SD EN
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/164028
+#EXTINF:-1 ,LO BEINS PORTS 02 FHD EN
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/164027
+#EXTINF:-1 ,LO BEINS PORTS 02 SD EN
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/164026
+#EXTINF:-1 ,LO BEINS PORTS 02 HD EN
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/164025
+#EXTINF:-1 ,Bein Sport HD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163931
+#EXTINF:-1 ,Bein Sport News HD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163930
+#EXTINF:-1 ,Bein Sports Premium 1 HD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163929
+#EXTINF:-1 ,Bein Sports Premium 2 HD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163928
+#EXTINF:-1 ,Bein Sports Premium 3 HD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163927
+#EXTINF:-1 ,Bein Sports HD1 HD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163926
+#EXTINF:-1 ,Bein Sports HD2 HD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163925
+#EXTINF:-1 ,Bein Sports HD3 HD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163924
+#EXTINF:-1 ,Bein Sports HD4 HD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163923
+#EXTINF:-1 ,Bein Sports HD5 HD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163922
+#EXTINF:-1 ,Bein Sports HD6 HD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163921
+#EXTINF:-1 ,Bein Sports HD7 HD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163920
+#EXTINF:-1 ,Bein Sports Extra 1
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163919
+#EXTINF:-1 ,Bein Sports English HD2
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163918
+#EXTINF:-1 ,Bein Sports English HD3
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163917
+#EXTINF:-1 ,Bein Sports French HD2
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163915
+#EXTINF:-1 ,Bein Sports English HD1
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163914
+#EXTINF:-1 ,Bein Sport NBA HD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163913
+#EXTINF:-1 ,Bein Sport Premium SD1
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163912
+#EXTINF:-1 ,Bein Sport Premium SD2
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163911
+#EXTINF:-1 ,Bein Sport Premium SD3
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163910
+#EXTINF:-1 ,Bein Sport SD1
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163909
+#EXTINF:-1 ,Bein Sport SD2
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163908
+#EXTINF:-1 ,Bein Sport SD3
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163907
+#EXTINF:-1 ,Bein Sport SD4
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163906
+#EXTINF:-1 ,Bein Sport SD5
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163905
+#EXTINF:-1 ,Bein Sport SD6
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163904
+#EXTINF:-1 ,Bein Sport SD7
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163903
+#EXTINF:-1 ,Bein Sport Extra SD1
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163902
+#EXTINF:-1 ,Bein Sport English SD2
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163901
+#EXTINF:-1 ,Bein Sport English SD3
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163900
+#EXTINF:-1 ,Bein Sport French SD1
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163899
+#EXTINF:-1 ,Bein Sport French SD2
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163898
+#EXTINF:-1 ,Bein Sport English SD1
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163897
+#EXTINF:-1 ,Ar- Alkass 1 HD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163896
+#EXTINF:-1 ,Ar- Alkass 2 HD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163895
+#EXTINF:-1 ,Ar- Alkass 4 HD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163894
+#EXTINF:-1 ,Ar- Alkass 5 HD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163893
+#EXTINF:-1 ,Bein Sport Premium1 720
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163892
+#EXTINF:-1 ,Bein Sport Premium2 720
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163891
+#EXTINF:-1 ,Bein Sport Premium3 720
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163890
+#EXTINF:-1 ,Bein Sport HD1 720
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163889
+#EXTINF:-1 ,Bein Sport HD2 720
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163888
+#EXTINF:-1 ,Bein Sport HD4 720
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163886
+#EXTINF:-1 ,Bein Sport HD5 720
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163885
+#EXTINF:-1 ,Bein Sport HD6 720
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163884
+#EXTINF:-1 ,Bein Sport HD7 720
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163883
+#EXTINF:-1 ,beIN SPORTS Premium 4K 1
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163948
+#EXTINF:-1 ,beIN SPORTS Premium 4K 2
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163947
+#EXTINF:-1 ,beIN SPORTS Premium 4K 3
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163946
+#EXTINF:-1 ,beIN SPORTS 4K 1
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163945
+#EXTINF:-1 ,beIN SPORTS 4K 2
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163944
+#EXTINF:-1 ,beIN SPORTS 4K 3
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163943
+#EXTINF:-1 ,beIN SPORTS 4K 4
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163942
+#EXTINF:-1 ,beIN SPORTS 4K 5
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163941
+#EXTINF:-1 ,beIN SPORTS 4K 6
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163940
+#EXTINF:-1 ,beIN SPORTS 4K 7
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163939
+#EXTINF:-1 ,beIN SPORTS Extra 4K 1
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163938
+#EXTINF:-1 ,beIN Sport English 4k 2
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163937
+#EXTINF:-1 ,beIN Sport English 4k 3
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163936
+#EXTINF:-1 ,beIN Sport French 4k 1
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163935
+#EXTINF:-1 ,beIN Sport French 4k 2
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163934
+#EXTINF:-1 ,beIN Sport English 4k 1
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163933
+#EXTINF:-1 ,Bein Sport NBA 4K
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/163932
+#EXTINF:-1 ,|AR| BEINS SPORTS PREMIUM 1 UHD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/78637
+#EXTINF:-1 ,|AR| BEINS SPORTS PREMIUM 2 UHD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/78636
+#EXTINF:-1 ,|AR| BEINS SPORTS PREMIUM 3 UHD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/78635
+#EXTINF:-1 ,|AR| BEIN SPORTS 4 UHD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/78634
+#EXTINF:-1 ,|AR| BEIN SPORTS 5 UHD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/78633
+#EXTINF:-1 ,|AR| BEIN SPORTS 6 UHD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/78632
+#EXTINF:-1 ,|AR| BEIN SPORTS 7 UHD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/78631
+#EXTINF:-1 ,|AR| BEIN SPORTS 8 UHD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/78630
+#EXTINF:-1 ,|AR| BEIN SPORTS 9 UHD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/78629
+#EXTINF:-1 ,|AR| BEIN SPORTS 10 UHD OLYMPIC
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/78628
+#EXTINF:-1 ,|AR| BEIN SPORTS 11 UHD EN
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/78627
+#EXTINF:-1 ,|AR| BEIN SPORTS 12 UHD EN
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/78626
+#EXTINF:-1 ,|AR| BEIN SPORTS 13 UHD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/78625
+#EXTINF:-1 ,|AR| ABU DHABI SPORTS 1 HD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/86493
+#EXTINF:-1 ,|AR| ABU DHABI SPORTS 2 HD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/86492
+#EXTINF:-1 ,|AR| ABU DHABI SPORTS 3 HD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/86491
+#EXTINF:-1 ,|AR| ABU DHABI SPORTS 4 HD
+http://ip.mooniptv.cz:80/477823265351104/477823265351104/86490
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/lKl2wZH.png",Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/9q8gFsq.png",Abu Dhabi Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/U6XDpXY.png",Abu Dhabi Sports 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://www.alkass.net/alkass/assets/images/logo.png",Al Kass Online
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkassOnlmtuyvwjhd/master.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/o90fKsH.png",Al Kass Sports 1
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1vytrsvjs5r/master.m3u8
+#EXTINF:-1 group-title="Sport",Al Kass Sports 2
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass2msfjofcxcw/master.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/o90fKsH.png",Al Kass Sports 4
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass4fincy/master.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/o90fKsH.png",Al Kass Sports 5
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass5pve/master.m3u8
+#EXTINF:-1 group-title="Sport",All Sports
+http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/wULpnYR.png",ALL Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/liFebM9.png",Arryadia
+http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/liFebM9.png",Arryadia
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/5CdW62M.png",ATG
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png",Bek Sports East
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png",Bek Sports West
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png",CCTV中国中央电视台-5 体育
+http://121.31.30.90:8085/ysten-business/live/cctv-5/yst.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png",CCTV中国中央电视台-5+ 体育赛事
+http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/yst.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png",CCTV中国中央电视台-5+ 体育赛事
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/RZE3Pwf.png",Cycle World
+https://a.jsrdn.com/broadcast/3e5befe5dd/+0000/high/c.m3u8
+#EXTINF:-1 group-title="Sport",DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="http://www.livenewsmag.com/wp-content/uploads/2017/03/DD-Sports-TV.jpg",DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/eytrf0Y.png",Dubai Racing
+https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/eytrf0Y.png",Dubai Racing 2
+https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/eytrf0Y.png",Dubai Racing 3
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/iYgHR5D.png",Dubai Sports 1
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/qBdOZ1x.png",Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg",Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://static1.squarespace.com/static/5a6f534f017db2d628751be1/t/5a6f5557652deada67290f54",Edge Sports
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Sport",Esport Club
+https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/wB9CkPG.jpg",Fight Sports
+http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/index.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/wB9CkPG.jpg",Fight Sports
+http://210.210.155.35/uq2663/h/h05/index.m3u8
+#EXTINF:-1 group-title="Sport",FOX Sport HD 1
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/jt6g1Jt.png",Horizon Sports
+https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/Plcqlr7.jpg",Jordan Sport TV
+https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/480px-New_Japan_Pro_Wrestling_Logo_2.svg.png",New Japan Pro Wrestling World
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="http://www.nettv.live/uploads/18/1-1P426222R1296.jpg",NewTV未来电视 精品体育
+http://121.31.30.90:8085/ysten-business/live/jtiyu/1.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="http://part.gov.om/part/images/oman_sport.png",Oman Sport
+https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/Lqtz4tS.jpg",Rai Sport
+https://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/master.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/7NeBmWX.jpg",Red Bull TV
+https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/7NeBmWX.jpg",Red Bull TV
+https://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/7NeBmWX.jpg",Red Bull TV
+https://i.mjh.nz/au/Melbourne/tv.redbull.tv.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/7NeBmWX.jpg",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/1ZKpTT5.jpg",Sportskool
+https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/7qSbS53.png",Telecaribe Deportes
+https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
+#EXTINF:-1 group-title="Sport",Türkmenistan Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="Sport",Türkmenistan Sport
+http://217.174.225.146/legacyhls/ch004_400/index.m3u8
+#EXTINF:-1 group-title="Sport",Türkmenistan Sport
+http://217.174.225.146/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="Sport",Türkmenistan Sport
+https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="http://tv-online.in/wp-content/uploads/2015/09/Turkmen-sport-logo.jpg",Türkmenistan Sport
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="Sport",Viasat Sport East
+https://persik.tv/stream/3602/287583/10249.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/smyvTHD.jpg",World Of Free Sports TV
+https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
+#EXTINF:-1 group-title="Sport",Астрахань.Ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Sport",Астрахань.Ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
+#EXTINF:-1 group-title="Sport",Астрахань.Ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="http://www.ktrk.kg/images/channels/nav/sport.png",КТРК Спорт
+http://onlinetv.ktrk.kg:1935/live/myStream4/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/ud7AVaF.png",Матч!
+https://uiptv.do.am/1ufc/000000003/playlist.m3u8
