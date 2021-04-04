@@ -51,11 +51,6 @@ http://202.80.222.130/000001/2/ch14061215034900095272/1001.m3u8? virtualDomain=0
 #EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/mobile/images/cnn_app_icon.png",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
 #NEW CHANNEL#
-#EXTINF: -1 tvg-logo="https://cdn.cnbcindonesia.com/cnbc/mobile/images/cnbc_icon_apps.png", CbncTV
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://jogjatv.tv/wp-content/uploads/2015/08/LOGO-JOGJA-TV-NEW-pii-new.png", JogjaTV
-https://raw.githubusercontent.com/RendyCODE/RendyCODE/main/TV/jogjatv.m3u8
-
 
 #EXTM3U
 #EXTINF:-1 ,beIN SPORTS 1 SD
