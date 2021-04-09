@@ -53,3 +53,99 @@ http://210.210.155.35/qwr9ew/s/s07/02.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/mobile/images/cnn_app_icon.png",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
 #NEW CHANNEL#
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD MOVIES 1",Annabelle: Creation (2017)
+http://cdnvod.setv.ca/hls/Annabelle.2.Creation.2017.720p.BluRay.H264.AAC-RARBG.mp4/master.m3u8
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD MOVIES 1",Godzilla: Planet of the Monsters (2017)
+https://archive.org/download/GodzillaMonsterPlanet/Godzilla%20Monster%20Planet.mp4
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD MOVIES 1",Wish Upon (2017)
+http://cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3u8
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD MOVIES 1",Wonder Woman (2017)
+http://cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3u8
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD MOVIES 1",Almost Christmas (2016)
+https://archive.org/download/AlmostChristmas20161080pRemux/Almost%20Christmas%20(2016)%201080p%20Remux.mp4
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD MOVIES 1",Bad Santa 2 (2016)
+https://archive.org/download/BadSanta22016UNRATED1080pRemux/Bad%20Santa%202%20(2016)%20UNRATED%201080p%20Remux.mp4
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD MOVIES 1",Colossal (2016)
+https://ia601501.us.archive.org/22/items/LaMaravillasDeLaVida201702/LaMaravillasDeLaVida2017_02.mp4
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD MOVIES 1",Rules Don't Apply (2016)
+https://archive.org/download/RulesDontApply20161080pRemux/Rules%20Dont%20Apply%20(2016)%201080p%20Remux.mp4
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD MOVIES 1",Home (2015)
+https://archive.org/download/Home.2015.720p.YIFYTopArchive.IR/Home.2015.720p.YIFY_TopArchive.IR.mp4
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD MOVIES 1",The Transporter Refueled (2015)
+https://archive.org/download/TheTransporterRefueled20151080pBluRayX264DTSJYK/The%20Transporter%20Refueled%202015%201080p%20BluRay%20x264%20DTS-JYK.mp4
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD MOVIES 1",Buck Wild (2014)
+https://archive.org/download/BuckWild2013720p/Buck.Wild.2013.720p.BluRay.x264.YIFY.mp4
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD MOVIES 1",Free Fall (2014)
+https://archive.org/download/FreeFall2014720p/Free%20Fall%20(2014)%20720p.mp4
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD MOVIES 1",Carrie (2013)*
+https://archive.org/download/Kickay.blogspot.com_Carrie.2013.HD.1080p_201401/%5Bkickay.blogspot.com%5D%20Carrie%202013%20HD%201080p.mp4
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD MOVIES 1",Pup (2013)
+https://archive.org/download/TorrentPopular.comPup20131080p1080p/Pup.2013.1080p.BluRay.x264.YIFY.mp4
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD MOVIES 1",The Social Network (2010)
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD MOVIES 2",Sita Sings the Blues (2008)
+https://archive.org/download/Sita_Sings_the_Blues_1080p_dirac_vorbis.ogg/Sita_Sings_the_Blues_1080p_dirac_vorbis.mp4
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD MOVIES 2",Sobaka (2008)
+https://archive.org/download/Sobaka/sobaka.mp4
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD MOVIES 2",Insecurity (2007)
+https://archive.org/download/insecurity/Insecurity_512kb.mp4
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD MOVIES 2",Steal This Film 2 (2007)
+https://archive.org/download/StealThisFilmII/Steal_This_Film_II.720p_512kb.mp4
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD MOVIES 2",Zeitgeist - The Movie (2007)
+https://archive.org/download/zeitgeist_movie/Zeitgeist_512kb.mp4
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD MOVIES 2",Bah Humduck! - A Looney Tunes Christmas (2006)
+https://archive.org/download/Bugs_Bunny_Collection/Bah%2C%20Humduck%21%20-%20A%20Looney%20Tunes%20Christmas%20(2006)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD MOVIES 2",Children of Men (2006)
+https://archive.org/download/ChildrenOfMen20061080pX26510bitJoy/Children%20of%20Men%202006%20(1080p%20x265%2010bit%20Joy).mp4
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD MOVIES 2",Step Up (2006)
+https://archive.org/download/StepUp20061080pX264SciencefunMux/Step%20Up%20%282006%29%201080p%20x264%20%5bSciencefun%20Mux%5d.mp4
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD MOVIES 2",Wholesale Souls Inc. (2006)
+https://archive.org/download/WholesaleSoulsInc/wholesale-souls-inc_512kb.mp4
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD MOVIES 2",Between Hurricanes (2005)
+https://archive.org/download/BetwHurr/BETWEEN-HURRICANES_512kb.mp4
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD MOVIES 2",The Exorcism of Emily Rose (2005)
+https://archive.org/download/The.Exorcism.of.Emily.Rose.UNRATED.2005.1080p.BrRip.x264.BOKUTOX.YIFY/The.Exorcism.of.Emily.Rose.UNRATED.2005.1080p.BrRip.x264.BOKUTOX.YIFY.mp4
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD MOVIES 2",Godzilla: Final Wars (2004)
+https://archive.org/download/GodzillaFinalWars/Godzilla%20Final%20Wars.mp4
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD MOVIES 2",Limbo (2004)
+https://archive.org/download/RandallPullenTheDaysofLimbo/The_Days_Of_LimboDIVX_512kb.mp4
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD MOVIES 2",Honey (2003)
+https://archive.org/download/StepUp20061080pX264SciencefunMux/Honey%20%282003%29%201080p%20x264%20%5bSciencefun%20Mux%5d.mp4
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD MOVIES 2",Looney Tunes Back in Action (2003)
+https://archive.org/download/Bugs_Bunny_Collection/Looney%20Tunes%20Back%20In%20Action%20(2003)%20-%20[arsenaloyal].mp4
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD MOVIES 2",Dragon Ball Z: Fusion - Last Saiyan (2002)
+https://archive.org/download/DragonBallZFusionTheLastSaiyanVHS/Dragon%20Ball%20Z%20Fusion%20The%20Last%20Saiyan%20VHS.mp4
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD MOVIES 2",Godzilla Against Mechagodzilla (2002)
+https://archive.org/download/GodzillaAgainstMechagodzilla_201703/Godzilla%20Against%20Mechagodzilla.mp4
+
