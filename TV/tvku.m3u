@@ -42,8 +42,7 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 https://raw.githubusercontent.com/RendyCODE/RendyCODE/main/TV/inews.m3u8
 #TVONE#
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-0JBXKL0qaOA/YFhrSqYvEpI/AAAAAAAAARs/bB8i8h4Em3wimUeQtPIDD-5EowSobwkngCLcBGAsYHQ/s139/TvOne.png", TVONE HD
-#https://files.forumesia.com/wp-content/uploads/2021/03/TVONE.m3u8#
-https://raw.githubusercontent.com/RendyCODE/RendyCODE/main/TV/tvone.m3u8
+http://210.210.155.35/session/8fab1378-f007-11ea-8c80-bcbbbceafe52/qwr9ew/s/s105/02.m3u8
 #ANTV#
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-VF6XjsQwoa0/YFhrPUp4xJI/AAAAAAAAARE/cuWX1NNgQncsxUZfXFyMzF8gXYsepKLdACLcBGAsYHQ/s139/AnTV.png", ANTV
 http://210.210.155.35/qwr9ew/s/s07/02.m3u8
