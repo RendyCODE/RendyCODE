@@ -48,7 +48,7 @@ http://210.210.155.35/qwr9ew/s/s07/02.m3u8
 
 #EXTINF:-1 tvg-id="ANTV HD.id" tvg-name="ANTV HD" tvg-logo="https://images.useetv.com/logo_antv_big1.png" group-title="Lokal",ANTV (backup)#
 #http://210.210.155.35/session/6de457ae-d009-11ea-9322-9803b32b7513/qwr9ew/s/s07/index1.m3u8#
-
+ 
 #CNN#
 #EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/mobile/images/cnn_app_icon.png",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
