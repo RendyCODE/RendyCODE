@@ -53,10 +53,37 @@ http://210.210.155.35/qwr9ew/s/s07/02.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/mobile/images/cnn_app_icon.png",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
 #NEW CHANNEL#
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/43al4vt1glgxhb4/reborn1.jpg?dl=1" group-title="VOD INDONESIA",WARKOP DKI REBORN PART1 
-https://www.dropbox.com/s/3b85jnjn1vb8ia6/Warkop%20DKI%20Reborn-%20Jangkrik%20Boss%282016%29.ts?dl=1 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/aa2mzfe9wfzj2ra/reborn2.jpg?dl=1" group-title="VOD INDONESIA",WARKOP DKI REBORN PART2 
-https://www.dropbox.com/s/ydui6m188oh8uxs/Warkop%20DKI%20Reborn-%20Jangkrik%20Boss%282017%29.ts?dl=1 
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/bc/23/ed/bc23edcfcd11257c6909cf6e7a7fba62.jpg" group-title="Sport", Badminton 1
+https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/bc/23/ed/bc23edcfcd11257c6909cf6e7a7fba62.jpg" group-title="Sport", Badminton 2
+https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://tvthumb.dmpcdn.com/data_img/2019/08/afc53720-a686-4376-8ab3-a910f1821c0e_original-4.png" group-title="Sport", True Premiere Football HD2
+https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://ngobrolmotor.files.wordpress.com/2012/02/motogp.jpg" group-title="Sport", Moto GP
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tennischannel.png" group-title="Sport", Tenis Chanel
+https://www.livedoomovies.com/02_TennisHD_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="Sport", UFC FIGHT
+https://vod1badu1.shortcm.li/LiveUFCFP.m3u8
+#EXTINF: -1 tvg-logo="https://mediabola.net/wp-content/uploads/2020/06/Streaming-Bein-Sport.jpg" group-title="Sport", beIN Sports 1 Asia
+https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://mediabola.net/wp-content/uploads/2020/06/Streaming-Bein-Sport.jpg" group-title="Sport", beIN Sports 2 Asia
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.goalzz.com/?i=ana%2Fsport_tv1_pt.jpg" group-title="Sport", Sport TV 1
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.goalzz.com/?i=ana%2Fsport_tv1_pt.jpg" group-title="Sport", Sport TV 2
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.goalzz.com/?i=ana%2Fsport_tv1_pt.jpg" group-title="Sport", Sport TV 3
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.goalzz.com/?i=ana%2Fsport_tv1_pt.jpg" group-title="Sport", Sport TV 4
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.goalzz.com/?i=ana%2Fsport_tv1_pt.jpg" group-title="Sport", Sport TV 5
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/9/0/4/1296904_btsportimage2_13474.jpg" group-title="Sport", BT Sport1
+https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/9/0/4/1296904_btsportimage2_13474.jpg" group-title="Sport", BT Sport2
+https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/qb1k6jhws4q4vlt/reborn2019.jpg?dl=1" group-title="VOD INDONESIA",WARKOP DKI 2019 
 https://www.dropbox.com/s/5z10rarks0lxt61/Warkop%20DKI%20Reborn%20%282019%29.ts?dl=1 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/eilqv78tqpxwhzt/images%20%281%29.jpg?dl=1" group-title="VOD INDONESIA",SI DOEL 2018 
