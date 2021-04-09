@@ -24,8 +24,7 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356
 https://fikrulmkc.my.id/bagus/usee-kompastv.m3u8
 #NETTV#
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-q40Thh63Ayw/YFhrQo8QQOI/AAAAAAAAARU/syhg7pCsg3028ASbG3KpqjfyDFTJi287QCLcBGAsYHQ/s136/NetTV.png", NetTV
-#https://cdn12jtedge.useetv.com/joss/15/net/chunklist_w823235971_b1344100_sleng_andriant.net.m3u8?enc=QQp_mACIb5j1GvnhWt7fcg&uid=Mzc0OWJkZjJjZWFjOWExMzJiMDVlNThjNjg5ZjRmNGE=&exp=1617012198#
-https://raw.githubusercontent.com/RendyCODE/RendyCODE/main/TV/nettv.m3u8
+http://210.210.155.35/qwr9ew/s/s08/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=NET.
 #JTV#
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/--_9mRztShpc/YFhwt8p4eQI/AAAAAAAAASQ/5cZ8TuuLwRA14zMKL9uPra72-SBziGLgwCLcBGAsYHQ/s225/JtvRek.jpegg", JTV
 #http://122.248.43.138:1935/ch2/myStream/playlist.m3u8#
