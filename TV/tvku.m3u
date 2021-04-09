@@ -131,8 +131,6 @@ http://srv19.nf21.net:80/files/15-2018-08-14-2a88269fa86b8dab2575101a66eb0732.mp
 #EXTINF:-1 tvg-logo="https://live.staticflickr.com/65535/49835389593_4e6a7960e2.jpg"  group-title="VOD INDONESIA",Bodyguard Ugal-Ugalan (2018)
 http://srv24.nf21.net:80/files/11-2018-11-09-4d0f5e263c6bc227c1b23c5145c32713.mp4
 
-
-
 #EXTINF:-1 tvg-logo="https://live.staticflickr.com/65535/49835389593_4e6a7960e2.jpg"  group-title="VOD INDONESIA",Suatu Hari Nanti (2017)
 http://srv18.nf21.net:80/files/15-2018-08-11-3d7d79b7e00aba5df3c61ce465e11cf8.mp4
 
@@ -145,70 +143,6 @@ http://srv18.nf21.net:80/files/10-2018-08-06-7dae19687c0d57fabf80cda51736f30d.mp
 #EXTINF:-1 tvg-logo="https://live.staticflickr.com/65535/49835389593_4e6a7960e2.jpg"  group-title="VOD INDONESIA",Naga Bonar Jadi 2 (2007)
 http://srv18.nf21.net:80/files/15-2018-08-06-ea59a563a6a6a0a51ff4356a23035870.mp4
 
-#EXTINF:0 tvg-id="ext" group-title="HORROR INDONESIA",Poconggg Juga Pocong (2011) 
-https://bit.ly/3ctK0AM 
-#EXTINF:0 tvg-id="ext" group-title="HORROR INDONESIA",Pelet Kuntilanak (2011) 
-https://bit.ly/3aw9gEz 
-#EXTINF:0 tvg-id="ext" group-title="HORROR INDONESIA",Ada Apa Dengan Pocong (2011) 
-https://bit.ly/2VFwHHA 
-#EXTINF:0 tvg-id="ext" group-title="HORROR INDONESIA",Kalung Jelangkung (2011) 
-https://bit.ly/39oHIRA 
-#EXTINF:0 tvg-id="ext" group-title="HORROR INDONESIA",13 Cara Memanggil Setan (2011) 
-https://bit.ly/3aoORBx 
-#EXTINF:0 tvg-id="ext" group-title="HORROR INDONESIA",Kafan Sundel Bolong (2012) 
-https://bit.ly/2TkOIJF 
-#EXTINF:0 tvg-id="ext" group-title="HORROR INDONESIA",Rumah Bekas Kuburan (2012) 
-https://bit.ly/2wr5UEg 
-#EXTINF:0 tvg-id="ext" group-title="HORROR INDONESIA",Bangkitnya Suster Gepeng (2012) 
-https://bit.ly/2TmMoSt 
-#EXTINF:0 tvg-id="ext" group-title="HORROR INDONESIA",Danau Hitam (2014) 
-https://bit.ly/2PNs0rj 
-#EXTINF:0 tvg-id="ext" group-title="HORROR INDONESIA",Mall Klender (2014) 
-https://bit.ly/2PLXs9u 
-#EXTINF:0 tvg-id="ext" group-title="HORROR INDONESIA",Drakula Cinta (2014) 
-https://bit.ly/2uPhmsO 
-#EXTINF:0 tvg-id="ext" group-title="HORROR INDONESIA",Sarang Hantu Jakarta (2014) 
-https://bit.ly/2x57jRa 
-#EXTINF:0 tvg-id="ext" group-title="HORROR INDONESIA",Kakak (2015) 
-https://bit.ly/3avrt5w 
-#EXTINF:0 tvg-id="ext" group-title="HORROR INDONESIA",Rumah Malaikat (2016) 
-https://bit.ly/2TmMnOp 
-#EXTINF:0 tvg-id="ext" group-title="HORROR INDONESIA",Ruqyah The Exorcism (2017) 
-https://bit.ly/2vBPcBW 
-#EXTINF:0 tvg-id="ext" group-title="HORROR INDONESIA",Gasing Tengkorak (2017) 
-https://bit.ly/3cpFJhT 
-#EXTINF:0 tvg-id="ext" group-title="HORROR INDONESIA",Rasuk (2018) 
-https://bit.ly/2VKfhcX 
-#EXTINF:0 tvg-id="ext" group-title="HORROR INDONESIA",Bisikan Iblis (2018) 
-https://bit.ly/2TvKMEA 
-#EXTINF:0 tvg-id="ext" group-title="HORROR INDONESIA",Suzzanna: Buried Alive (2018) 
-https://bit.ly/2TvKNs8 
-#EXTINF:0 tvg-id="ext" group-title="HORROR INDONESIA",Sesat (2018) 
-https://bit.ly/38ozcRl 
-#EXTINF:0 tvg-id="ext" group-title="HORROR INDONESIA",Arwah Tumbal Nyai (2018) 
-https://bit.ly/32Po1jd 
-#EXTINF:0 tvg-id="ext" group-title="HORROR INDONESIA",Kembang Kantil (2018) 
-https://bit.ly/2PNWd9J 
-#EXTINF:0 tvg-id="ext" group-title="HORROR INDONESIA",Jaga Pocong (2018) 
-https://bit.ly/39qGbuq 
-#EXTINF:0 tvg-id="ext" group-title="HORROR INDONESIA",Bayi Gaib (2018) 
-https://bit.ly/2VHJ9X8 
-#EXTINF:0 tvg-id="ext" group-title="HORROR INDONESIA",Sunyi (2019) 
-https://bit.ly/2vBPcSs 
-#EXTINF:0 tvg-id="ext" group-title="HORROR INDONESIA",Sekte (2019) 
-https://bit.ly/2TmMnhn 
-#EXTINF:0 tvg-id="ext" group-title="HORROR INDONESIA",Pocong The Origin (2019) 
-https://bit.ly/39px251 
-#EXTINF:0 tvg-id="ext" group-title="HORROR INDONESIA",Pusaka (2019) 
-https://bit.ly/3asJYY0 
-#EXTINF:0 tvg-id="ext" group-title="HORROR INDONESIA",Roy Kiyoshi: The Untold Story (2019) 
-https://bit.ly/2PIMi5i 
-#EXTINF:0 tvg-id="ext" group-title="HORROR INDONESIA",Danur 3: Sunyaruri (2019) 
-https://bit.ly/2POe6Fz 
-#EXTINF:0 tvg-id="ext" group-title="HORROR INDONESIA",Roh Fasik (2019) 
-https://bit.ly/32PXQZL 
-#EXTINF:0 tvg-id="ext" group-title="HORROR INDONESIA",Mata Batin 2 (2019) 
-https://bit.ly/39nQe33 
 
 ############# ISLAM MOVIE #####################
 #EXTINF:-1 logo="https://i.ytimg.com/vi/WkrxqXsLDps/maxresdefault.jpg" group-title="Islam_Movie",Kisah Nabi Musa as  
