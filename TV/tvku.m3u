@@ -50,9 +50,11 @@ http://210.210.155.35/session/8fab1378-f007-11ea-8c80-bcbbbceafe52/qwr9ew/s/s105
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-VF6XjsQwoa0/YFhrPUp4xJI/AAAAAAAAARE/cuWX1NNgQncsxUZfXFyMzF8gXYsepKLdACLcBGAsYHQ/s139/AnTV.png", ANTV
 http://210.210.155.35/qwr9ew/s/s07/02.m3u8
 
-#EXTINF:-1 tvg-id="ANTV HD.id" tvg-name="ANTV HD" tvg-logo="https://images.useetv.com/logo_antv_big1.png" group-title="Lokal",ANTV (backup)#
+#EXTINF:-1 tvg-id="ANTV HD.id" tvg-name="ANTV HD" tvg-logo="https://images.useetv.com/logo_antv_big1.png" group-title="Lokal",ANTV (backup)
 #http://210.210.155.35/session/6de457ae-d009-11ea-9322-9803b32b7513/qwr9ew/s/s07/index1.m3u8#
- 
+
+#EXTINF:-1 tvg-id="ANTV HD.id" tvg-name="ANTV HD" tvg-logo="https://images.useetv.com/logo_antv_big1.png" group-title="Lokal",TES COK
+http://gdriveplayer.to/embed2.php?link=OcjXvut%252Ft13is0yxcXTmGQ8yBPnfpdFRXCMSj9KrQhQj1%252B3kjcO27FMtFiptDMomnghcxUB%252Fpav6YJpRFQrydQvExTza8KAdoOJYRR4o8tFuOIOjwwlUNtcsPeUqmbNy0uiMfvXV8MxDJfVct7OCBdcAN%252BT00BG9lDrAbB4%252Bp5hqG0Wn%252BT4SMXCKisVVLo1rJxvcaWnSrXIye2IemJeYD0iJXol4o6Vit26KfBF0datu1JqUdWz1idAYFJVSTogQb4xKJ%252FCjVptnTqeVa5a6tj
 #CNN#
 #EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/mobile/images/cnn_app_icon.png",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
