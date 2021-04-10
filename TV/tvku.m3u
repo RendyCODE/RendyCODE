@@ -54,8 +54,7 @@ http://210.210.155.35/qwr9ew/s/s07/02.m3u8
 #http://210.210.155.35/session/6de457ae-d009-11ea-9322-9803b32b7513/qwr9ew/s/s07/index1.m3u8#
 
 #EXTINF:-1 tvg-id="ANTV HD.id" tvg-name="ANTV HD" tvg-logo="https://images.useetv.com/logo_antv_big1.png" group-title="Lokal",TES COK
-https://raw.githubusercontent.com/RendyCODE/RendyCODE/main/tescok.m3u8
-#CNN#
+https://etslive-2-vidio-com.akamaized.net/exp=1618105600~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=5593cfbe6305cc6523996c205338574cdfb039e721b89d19017c9531180feede/vp9/205_stream.mpd#CNN#
 #EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/mobile/images/cnn_app_icon.png",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
 #NEW CHANNEL#
