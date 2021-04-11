@@ -38,7 +38,8 @@ https://raw.githubusercontent.com/RendyCODE/RendyCODE/main/TV/jtes.m3u8
 https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #GLOBALTV#
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-F45GGWk05xc/YFhrPcDOYmI/AAAAAAAAARA/T2xCfXdH-ysqpeDMxm6hVH29fuhBfNB4gCLcBGAsYHQ/s135/GlobalTV.png", GLOBAL TV
-https://moegi.akamaized.net/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8#INEWSTV#
+https://moegi.akamaized.net/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#INEWSTV#
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-fU1gVnL4E8M/YFhrTA9OSVI/AAAAAAAAAR0/QIk1WlFQOmIS3Ri8OqYbTYXyUyUEhq2bACLcBGAsYHQ/s135/inewstv.png", InewsTV
 #https://moegi.akamaized.net/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8#
 https://raw.githubusercontent.com/RendyCODE/RendyCODE/main/TV/inews.m3u8
@@ -49,11 +50,13 @@ http://210.210.155.35/session/8fab1378-f007-11ea-8c80-bcbbbceafe52/qwr9ew/s/s105
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-VF6XjsQwoa0/YFhrPUp4xJI/AAAAAAAAARE/cuWX1NNgQncsxUZfXFyMzF8gXYsepKLdACLcBGAsYHQ/s139/AnTV.png", ANTV
 http://210.210.155.35/qwr9ew/s/s07/02.m3u8
 
-#EXTINF:-1 tvg-id="ANTV HD.id" tvg-name="ANTV HD" tvg-logo="https://images.useetv.com/logo_antv_big1.png" group-title="Lokal",ANTV (backup)
-#http://210.210.155.35/session/6de457ae-d009-11ea-9322-9803b32b7513/qwr9ew/s/s07/index1.m3u8#
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-VF6XjsQwoa0/YFhrPUp4xJI/AAAAAAAAARE/cuWX1NNgQncsxUZfXFyMzF8gXYsepKLdACLcBGAsYHQ/s139/AnTV.png", ANTV2
+http://210.210.155.35/session/269c4afe-9a58-11eb-a232-8980991f7284/qwr9ew/s/s07/index1.m3u8
 
-#EXTINF:-1 tvg-id="ANTV HD.id" tvg-name="ANTV HD" tvg-logo="https://images.useetv.com/logo_antv_big1.png" group-title="Lokal",TES COK
-https://etslive-2-vidio-com.akamaized.net/exp=1618105600~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=5593cfbe6305cc6523996c205338574cdfb039e721b89d19017c9531180feede/vp9/205_stream.mpd#CNN#
+#EXTINF:-1 tvg-id="ANTV HD.id" tvg-name="ANTV HD" tvg-logo="https://images.useetv.com/logo_antv_big1.png" group-title="Lokal",ANTV (backup)
+http://210.210.155.35/session/6de457ae-d009-11ea-9322-9803b32b7513/qwr9ew/s/s07/index1.m3u8
+
+#CNN#
 #EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/mobile/images/cnn_app_icon.png",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
 #NEW CHANNEL#
