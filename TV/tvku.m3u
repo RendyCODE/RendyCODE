@@ -56,9 +56,9 @@ http://210.210.155.35/session/269c4afe-9a58-11eb-a232-8980991f7284/qwr9ew/s/s07/
 #EXTINF:-1 tvg-id="ANTV HD.id" tvg-name="ANTV HD" tvg-logo="https://images.useetv.com/logo_antv_big1.png" group-title="Lokal",ANTV (backup)
 http://210.210.155.35/session/6de457ae-d009-11ea-9322-9803b32b7513/qwr9ew/s/s07/index1.m3u8
 
-#EXTINF:-1, tvg-id=RCTI.id tvg-name=RCTI ID tvg-logo=https://i.postimg.cc/6QYtM4KX/RCTI.png group-title=LOCAL,RCTI+
+#EXTINF:-1, tvg-logo=https://i.postimg.cc/6QYtM4KX/RCTI.png group-title=LOCAL,RCTI+
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
-#EXTINF:-1, tvg-logo=https://i.postimg.cc/HsqNM8Hc/globaltv.png, group-title=LOCAL, Global TV
+#EXTINF:-1, tvg-logo=https://i.postimg.cc/HsqNM8Hc/globaltv.png group-title=LOCAL, Global TV
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF: 1, tvg-logo=https://i.ibb.co/vQZbBCg/MENCEID-S1.png group-title=LOCAL, MNC TV+
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
