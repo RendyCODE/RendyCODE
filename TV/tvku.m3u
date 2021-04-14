@@ -41,3 +41,30 @@ https://cdn08jtedge.useetv.com/joss/133/metrotv/chunklist_w829796730_b1344100_sl
 #KOMPASTV#
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-H4Q_xvTDY6A/YFhrPVHflGI/AAAAAAAAARI/36oMV4mn7w0nXw7v8ThMeh_fgBO4NrtbwCLcBGAsYHQ/s135/KompasTV.jpeg", KOMPAS TV
 https://cdn08jtedge.useetv.com/joss/133/kompastv/chunklist_w424833286_b684100_sleng.m3u8?enc=lfOHiPa4_WdAqkhHNDrHEA&uid=ZjViMTU4OGI0MWQ0MTUyZGRmMzVjNjRlMzAxY2MxOGQ=&exp=1618426816
+
+
+#UEFA CHAMPIONS LEAGUE#
+#EXTINF: -1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/bein-sports-logo.png", BEINSPORT
+http://144.217.253.140/beinsport2/tracks-v1a1/index.m3u8
+#EXTINF: -1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/bein-sports-logo.png", BEINSPORT
+http://46.174.189.51/m1/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/bein-sports-logo.png", BEINSPORT
+https://185-82-203-145.livesports24.online/ntvmatchfoot1.m3u8
+#EXTINF: -1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/bein-sports-logo.png", BEINSPORT
+https://95-213-172-221.livesports24.online/ntvmatchfoot1.m3u8
+#EXTINF: -1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/bein-sports-logo.png", BEINSPORT
+http://us.bestvideostreaming.is/8797/index.m3u8
+#EXTINF: -1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/bein-sports-logo.png", BEINSPORT
+http://185.226.88.3:1036/live/speednet/speednet/62.m3u8
+#EXTINF: -1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/bein-sports-logo.png", BEINSPORT
+http://144.217.253.140/beinsport1/tracks-v1a1/index.m3u8
+#EXTINF: -1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/bein-sports-logo.png", BEINSPORT
+http://46.174.189.51/m2/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/bein-sports-logo.png", BEINSPORT
+https://185-82-203-145.livesports24.online/mfootball2rus.m3u8
+#EXTINF: -1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/bein-sports-logo.png", BEINSPORT
+https://95-213-172-221.livesports24.online/mfootball2rus.m3u8
+#EXTINF: -1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/bein-sports-logo.png", BEINSPORT
+http://us.bestvideostreaming.is/8796/index.m3u8
+#EXTINF: -1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/bein-sports-logo.png", BEINSPORT
+http://185.226.88.3:1036/live/speednet/speednet/63.m3u8
