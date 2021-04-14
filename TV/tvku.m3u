@@ -26,8 +26,6 @@ https://moegi.akamaized.net/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4
 #INEWSTV#
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-fU1gVnL4E8M/YFhrTA9OSVI/AAAAAAAAAR0/QIk1WlFQOmIS3Ri8OqYbTYXyUyUEhq2bACLcBGAsYHQ/s135/inewstv.png", InewsTV
 https://moegi.akamaized.net/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-
-#NEW CHANNEL#
 #TVONE#
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-0JBXKL0qaOA/YFhrSqYvEpI/AAAAAAAAARs/bB8i8h4Em3wimUeQtPIDD-5EowSobwkngCLcBGAsYHQ/s139/TvOne.png", TVONE HD
 http://210.210.155.35/session/8fab1378-f007-11ea-8c80-bcbbbceafe52/qwr9ew/s/s105/02.m3u8
@@ -43,5 +41,3 @@ https://cdn08jtedge.useetv.com/joss/133/metrotv/chunklist_w829796730_b1344100_sl
 #KOMPASTV#
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-H4Q_xvTDY6A/YFhrPVHflGI/AAAAAAAAARI/36oMV4mn7w0nXw7v8ThMeh_fgBO4NrtbwCLcBGAsYHQ/s135/KompasTV.jpeg", KOMPAS TV
 https://cdn08jtedge.useetv.com/joss/133/kompastv/chunklist_w424833286_b684100_sleng.m3u8?enc=lfOHiPa4_WdAqkhHNDrHEA&uid=ZjViMTU4OGI0MWQ0MTUyZGRmMzVjNjRlMzAxY2MxOGQ=&exp=1618426816
-
-#NEWCHANNEL#
