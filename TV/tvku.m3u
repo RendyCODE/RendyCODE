@@ -85,9 +85,9 @@ http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/ypf/stream_7.m3u8
 
 #EXTM3U
-#EXTINF:-1, tvg-logo="http://hdfashion.tv/image/og_logo.jpg" group-title="",HD Fashion & Lifestyle
+#EXTINF: -1 tvg-logo="http://hdfashion.tv/image/og_logo.jpg" group-title="",HD Fashion & Lifestyle
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:-1, tvg-logo="https://n.divan.tv/img/global_img/media_api/channels/a05b3dfe/4e8ed074_med.png" group-title="",ID Fashion
+#EXTINF: -1 tvg-logo="https://n.divan.tv/img/global_img/media_api/channels/a05b3dfe/4e8ed074_med.png" group-title="",ID Fashion
 http://95.67.8.22/hls/idfashion/index.m3u8
 #EXTINF: -1 tvg-logo="https://images.businessoffashion.com/site/uploads/2016/03/prada_aw16_atmosphere_0091.jpg?auto=format%2Ccompress&crop=top&fit=crop&h=573&w=1024" group-title="",Public TV
 http://cdn-11.bonus-tv.ru/publictv/index.m3u8
@@ -265,9 +265,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bbf3e58ad7c757
 http://live.aatw.simplestreamcdn.com/now/live.m3u8
 #EXTINF: -1 tvg-logo="http://okteve.com/wp-content/uploads/media/b2f4d5bb1b78b392048436a272d6e7ac.jpeg" group-title="",Radio Monte Carlo TV
 http://tv.105.net/live/rmc1/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://ovego.tv/img4/rtihd.gif" group-title="",RTI HD
+#EXTINF: -1 tvg-logo="http://ovego.tv/img4/rtihd.gif" group-title="",RTI HD
 http://cdn.vsnw.net:8081/interradio/720i.m3u8
-#EXTINF:-1, tvg-logo="https://nederlandsmedianieuws.nl/images/2017/7/Xite.jpg" group-title="",XITE TV
+#EXTINF: -1 tvg-logo="https://nederlandsmedianieuws.nl/images/2017/7/Xite.jpg" group-title="",XITE TV
 http://highvolume03.streampartner.nl:1935/vleugels_hd5/livestream/index.m3u8
 
 #EXTM3U
@@ -331,9 +331,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bbf3e58ad7c757
 http://live.aatw.simplestreamcdn.com/now/live.m3u8
 #EXTINF: -1 tvg-logo="http://okteve.com/wp-content/uploads/media/b2f4d5bb1b78b392048436a272d6e7ac.jpeg" group-title="",Radio Monte Carlo TV
 http://tv.105.net/live/rmc1/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://ovego.tv/img4/rtihd.gif" group-title="",RTI HD
+#EXTINF: -1 tvg-logo="http://ovego.tv/img4/rtihd.gif" group-title="",RTI HD
 http://cdn.vsnw.net:8081/interradio/720i.m3u8
-#EXTINF:-1, tvg-logo="https://nederlandsmedianieuws.nl/images/2017/7/Xite.jpg" group-title="",XITE TV
+#EXTINF: -1 tvg-logo="https://nederlandsmedianieuws.nl/images/2017/7/Xite.jpg" group-title="",XITE TV
 http://highvolume03.streampartner.nl:1935/vleugels_hd5/livestream/index.m3u8
 
 #EXTM3U
