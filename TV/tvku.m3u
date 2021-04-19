@@ -30,7 +30,7 @@ https://moegi.akamaized.net/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4
 https://moegi.akamaized.net/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #TVONE#
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-0JBXKL0qaOA/YFhrSqYvEpI/AAAAAAAAARs/bB8i8h4Em3wimUeQtPIDD-5EowSobwkngCLcBGAsYHQ/s139/TvOne.png", TVONE HD
-http://210.210.155.35/session/8fab1378-f007-11ea-8c80-bcbbbceafe52/qwr9ew/s/s105/02.m3u8
+https://stream-08.dc3.dailymotion.com/sec(045Msia06uu92p_oLsoybAHYFkzuITqCF6lpcmcEdBE)/dm/3/x619221/s/live-3.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
 #ANTV#
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-VF6XjsQwoa0/YFhrPUp4xJI/AAAAAAAAARE/cuWX1NNgQncsxUZfXFyMzF8gXYsepKLdACLcBGAsYHQ/s139/AnTV.png", ANTV
 https://e1-hk-1.nim.mivo.tv/wm3d5ndxxds8h3kr/antv2_all/skrz1j8exe/antv2_576p/chunks.m3u8?nimblesessionid=495451950&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDIxIDc6Mjc6MTUgUE0maGFzaF92YWx1ZT1VU1ZjUldMbzlDcXAyRzNOY0oxS2pBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9LTU2MjQxMjQwfDM1LjIyMC4yNDguOTQ=
@@ -39,7 +39,7 @@ https://e1-hk-1.nim.mivo.tv/wm3d5ndxxds8h3kr/antv2_all/skrz1j8exe/antv2_576p/chu
 https://fikrulmkc.my.id/bagus/usee-net.m3u8
 #METROTV#
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-vLZz4ZEBbUg/YFhrQA5Q0pI/AAAAAAAAARM/QRfasRbxgqs5g6n2IOjpSiSwuHPgRlYlACLcBGAsYHQ/s139/MetroTV.png", METRO TV HD
-https://fikrulmkc.my.id/bagus/usee-metrotv.m3u8
+https://stream-02.ix7.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS2fDm1ss6sD9YgPqGzoCz3k)/dm/3/x75p70w/d/live-3.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
 #KOMPASTV#
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-H4Q_xvTDY6A/YFhrPVHflGI/AAAAAAAAARI/36oMV4mn7w0nXw7v8ThMeh_fgBO4NrtbwCLcBGAsYHQ/s135/KompasTV.jpeg", KOMPAS TV
 https://fikrulmkc.my.id/bagus/usee-kompastv.m3u8
