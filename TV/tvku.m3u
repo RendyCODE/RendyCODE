@@ -7,8 +7,6 @@ https://goblintvstudio.xyz/SERVER-M3U8/Piala-Mepora-Live1.m3u8
 #SCTV#
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-fOfwlllrCe8/YFhrRTe-V0I/AAAAAAAAARc/belQPLXIe-EW1L76wehwjmaa4bKmxfwIACLcBGAsYHQ/s139/Sctv.png", SCTV
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-fOfwlllrCe8/YFhrRTe-V0I/AAAAAAAAARc/belQPLXIe-EW1L76wehwjmaa4bKmxfwIACLcBGAsYHQ/s139/Sctv.png", SCTV
-https://etslive-2-vidio-com.akamaized.net/exp=1619107111~acl=/vp9/204_stream.mpd!/vp9/204/*~hmac=c406db402fbf70a44a4c529d899fcc13291bc3fd1cce59d507c449b665922a56/vp9/204_stream.mpd
 #RCTI#
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-HfIKea9AkeY/YFhrRN7sxYI/AAAAAAAAARY/wQYFvvShE7c0xdQGSE6SVKMA7kJdcxyowCLcBGAsYHQ/s1280/RCTI.png", RCTI
 https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
@@ -45,6 +43,33 @@ https://stream-02.ix7.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS2fDm1ss6sD9YgPqGz
 #KOMPASTV#
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-H4Q_xvTDY6A/YFhrPVHflGI/AAAAAAAAARI/36oMV4mn7w0nXw7v8ThMeh_fgBO4NrtbwCLcBGAsYHQ/s135/KompasTV.jpeg", KOMPAS TV
 https://fikrulmkc.my.id/bagus/usee-kompastv.m3u8
+#METROTV#
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-vLZz4ZEBbUg/YFhrQA5Q0pI/AAAAAAAAARM/QRfasRbxgqs5g6n2IOjpSiSwuHPgRlYlACLcBGAsYHQ/s139/MetroTV.png", METRO TV HD
+https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w726174387_b1492000_sleng.m3u8
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-vLZz4ZEBbUg/YFhrQA5Q0pI/AAAAAAAAARM/QRfasRbxgqs5g6n2IOjpSiSwuHPgRlYlACLcBGAsYHQ/s139/MetroTV.png", METRO TV HD
+https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w726174387_b414000_sleng.m3u8
+
+#CNN#
+#EXTINF: -1 tvg-logo="", CNN TV HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w377785939_b384000_sleng.m3u8
+#EXTINF: -1 tvg-logo="", CNN TV HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w377785939_b192000_sleng.m3u8
+
+#CNBC#
+#EXTINF: -1 tvg-logo="", CNBC TV HD
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w672826367_b384000_sleng.m3u8
+#EXTINF: -1 tvg-logo="", CNBC TV HD
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w672826367_b192000_sleng.m3u8
+
+#TVRI#
+#EXTINF: -1 tvg-logo="", TVRI TV HD
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRInasional)/Stream(03)/index.m3u8
+
+#MOTOGO#
+#EXTINF: -1 tvg-logo="", MOTOGO TV HD
+http://uk.dornastream.com/Live/mystream/index.m3u8
+#EXTINF: -1 tvg-logo="", MOTOGO TV HD
+http://uk.dornastream.com/Live720/mystream/index.m3u8
 
 #SPORTS#
 #EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="MOROTAI TV" tvg-alogo="" group-title="PREMIER LEAGUE", BT PREMIER LEAGUE
