@@ -65,7 +65,6 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w672826367_b1
 #EXTINF: -1 tvg-logo="", TVRI TV HD
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRInasional)/Stream(03)/index.m3u8
 
-
 #MOVIE#
 #EXTINF: -1 tvg-logo="" group-title="Movie Comedy", SEX IS ZERO 1 HD
 https://b-g-eu-1.betterstream.co:2222/v2-hls-playback/74872ba2a685729d996900f2c7031ca44fd00baf34cfa3530586b94ac7cea4de50d474ae50e74ed60653492f2ddf75b6ae50d72ec81b09e7420b688ab3679d473b16682007761e02825df179cd8a9f7dad2d6b3b880c44681804063c897c561d2aebdbaa4c857929fa17eba4bde0c6863c927536ec13b78b29c144ff37655fc893034b0c7fe62ae05bbca61f93d4d4ede2306899afccf8b5327b42d90422fa6a/720/index.m3u8
@@ -76,6 +75,11 @@ https://b-g-eu-1.betterstream.co:2222/v2-hls-playback/536ece193442849a6c0daf59e1
 #EXTINF: -1 tvg-logo="" group-title="Bioskop Movies", Mortal Kombat (2021) HD
 https://b-g-ca-3.betterstream.co:2222/v2-hls-playback/055e91a18df694b9952b7dc61ecaa036e7e81bf19998261905653635b2109337680c276fdcdb0a952f1cb349c4259586e7c4afcb0b8721fa1c26a1f0e25a1a992450d99f1a79dbbd7769d73326c5801073080bffc38175f43189401da149aa0f068411c79b783124f0b6b14bde0a53c19826cc7b7d7b9f1a4de94bb415fc18be4c323a7d592213e7397844962c5090c8e05c7a692537557f93247240b343eed8/720/index.m3u8
 
+#CARTOON MOVIE#
+#EXTINF: -1 tvg-logo="" group-title="Cartoon Movies", Stand By Me 1 (Part1) HD
+https://b-g-eu-1.betterstream.co:2222/v2-hls-playback/5dfe928414e61dc6d7e153c3025e427b93d9ba6b6d29309c11022a67075a77d1eded2696edf4f6b98b0fc9297c552d7890e06d24b0f041c2714e8d42c86eca45f4115673ae9a3fc5c773a67f719377d3979c5c88ef4eb90a985e1a938d027563cea133d792c5ad241eb4f97dd8eaa940db153b9d4d769e7b479efee1b07164ae6301236f98baac850550a23d526a838332d8e3caec1b48aace53967767889eac/720/index.m3u8
+#EXTINF: -1 tvg-logo="" group-title="Cartoon Movies", Stand By Me 1 (Part2) HD
+https://b-g-eu-2.betterstream.co:2222/v2-hls-playback/5dfe928414e61dc6d7e153c3025e427b93d9ba6b6d29309c11022a67075a77d1eded2696edf4f6b98b0fc9297c552d78c16b364bf7e04135b898db971d50aa4631a25d4ed5f1fa559b727b723a351d1336faf5144ee32ff40baa543ec6f5196152ac02e944447c818c48f113629212cc7b5c2d314fbd975143ec856e3a315483475ea56462aa58160a4b8a714fd64215bb7b6b54c2154483ac6af5dbdbd6df0e/720/index.m3u8
 #AnimeRG#
 #EXTINF: -1 tvg-logo="" group-title="One Piece", One Piece 895
 http://176.31.115.63/incoming/One%20Piece/%5bHorribleSubs%5d%20One%20Piece%20-%20895%20%5b720p%5d.mkv
