@@ -65,79 +65,13 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w672826367_b1
 #EXTINF: -1 tvg-logo="", TVRI TV HD
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRInasional)/Stream(03)/index.m3u8
 
-#MOTOGO#
-#EXTINF: -1 tvg-logo="", MOTOGO TV HD
-http://uk.dornastream.com/Live/mystream/index.m3u8
-#EXTINF: -1 tvg-logo="", MOTOGO TV HD
-http://uk.dornastream.com/Live720/mystream/index.m3u8
 
-#SPORTS#
-#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="MOROTAI TV" tvg-alogo="" group-title="PREMIER LEAGUE", BT PREMIER LEAGUE
-https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="MOROTAI TV" tvg-alogo="" group-title="PREMIER LEAGUE", BT PREMIER LEAGUE
-https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#MOVIE#
+#EXTINF: -1 tvg-logo="" group-title="Movie Comedy", SEX IS ZERO 1 HD
+https://b-g-eu-1.betterstream.co:2222/v2-hls-playback/74872ba2a685729d996900f2c7031ca44fd00baf34cfa3530586b94ac7cea4de50d474ae50e74ed60653492f2ddf75b6ae50d72ec81b09e7420b688ab3679d473b16682007761e02825df179cd8a9f7dad2d6b3b880c44681804063c897c561d2aebdbaa4c857929fa17eba4bde0c6863c927536ec13b78b29c144ff37655fc893034b0c7fe62ae05bbca61f93d4d4ede2306899afccf8b5327b42d90422fa6a/720/index.m3u8
+#EXTINF: -1 tvg-logo="" group-title="Movie Comedy", SEX IS ZERO 2 HD
+https://b-g-eu-1.betterstream.co:2222/v2-hls-playback/536ece193442849a6c0daf59e170d5c9ba88f0bd5551861f79a7ff13bf4e191c763ca43450980e69b411fa66c39075ba5f04c466fb0f133ec17a80b53ca006ecb727eec2c316ba522da3c9454b8074b274ab2cc037fc2ecf4c6cf754e3ca683aa9576593e9bcd1083b43da44c39f33619bb553df6c24e93ac5dec38c9c242cce1900356359d68812f904a75744ca67f6/360/index.m3u8
 
-﻿#EXTM3U
-#EXTINF:-1,beIN Sports 1 Premium SD
-http://209.145.54.100:25461/tmlive852085/tm4.xyz/11
-#EXTINF:-1,beIN Sports 2 Premium SD
-http://209.145.54.100:25461/tmlive852085/tm4.xyz/12
-#EXTINF:-1,beIN Sports 3 Premium SD
-http://209.145.54.100:25461/tmlive852085/tm4.xyz/13
-#EXTINF:-1,beIN Sports 1 SD
-http://209.145.54.100:25461/tmlive852085/tm4.xyz/14
-#EXTINF:-1,beIN Sports 2 SD
-http://209.145.54.100:25461/tmlive852085/tm4.xyz/15
-#EXTINF:-1,beIN Sports 3 SD
-http://209.145.54.100:25461/tmlive852085/tm4.xyz/16
-#EXTINF:-1,beIN Sports 4 SD
-http://209.145.54.100:25461/tmlive852085/tm4.xyz/17
-#EXTINF:-1,beIN Sports 5 SD
-http://209.145.54.100:25461/tmlive852085/tm4.xyz/18
-#EXTINF:-1,beIN Sports 6 SD
-http://209.145.54.100:25461/tmlive852085/tm4.xyz/19
-#EXTINF:-1,beIN Sports 7 SD
-http://209.145.54.100:25461/tmlive852085/tm4.xyz/20
-#EXTINF:-1,beIN Sports 1 Premium HD
-http://209.145.54.100:25461/tmlive852085/tm4.xyz/144
-#EXTINF:-1,beIN Sports 2 Premium HD
-http://209.145.54.100:25461/tmlive852085/tm4.xyz/145
-#EXTINF:-1,beIN Sports 3 Premium HD
-http://209.145.54.100:25461/tmlive852085/tm4.xyz/146
-#EXTINF:-1,beIN Sports 1 HD
-http://209.145.54.100:25461/tmlive852085/tm4.xyz/147
-#EXTINF:-1,beIN Sports 2 HD
-http://209.145.54.100:25461/tmlive852085/tm4.xyz/148
-#EXTINF:-1,beIN Sports 3 HD
-http://209.145.54.100:25461/tmlive852085/tm4.xyz/149
-#EXTINF:-1,beIN Sports 4 HD
-http://209.145.54.100:25461/tmlive852085/tm4.xyz/150
-#EXTINF:-1,beIN Sports 5 HD
-http://209.145.54.100:25461/tmlive852085/tm4.xyz/151
-#EXTINF:-1,beIN Sports 6 HD
-http://209.145.54.100:25461/tmlive852085/tm4.xyz/152
-#EXTINF:-1,beIN Sports 7 HD
-http://209.145.54.100:25461/tmlive852085/tm4.xyz/153
-#EXTINF:-1,beIN Sports 1 Premium Low
-http://209.145.54.100:25461/tmlive852085/tm4.xyz/21
-#EXTINF:-1,beIN Sports 2 Premium Low
-http://209.145.54.100:25461/tmlive852085/tm4.xyz/22
-#EXTINF:-1,beIN Sports 3 Premium Low
-http://209.145.54.100:25461/tmlive852085/tm4.xyz/23
-#EXTINF:-1,beIN Sports 1 Low
-http://209.145.54.100:25461/tmlive852085/tm4.xyz/24
-#EXTINF:-1,beIN Sports 2 Low
-http://209.145.54.100:25461/tmlive852085/tm4.xyz/25
-#EXTINF:-1,beIN Sports 3 Low
-http://209.145.54.100:25461/tmlive852085/tm4.xyz/26
-#EXTINF:-1,beIN Sports 4 Low
-http://209.145.54.100:25461/tmlive852085/tm4.xyz/27
-#EXTINF:-1,beIN Sports 5 Low
-http://209.145.54.100:25461/tmlive852085/tm4.xyz/28
-#EXTINF:-1,beIN Sports 6 Low
-http://209.145.54.100:25461/tmlive852085/tm4.xyz/29
-#EXTINF:-1,beIN Sports 7 Low
-http://209.145.54.100:25461/tmlive852085/tm4.xyz/30
 
 #AnimeRG#
 #EXTINF: -1 tvg-logo="" group-title="One Piece", One Piece 895
