@@ -77,13 +77,10 @@ https://b-g-ca-3.betterstream.co:2222/v2-hls-playback/055e91a18df694b9952b7dc61e
 
 #EXTINF: -1 tvg-logo="" group-title="Bioskop Movies", F & F Presents: Hobbs & Shaw (480p) HD
 https://www961.ff-02.com/token=DieWIIJHeG5cqpXSJ1O08A/1619359988/172.104.0.0/128/c/3b/ff74f657e4cbb8107ae2ec83b01ab3bc-480p.mp4
-#EXTINF: -1 tvg-logo="" group-title="Bioskop Movies", F & F Presents: Hobbs & Shaw (7200p) HD
-
+#EXTINF: -1 tvg-logo="" group-title="Bioskop Movies", F & F Presents: Hobbs & Shaw (720p) HD
+https://www965.ff-02.com/token=a10LZPnV4HNUjdsucktFFw/1619360325/172.104.0.0/128/c/3b/ff74f657e4cbb8107ae2ec83b01ab3bc-720p.mp4
 #EXTINF: -1 tvg-logo="" group-title="Bioskop Movies", F & F Presents: Hobbs & Shaw (1080p) HD
-
-
-
-
+https://www965.ff-02.com/token=CNRfnR1TLul9eXq2d8coEg/1619360325/172.104.0.0/121/c/3b/ff74f657e4cbb8107ae2ec83b01ab3bc-1080p.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="Bioskop Movies", Fast & Furious 9 (480p) HD
 https://www866.ff-02.com/token=2NcfstI8DMjf14_RH3YO6w/1619359400/172.104.0.0/71/3/28/85e186275ec8a377a43c9fb094442283-480p.mp4
