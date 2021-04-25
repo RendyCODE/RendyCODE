@@ -65,43 +65,17 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w672826367_b1
 #EXTINF: -1 tvg-logo="", TVRI TV HD
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRInasional)/Stream(03)/index.m3u8
 
-#MOVIE#
-#EXTINF: -1 tvg-logo="" group-title="Movie Comedy", SEX IS ZERO 1 HD
-https://b-g-eu-1.betterstream.co:2222/v2-hls-playback/74872ba2a685729d996900f2c7031ca44fd00baf34cfa3530586b94ac7cea4de50d474ae50e74ed60653492f2ddf75b6ae50d72ec81b09e7420b688ab3679d473b16682007761e02825df179cd8a9f7dad2d6b3b880c44681804063c897c561d2aebdbaa4c857929fa17eba4bde0c6863c927536ec13b78b29c144ff37655fc893034b0c7fe62ae05bbca61f93d4d4ede2306899afccf8b5327b42d90422fa6a/720/index.m3u8
-#EXTINF: -1 tvg-logo="" group-title="Movie Comedy", SEX IS ZERO 2 HD
-https://b-g-eu-1.betterstream.co:2222/v2-hls-playback/536ece193442849a6c0daf59e170d5c9ba88f0bd5551861f79a7ff13bf4e191c763ca43450980e69b411fa66c39075ba5f04c466fb0f133ec17a80b53ca006ecb727eec2c316ba522da3c9454b8074b274ab2cc037fc2ecf4c6cf754e3ca683aa9576593e9bcd1083b43da44c39f33619bb553df6c24e93ac5dec38c9c242cce1900356359d68812f904a75744ca67f6/360/index.m3u8
-
 #BIG MOVIE#
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHeq_nlbLG3FnWuGi3W9vtNPcoFonOvGrgSA&usqp=CAU" group-title="Bioskop Movies", Mortal Kombat (2021) HD
 https://www115.sbvideocdn.com/hls/tysxehltqo66j6cdabcr3h25ew6chmkbfl44la3x3gu3freyynfanbnoao3q/index-v1-a1.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHeq_nlbLG3FnWuGi3W9vtNPcoFonOvGrgSA&usqp=CAU" group-title="Bioskop Movies", Mortal Kombat (2021) HD
 https://www115.sbvideocdn.com/hls/tysxehltqo66j6cdabcr3h25ew6chmkbfl44la3x3473hreyynfjnepmlirq/index-v1-a1.m3u8
 
-#Fast & Furious#
-#EXTINF: -1 tvg-logo="" group-title="Bioskop Movies", F & F Presents: Hobbs & Shaw (480p) HD
-https://www961.ff-02.com/token=DieWIIJHeG5cqpXSJ1O08A/1619359988/172.104.0.0/128/c/3b/ff74f657e4cbb8107ae2ec83b01ab3bc-480p.mp4
-#EXTINF: -1 tvg-logo="" group-title="Bioskop Movies", F & F Presents: Hobbs & Shaw (720p) HD
-https://www965.ff-02.com/token=a10LZPnV4HNUjdsucktFFw/1619360325/172.104.0.0/128/c/3b/ff74f657e4cbb8107ae2ec83b01ab3bc-720p.mp4
-#EXTINF: -1 tvg-logo="" group-title="Bioskop Movies", F & F Presents: Hobbs & Shaw (1080p) HD
-https://www965.ff-02.com/token=CNRfnR1TLul9eXq2d8coEg/1619360325/172.104.0.0/121/c/3b/ff74f657e4cbb8107ae2ec83b01ab3bc-1080p.mp4
-
-#EXTINF: -1 tvg-logo="https://comic.systems/images/actu/Fast9-cinema-140421-154818" group-title="Bioskop Movies", Fast & Furious 9 (480p) HD
-https://www866.ff-02.com/token=2NcfstI8DMjf14_RH3YO6w/1619359400/172.104.0.0/71/3/28/85e186275ec8a377a43c9fb094442283-480p.mp4
-#EXTINF: -1 tvg-logo="https://comic.systems/images/actu/Fast9-cinema-140421-154818" group-title="Bioskop Movies", Fast & Furious 9 (720p)HD
-https://www866.ff-02.com/token=a5Ns1ehNtCSmM8HUSDLiBw/1619359400/172.104.0.0/73/3/28/85e186275ec8a377a43c9fb094442283-720p.mp4
-#EXTINF: -1 tvg-logo="https://comic.systems/images/actu/Fast9-cinema-140421-154818" group-title="Bioskop Movies", Fast & Furious 9 (1080p) HD
-https://www1971.ff-04.com/token=QDzO3wcbYr1k-y7jfgAAkA/1619359400/172.104.0.0/69/3/28/85e186275ec8a377a43c9fb094442283-1080p.mp4
-
-#CARTOON MOVIE#
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyIIkfp7577rGzK5copVKbVwLfwqoOc7qxgw&usqp=CAU" group-title="Cartoon Movies", Stand By Me 1 (Part1) HD
-https://www122.ff-01.com/token=pxHL83R5v8wWWoFXZj-uHg/1619364361/172.104.0.0/94/d/df/2b8e470c84bbeb69e0ea0c9f91039dfd-480p.mp4
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyIIkfp7577rGzK5copVKbVwLfwqoOc7qxgw&usqp=CAU" group-title="Cartoon Movies", Stand By Me 1 (Part2) HD
-https://www1999.ff-04.com/token=LbWhHJ62Kzr2S_1PMf9nPA/1619364216/172.104.0.0/95/d/df/2b8e470c84bbeb69e0ea0c9f91039dfd-720p.mp4
-
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq1tY1M8hcDgkq0oUZPFbvCVD9T7AsvtbFHw&usqp=CAU" group-title="Cartoon Movies", Stand By Me 2 (480p) HD
 https://www115.sbvideocdn.com/hls/tysxft3mqc66j6cdacxrvs2wgl5qgc3h6vzvldovrkhijlyfour25igkjd5a/index-v1-a1.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq1tY1M8hcDgkq0oUZPFbvCVD9T7AsvtbFHw&usqp=CAU" group-title="Cartoon Movies", Stand By Me 2 (720p) HD
 https://www115.sbvideocdn.com/hls/tysxft3mqc66j6cdacxrvs2wgl5qgc3h6vzvldovrqmillyfour3no74mbmq/index-v1-a1.m3u8
+
 #ANIMERG#
 #EXTINF: -1 tvg-logo="" group-title="One Piece", One Piece 895
 http://176.31.115.63/incoming/One%20Piece/%5bHorribleSubs%5d%20One%20Piece%20-%20895%20%5b720p%5d.mkv
