@@ -107,14 +107,8 @@ https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
 
 #EXTM3U
-#EXTINF:0 tvg-country="AU" tvg-logo="" group-title="Sport",BEIN SPORTS 1 HD
-http://bazarhd.online:80/0144569590/4724216271/83391?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AU" tvg-logo="" group-title="Sport",BEIN SPORTS 2 HD
 http://bazarhd.online:80/0144569590/4724216271/83390?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AU" tvg-logo="" group-title="Sport",beIN Sports 1 FHD
-http://fresat.live:8080/alvaro/alvaro/332695?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AU" tvg-logo="" group-title="Sport",beIN Sports 3 FHD
-http://fresat.live:8080/alvaro/alvaro/332697?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",BEIN SPORTS CANADA HD**
 http://miarea.vip:8080/nena/nena/76060?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Bein Sports
@@ -123,8 +117,6 @@ http://goodtv.xyz:2052/reggie/reggie/2473637?checkedby:iptvcat.com
 http://gooserace.xyz:2052/ricky1/ricky1/2473637?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Bein Sports HD
 http://ip365.cx:80/591479399642519/845556651954303/175784?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",CA (ES) beIN Sports En Espanol
-http://gooserace.xyz:2052/ricky1/ricky1/2456417?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",CA BEIN SPORTS
 http://ky-tv.cc:25461/tram/tram/181827?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",CA Bein Sports HD
@@ -147,8 +139,6 @@ http://rv.flysat.live:80/307242112467/307242112467/78392?checkedby:iptvcat.com
 http://rv.flysat.live:80/307242112467/307242112467/79042?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEIN SPORT 3 HD
 http://rv.flysat.live:80/307242112467/307242112467/78391?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEIN SPORT MAX 10 HD
-http://rv.flysat.live:80/307242112467/307242112467/78384?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEIN SPORT MAX 4 HD
 http://rv.flysat.live:80/307242112467/307242112467/78390?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEIN SPORT MAX 6 HD
@@ -195,8 +185,6 @@ http://ip365.cx:80/591479399642519/845556651954303/655?checkedby:iptvcat.com
 http://ip365.cx:80/591479399642519/845556651954303/621?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEIN SPORTS MAX7 HEVC
 http://ip365.cx:80/591479399642519/845556651954303/656?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEIN SPORTS MAX8 FHD
-http://ip365.cx:80/591479399642519/845556651954303/622?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEIN SPORTS MAX8 HEVC
 http://ip365.cx:80/591479399642519/845556651954303/657?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEIN SPORTS MAX9 FHD
@@ -215,68 +203,18 @@ http://ip365.cx:80/591479399642519/845556651954303/691?checkedby:iptvcat.com
 http://ip365.cx:80/591479399642519/845556651954303/692?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",beIN Sports Max 9 HD
 http://ip365.cx:80/591479399642519/845556651954303/693?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",BEIN SPORT 1
-http://pn.tvott.info:80/307216011400/307216011400/79044?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",BEIN SPORT 1
-http://pn.tvott.info:80/307216011400/307216011400/78725?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",BEIN SPORT 1 HD
-http://pn.tvott.info:80/307216011400/307216011400/78393?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",BEIN SPORT 2
-http://pn.tvott.info:80/307216011400/307216011400/79043?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",BEIN SPORT 2
-http://pn.tvott.info:80/307216011400/307216011400/78724?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",BEIN SPORT 2 HD
-http://pn.tvott.info:80/307216011400/307216011400/78392?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",BEIN SPORT 3
-http://pn.tvott.info:80/307216011400/307216011400/79042?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",BEIN SPORT 3
-http://pn.tvott.info:80/307216011400/307216011400/78723?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",BEIN SPORT 3 HD
-http://pn.tvott.info:80/307216011400/307216011400/78391?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",BEIN SPORT MAX 4 HD
-http://pn.tvott.info:80/307216011400/307216011400/78390?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",BEIN SPORT MAX 5 HD
-http://pn.tvott.info:80/307216011400/307216011400/78389?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",BEIN SPORT MAX 6 HD
-http://pn.tvott.info:80/307216011400/307216011400/78388?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",BEIN SPORT MAX 7 HD
-http://pn.tvott.info:80/307216011400/307216011400/78387?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",BEIN SPORT MAX 8 HD
-http://pn.tvott.info:80/307216011400/307216011400/78386?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",BEIN SPORT MAX 9 HD
-http://pn.tvott.info:80/307216011400/307216011400/78385?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",BEIN SPORTS ESPANAA FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10314?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",BEIN SPORTS LA LIGA FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/5417?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",BeIN Sports MAX 4
-http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/136820?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",BeIN Sports MAX 5
-http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/136819?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",BeIN Sports MAX 6
 http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/136818?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",BeIN Sports MAX 7
 http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/136817?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",BeIN Sports MAX 8
 http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/136816?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",BEIN SPORTS EN ESPANOL USA***
-http://miarea.vip:8080/nena/nena/705?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",BEIN SPORTS LA LIGA HD
-http://miarea.vip:8080/nena/nena/35748?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",BEIN SPORTS LATINO 1080P
 http://miarea.vip:8080/nena/nena/8719?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",BEIN SPORTS SPANISH HD
 http://miarea.vip:8080/nena/nena/35745?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",BEIN SPORTS USA ENGLISH HD
 http://miarea.vip:8080/nena/nena/62822?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",beIN SPORTS LaLiga
-http://goodtv.xyz:2052/reggie/reggie/2577805?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",beIN Sport FHD
-http://goodtv.xyz:2052/reggie/reggie/2577803?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORT  1  FHD
-http://ip365.cx:80/591479399642519/845556651954303/191538?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 HD
-http://istnbl1453.com:8080/live/ibrahim01/ibrahim123/44050.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 HD
 http://pn.tvott.info:80/1932742343/4458181593/80398?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 HD
@@ -285,32 +223,18 @@ http://ip365.cx:80/591479399642519/845556651954303/191528?checkedby:iptvcat.com
 http://rv.flysat.live:80/musa1/musa2/80398?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 HD
 http://bazarhd.online:80/0144569590/4724216271/80398?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 SD
-http://istnbl1453.com:8080/live/ibrahim01/ibrahim123/44048.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 SD
-http://ip365.cx:80/591479399642519/845556651954303/191529?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 UHD
-http://istnbl1453.com:8080/live/ibrahim01/ibrahim123/44047.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 UHD
 http://pn.tvott.info:80/1932742343/4458181593/80392?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 UHD
 http://rv.flysat.live:80/musa1/musa2/80392?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 UHD
 http://bazarhd.online:80/0144569590/4724216271/80392?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 UHD+
-http://istnbl1453.com:8080/live/ibrahim01/ibrahim123/44046.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1+MOBILE
-http://istnbl1453.com:8080/live/ibrahim01/ibrahim123/44049.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 2 HD
 http://pn.tvott.info:80/1932742343/4458181593/80397?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 2 HD
 http://rv.flysat.live:80/musa1/musa2/80397?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 2 HD
 http://bazarhd.online:80/0144569590/4724216271/80397?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 2 HD+ 1920+1080
-http://istnbl1453.com:8080/live/ibrahim01/ibrahim123/44053.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 2 HQ+
-http://istnbl1453.com:8080/live/ibrahim01/ibrahim123/44052.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 2 UHD
 http://pn.tvott.info:80/1932742343/4458181593/80391?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 2 UHD
@@ -325,8 +249,6 @@ http://ip365.cx:80/591479399642519/845556651954303/191534?checkedby:iptvcat.com
 http://rv.flysat.live:80/musa1/musa2/80396?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 3 HD
 http://bazarhd.online:80/0144569590/4724216271/80396?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 3 HQ+
-http://istnbl1453.com:8080/live/ibrahim01/ibrahim123/44057.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 3 UHD
 http://pn.tvott.info:80/1932742343/4458181593/80390?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 4 HD
@@ -337,28 +259,16 @@ http://rv.flysat.live:80/musa1/musa2/80395?checkedby:iptvcat.com
 http://bazarhd.online:80/0144569590/4724216271/80395?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 4 HD
 http://ip365.cx:80/591479399642519/845556651954303/191536?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR;GB" tvg-logo="" group-title="Sport",BEIN SPORTS 4 UHD
-http://pn.tvott.info:80/307216011400/307216011400/80389?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 4 UHD
 http://pn.tvott.info:80/1932742343/4458181593/80389?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 4 UHD
 http://rv.flysat.live:80/musa1/musa2/80389?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 4 UHD
 http://bazarhd.online:80/0144569590/4724216271/80389?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS HABER SD
-http://istnbl1453.com:8080/live/ibrahim01/ibrahim123/70255.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS HABER UHD
 http://pn.tvott.info:80/1932742343/4458181593/80386?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS HABER UHD
 http://rv.flysat.live:80/musa1/musa2/80386?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS MAX 1 HQ
-http://istnbl1453.com:8080/live/ibrahim01/ibrahim123/44064.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BeIN SPORT 1 HD (TR)
-http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/3046?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BeIN SPORT 2 HD (TR)
-http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/3047?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BeIN SPORT 3 HD (TR)
-http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/3048?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BeIN SPORTS 1 HD TR
 http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/446?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BeIN SPORTS 2 HD TR
@@ -367,28 +277,6 @@ http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/112?checkedby:iptvcat.com
 http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/205?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BeIN SPORTS 4 HD TR
 http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/206?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",bEIN SPORT 1 (TTN)
-http://myserverdns.ddns.net:29500/lazaro/lazaro/135345?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",bEIN SPORT 1 HD
-http://myserverdns.ddns.net:29500/lazaro/lazaro/135335?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",bEIN SPORTS 1 2K
-http://myserverdns.ddns.net:29500/lazaro/lazaro/135344?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",bEIN SPORTS 1 HD+
-http://myserverdns.ddns.net:29500/lazaro/lazaro/135336?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",bEIN SPORTS 1 SD
-http://myserverdns.ddns.net:29500/lazaro/lazaro/135346?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",bEIN SPORTS 2 HD+
-http://myserverdns.ddns.net:29500/lazaro/lazaro/135337?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",bEIN SPORTS 3 HD+
-http://myserverdns.ddns.net:29500/lazaro/lazaro/135338?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",bEIN SPORTS 4 HD+
-http://myserverdns.ddns.net:29500/lazaro/lazaro/135339?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",bEiN SPORTS 2 HD
-http://myserverdns.ddns.net:29500/lazaro/lazaro/135341?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",bEiN SPORTS 3 HD
-http://myserverdns.ddns.net:29500/lazaro/lazaro/135342?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",bEiN SPORTS 4 HD
-http://myserverdns.ddns.net:29500/lazaro/lazaro/135343?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR;GB" tvg-logo="" group-title="Sport",beIN SPORTS 1 FHD
 http://zero2.site:8080/zero/zero/3?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",beIN SPORTS 1 FHD 50FPS RAW (FEED 2)(MAC ANINDA)
@@ -447,8 +335,6 @@ http://176.119.25.104:28506/Imma/12345678/38353?checkedby:iptvcat.com
 http://gold-iptv.com:8080/BoluTR-DE/gxEL1tDhvB/397?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",beIN FUTBOL HD,beIN Sports 1 HD,Mac Yayinlari HD,STARSPOR HD
 http://188.40.186.158:8484/starspor.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",beIN Sports 1 HD 1080P
-http://ip365.cx/591479399642519/845556651954303/191528?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",beIN Sports 1 HD VIP
 http://ultimateiptv.me:8081/hichamdbb22/J7d2FPvK0c/10042?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",beIN Sports 1 HQ
@@ -507,20 +393,12 @@ http://skylogic.site:8080/esterichannel50con/36cb6c13/157396?checkedby:iptvcat.c
 http://skylogic.site:8080/esterichannel50con/36cb6c13/192865?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UA" tvg-logo="" group-title="Sport",beIN Sports HD
 http://hotiptv.site:8080/zkby2013/1d469e6d9e42/192865?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Bein sport low 2
-http://65.21.87.10:25461/Shaaher2010/kghyudj/27?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/FgyiahB.png" group-title="Sport",SPORT : BeIN Sports Xtra,SPORT | BeIN Sports Xtra
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=tr&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sport",beIN Sports 1 Asia
 https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Sport",beIN Sports 2 Asia
 https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports Premium Low 2
-http://65.21.87.10:25461/Shaaher2010/kghyudj/10?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports Premium Low 3
-http://65.21.87.10:25461/Shaaher2010/kghyudj/11?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports Premium low 1
-http://65.21.87.10:25461/Shaaher2010/kghyudj/9?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 1 UHD
 http://bazarhd.online:80/307210113151/307210113151/80392?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 2 UHD
@@ -529,54 +407,20 @@ http://bazarhd.online:80/307210113151/307210113151/80391?checkedby:iptvcat.com
 http://ip365.cx:80/591479399642519/845556651954303/181503?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",(Sp) beIN SPORTS LaLiga
 http://ip365.cx:80/591479399642519/845556651954303/181504?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",BEIN SPORT
-http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/32705?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",BEIN SPORT USA
-http://rv.flysat.live:80/wade/wade/80939?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",BEIN SPORT USA
-http://pn.tvott.info:80/1932742343/4458181593/80939?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",BEIN SPORT USA
-http://185.71.64.167:80/9369407316/3938935138/80939?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",BEIN SPORT USA
-http://rv.flysat.live:80/musa1/musa2/80939?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",BEIN SPORTS
-http://latinoamericatv.vip:3334/paco/paco123/15911?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",BEIN SPORTS
 http://185.134.22.131:8080/joel123/joel123/33786?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",BEIN SPORTS 7
-http://latinoamericatv.vip:3334/paco/paco123/15915?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",BEIN SPORTS 8
-http://latinoamericatv.vip:3334/paco/paco123/15916?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",BEIN SPORTS LA LIGA
 http://latinoamericatv.vip:3334/paco/paco123/15918?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",BEIN SPORTS LALIGA TV
 http://185.134.22.131:8080/joel123/joel123/12037?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",BEIN Sports En Espanol
-http://ip365.cx:80/591479399642519/845556651954303/176894?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",BeIN Sports
-http://ip365.cx:80/591479399642519/845556651954303/181397?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",BeIN Sports 5
 http://ip365.cx:80/591479399642519/845556651954303/181529?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",BeIN Sports La Liga
 http://ip365.cx:80/591479399642519/845556651954303/181396?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",BeIN Sports Xtra
-http://ip365.cx:80/591479399642519/845556651954303/254741?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Latin beIN SPORTS CONNECT LaLiga
-http://ip365.cx:80/591479399642519/845556651954303/176988?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Latin beIN SPORTS en Espanol
-http://ip365.cx:80/591479399642519/845556651954303/176987?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",beIN SPORTS 4
-http://ip365.cx:80/591479399642519/845556651954303/181543?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",beIN SPORTS 6
 http://ip365.cx:80/591479399642519/845556651954303/181545?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",beIN SPORTS 7
-http://ip365.cx:80/591479399642519/845556651954303/181546?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",beIN SPORTS 8
-http://ip365.cx:80/591479399642519/845556651954303/181547?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="Sport",beIN SPORTS XTRA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",beIN SPORTS en EspaÃol
-http://ip365.cx:80/591479399642519/845556651954303/181505?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",beIN Sports 4 HD
 http://hotiptv.site:8080/zkby2013/1d469e6d9e42/151024?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",beIN Sports 5 HD
@@ -587,14 +431,10 @@ http://hotiptv.site:8080/zkby2013/1d469e6d9e42/151030?checkedby:iptvcat.com
 http://hotiptv.site:8080/zkby2013/1d469e6d9e42/151032?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",beIN Sports FHD
 http://hotiptv.site:8080/zkby2013/1d469e6d9e42/2272?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",beIN Sports HD
-http://fresat.live:8080/alvaro/alvaro/328400?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",beIN Sports USA HD
 http://hotiptv.site:8080/zkby2013/1d469e6d9e42/6300?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",beIN Sports Ñ
 http://hotiptv.site:8080/zkby2013/1d469e6d9e42/147547?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS N
-http://goodtv.xyz:2052/reggie/reggie/2605698?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS Ñ (OP)
 http://latinoamericatv.vip:3334/paco/paco123/174?checkedby:iptvcat.com
 
