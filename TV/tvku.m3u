@@ -65,6 +65,19 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w672826367_b1
 #EXTINF: -1 tvg-logo="", TVRI TV HD
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRInasional)/Stream(03)/index.m3u8
 
+#BIG MOVIE#
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHeq_nlbLG3FnWuGi3W9vtNPcoFonOvGrgSA&usqp=CAU" group-title="Bioskop Movies", Mortal Kombat (2021) HD
+https://www115.sbvideocdn.com/hls/tysxehltqo66j6cdabcr3h25ew6chmkbfl44la3x3gu3freyynfanbnoao3q/index-v1-a1.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHeq_nlbLG3FnWuGi3W9vtNPcoFonOvGrgSA&usqp=CAU" group-title="Bioskop Movies", Mortal Kombat (2021) HD
+https://www115.sbvideocdn.com/hls/tysxehltqo66j6cdabcr3h25ew6chmkbfl44la3x3473hreyynfjnepmlirq/index-v1-a1.m3u8
+#EXTINF: -1 tvg-logo="" group-title="Bioskop Movies", Fast & Furious 9 (2021) HD
+https://www866.ff-02.com/token=XBuREzqviMGWnky6o3EPsA/1619382469/103.163.0.0/69/3/28/85e186275ec8a377a43c9fb094442283-1080p.mp4
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq1tY1M8hcDgkq0oUZPFbvCVD9T7AsvtbFHw&usqp=CAU" group-title="Cartoon Movies", Stand By Me 2 (480p) HD
+https://www115.sbvideocdn.com/hls/tysxft3mqc66j6cdacxrvs2wgl5qgc3h6vzvldovrkhijlyfour25igkjd5a/index-v1-a1.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq1tY1M8hcDgkq0oUZPFbvCVD9T7AsvtbFHw&usqp=CAU" group-title="Cartoon Movies", Stand By Me 2 (720p) HD
+https://www115.sbvideocdn.com/hls/tysxft3mqc66j6cdacxrvs2wgl5qgc3h6vzvldovrqmillyfour3no74mbmq/index-v1-a1.m3u8
+
 #SPORTTV#
 #EXTINF: -1 tvg-logo="" group-title="SPORT TV", MU TV HD
 https://www.livedoomovie.com/02_MUTV_720p/chunklist.m3u8
@@ -586,20 +599,6 @@ http://hotiptv.site:8080/zkby2013/1d469e6d9e42/147547?checkedby:iptvcat.com
 http://goodtv.xyz:2052/reggie/reggie/2605698?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS Ñ (OP)
 http://latinoamericatv.vip:3334/paco/paco123/174?checkedby:iptvcat.com
-
-
-#BIG MOVIE#
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHeq_nlbLG3FnWuGi3W9vtNPcoFonOvGrgSA&usqp=CAU" group-title="Bioskop Movies", Mortal Kombat (2021) HD
-https://www115.sbvideocdn.com/hls/tysxehltqo66j6cdabcr3h25ew6chmkbfl44la3x3gu3freyynfanbnoao3q/index-v1-a1.m3u8
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHeq_nlbLG3FnWuGi3W9vtNPcoFonOvGrgSA&usqp=CAU" group-title="Bioskop Movies", Mortal Kombat (2021) HD
-https://www115.sbvideocdn.com/hls/tysxehltqo66j6cdabcr3h25ew6chmkbfl44la3x3473hreyynfjnepmlirq/index-v1-a1.m3u8
-#EXTINF: -1 tvg-logo="" group-title="Bioskop Movies", Fast & Furious 9 (2021) HD
-https://www866.ff-02.com/token=XBuREzqviMGWnky6o3EPsA/1619382469/103.163.0.0/69/3/28/85e186275ec8a377a43c9fb094442283-1080p.mp4
-
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq1tY1M8hcDgkq0oUZPFbvCVD9T7AsvtbFHw&usqp=CAU" group-title="Cartoon Movies", Stand By Me 2 (480p) HD
-https://www115.sbvideocdn.com/hls/tysxft3mqc66j6cdacxrvs2wgl5qgc3h6vzvldovrkhijlyfour25igkjd5a/index-v1-a1.m3u8
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq1tY1M8hcDgkq0oUZPFbvCVD9T7AsvtbFHw&usqp=CAU" group-title="Cartoon Movies", Stand By Me 2 (720p) HD
-https://www115.sbvideocdn.com/hls/tysxft3mqc66j6cdacxrvs2wgl5qgc3h6vzvldovrqmillyfour3no74mbmq/index-v1-a1.m3u8
 
 #ANIMERG#
 #EXTINF: -1 tvg-logo="" group-title="One Piece", One Piece 895
