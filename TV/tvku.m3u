@@ -75,6 +75,16 @@ https://b-g-eu-1.betterstream.co:2222/v2-hls-playback/536ece193442849a6c0daf59e1
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHeq_nlbLG3FnWuGi3W9vtNPcoFonOvGrgSA&usqp=CAU" group-title="Bioskop Movies", Mortal Kombat (2021) HD
 https://b-g-ca-3.betterstream.co:2222/v2-hls-playback/055e91a18df694b9952b7dc61ecaa036e7e81bf19998261905653635b2109337680c276fdcdb0a952f1cb349c4259586e7c4afcb0b8721fa1c26a1f0e25a1a992450d99f1a79dbbd7769d73326c5801073080bffc38175f43189401da149aa0f068411c79b783124f0b6b14bde0a53c19826cc7b7d7b9f1a4de94bb415fc18be4c323a7d592213e7397844962c5090c8e05c7a692537557f93247240b343eed8/720/index.m3u8
 
+#EXTINF: -1 tvg-logo="" group-title="Bioskop Movies", F & F Presents: Hobbs & Shaw (480p) HD
+https://www961.ff-02.com/token=DieWIIJHeG5cqpXSJ1O08A/1619359988/172.104.0.0/128/c/3b/ff74f657e4cbb8107ae2ec83b01ab3bc-480p.mp4
+#EXTINF: -1 tvg-logo="" group-title="Bioskop Movies", F & F Presents: Hobbs & Shaw (7200p) HD
+
+#EXTINF: -1 tvg-logo="" group-title="Bioskop Movies", F & F Presents: Hobbs & Shaw (1080p) HD
+
+
+
+
+
 #EXTINF: -1 tvg-logo="" group-title="Bioskop Movies", Fast & Furious 9 (480p) HD
 https://www866.ff-02.com/token=2NcfstI8DMjf14_RH3YO6w/1619359400/172.104.0.0/71/3/28/85e186275ec8a377a43c9fb094442283-480p.mp4
 #EXTINF: -1 tvg-logo="" group-title="Bioskop Movies", Fast & Furious 9 (720p)HD
