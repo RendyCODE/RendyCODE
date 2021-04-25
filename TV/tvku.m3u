@@ -74,19 +74,18 @@ https://b-g-eu-1.betterstream.co:2222/v2-hls-playback/536ece193442849a6c0daf59e1
 #BIG MOVIE#
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHeq_nlbLG3FnWuGi3W9vtNPcoFonOvGrgSA&usqp=CAU" group-title="Bioskop Movies", Mortal Kombat (2021) HD
 https://b-g-ca-3.betterstream.co:2222/v2-hls-playback/055e91a18df694b9952b7dc61ecaa036e7e81bf19998261905653635b2109337680c276fdcdb0a952f1cb349c4259586e7c4afcb0b8721fa1c26a1f0e25a1a992450d99f1a79dbbd7769d73326c5801073080bffc38175f43189401da149aa0f068411c79b783124f0b6b14bde0a53c19826cc7b7d7b9f1a4de94bb415fc18be4c323a7d592213e7397844962c5090c8e05c7a692537557f93247240b343eed8/720/index.m3u8
-
-#EXTINF: -1 tvg-logo="" group-title="Bioskop Movies", F & F Presents: Hobbs & Shaw (480p) HD
+#Fast & Furious#
+#EXTINF: -1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/14f797d9-ce55-4dad-a2e3-966ae51122f0/ddb9seq-83ef2c92-40c8-4ce1-98e5-a98f773f965d.png/v1/fill/w_512,h_512,strp/fast_and_furious_presents_hobbs_and_shaw__2019__by_drdarkdoom_ddb9seq-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD01MTIiLCJwYXRoIjoiXC9mXC8xNGY3OTdkOS1jZTU1LTRkYWQtYTJlMy05NjZhZTUxMTIyZjBcL2RkYjlzZXEtODNlZjJjOTItNDBjOC00Y2UxLTk4ZTUtYTk4Zjc3M2Y5NjVkLnBuZyIsIndpZHRoIjoiPD01MTIifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.-JyKRFfFZOTzU9zFUqEtTlISEwU9lAYteyoOC4qPHzI" group-title="Bioskop Movies", F & F Presents: Hobbs & Shaw (480p) HD
 https://www961.ff-02.com/token=DieWIIJHeG5cqpXSJ1O08A/1619359988/172.104.0.0/128/c/3b/ff74f657e4cbb8107ae2ec83b01ab3bc-480p.mp4
-#EXTINF: -1 tvg-logo="" group-title="Bioskop Movies", F & F Presents: Hobbs & Shaw (720p) HD
+#EXTINF: -1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/14f797d9-ce55-4dad-a2e3-966ae51122f0/ddb9seq-83ef2c92-40c8-4ce1-98e5-a98f773f965d.png/v1/fill/w_512,h_512,strp/fast_and_furious_presents_hobbs_and_shaw__2019__by_drdarkdoom_ddb9seq-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD01MTIiLCJwYXRoIjoiXC9mXC8xNGY3OTdkOS1jZTU1LTRkYWQtYTJlMy05NjZhZTUxMTIyZjBcL2RkYjlzZXEtODNlZjJjOTItNDBjOC00Y2UxLTk4ZTUtYTk4Zjc3M2Y5NjVkLnBuZyIsIndpZHRoIjoiPD01MTIifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.-JyKRFfFZOTzU9zFUqEtTlISEwU9lAYteyoOC4qPHzI" group-title="Bioskop Movies", F & F Presents: Hobbs & Shaw (720p) HD
 https://www965.ff-02.com/token=a10LZPnV4HNUjdsucktFFw/1619360325/172.104.0.0/128/c/3b/ff74f657e4cbb8107ae2ec83b01ab3bc-720p.mp4
-#EXTINF: -1 tvg-logo="" group-title="Bioskop Movies", F & F Presents: Hobbs & Shaw (1080p) HD
+#EXTINF: -1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/14f797d9-ce55-4dad-a2e3-966ae51122f0/ddb9seq-83ef2c92-40c8-4ce1-98e5-a98f773f965d.png/v1/fill/w_512,h_512,strp/fast_and_furious_presents_hobbs_and_shaw__2019__by_drdarkdoom_ddb9seq-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD01MTIiLCJwYXRoIjoiXC9mXC8xNGY3OTdkOS1jZTU1LTRkYWQtYTJlMy05NjZhZTUxMTIyZjBcL2RkYjlzZXEtODNlZjJjOTItNDBjOC00Y2UxLTk4ZTUtYTk4Zjc3M2Y5NjVkLnBuZyIsIndpZHRoIjoiPD01MTIifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.-JyKRFfFZOTzU9zFUqEtTlISEwU9lAYteyoOC4qPHzI" group-title="Bioskop Movies", F & F Presents: Hobbs & Shaw (1080p) HD
 https://www965.ff-02.com/token=CNRfnR1TLul9eXq2d8coEg/1619360325/172.104.0.0/121/c/3b/ff74f657e4cbb8107ae2ec83b01ab3bc-1080p.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="Bioskop Movies", Fast & Furious 9 (480p) HD
+#EXTINF: -1 tvg-logo="https://comic.systems/images/actu/Fast9-cinema-140421-154818" group-title="Bioskop Movies", Fast & Furious 9 (480p) HD
 https://www866.ff-02.com/token=2NcfstI8DMjf14_RH3YO6w/1619359400/172.104.0.0/71/3/28/85e186275ec8a377a43c9fb094442283-480p.mp4
-#EXTINF: -1 tvg-logo="" group-title="Bioskop Movies", Fast & Furious 9 (720p)HD
+#EXTINF: -1 tvg-logo="https://comic.systems/images/actu/Fast9-cinema-140421-154818" group-title="Bioskop Movies", Fast & Furious 9 (720p)HD
 https://www866.ff-02.com/token=a5Ns1ehNtCSmM8HUSDLiBw/1619359400/172.104.0.0/73/3/28/85e186275ec8a377a43c9fb094442283-720p.mp4
-#EXTINF: -1 tvg-logo="" group-title="Bioskop Movies", Fast & Furious 9 (1080p) HD
+#EXTINF: -1 tvg-logo="https://comic.systems/images/actu/Fast9-cinema-140421-154818" group-title="Bioskop Movies", Fast & Furious 9 (1080p) HD
 https://www1971.ff-04.com/token=QDzO3wcbYr1k-y7jfgAAkA/1619359400/172.104.0.0/69/3/28/85e186275ec8a377a43c9fb094442283-1080p.mp4
 
 #CARTOON MOVIE#
