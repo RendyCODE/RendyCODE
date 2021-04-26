@@ -64,15 +64,15 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w672826367_b1
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRInasional)/Stream(03)/index.m3u8
 
 #BIG MOVIE#
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHeq_nlbLG3FnWuGi3W9vtNPcoFonOvGrgSA&usqp=CAU" group-title="Bioskop Movies", Mortal Kombat (2021) HD
-https://www115.sbvideocdn.com/hls/tysxehltqo66j6cdabcr3h25ew6chmkbfl44la3x3gu3freyynfanbnoao3q/index-v1-a1.m3u8
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHeq_nlbLG3FnWuGi3W9vtNPcoFonOvGrgSA&usqp=CAU" group-title="Bioskop Movies", Mortal Kombat (2021) HD
-https://www115.sbvideocdn.com/hls/tysxehltqo66j6cdabcr3h25ew6chmkbfl44la3x3473hreyynfjnepmlirq/index-v1-a1.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHeq_nlbLG3FnWuGi3W9vtNPcoFonOvGrgSA&usqp=CAU" group-title="Bioskop Movies", Mortal Kombat (480) HD
+https://pr11.sbvideocdn.com/hls/tysxehltqo66j6cdabcr3h25ew6chmkbfl44la3x3gu3ft5xm2cqoxgtw2aq/index-v1-a1.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHeq_nlbLG3FnWuGi3W9vtNPcoFonOvGrgSA&usqp=CAU" group-title="Bioskop Movies", Mortal Kombat (720) HD
+https://pr11.sbvideocdn.com/hls/tysxehltqo66j6cdabcr3h25ew6chmkbfl44la3x3473ht5xm2ctbfcowhka/index-v1-a1.m3u8
 
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq1tY1M8hcDgkq0oUZPFbvCVD9T7AsvtbFHw&usqp=CAU" group-title="Cartoon Movies", Stand By Me 2 (480p) HD
-https://www115.sbvideocdn.com/hls/tysxft3mqc66j6cdacxrvs2wgl5qgc3h6vzvldovrkhijlyfour25igkjd5a/index-v1-a1.m3u8
+https://www115.sbvideocdn.com/hls/tysxft3mqc66j6cdacxrvs2wgl5qgc3h6vzvldovrkhijjbk2dwgt6xnnijq/index-v1-a1.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq1tY1M8hcDgkq0oUZPFbvCVD9T7AsvtbFHw&usqp=CAU" group-title="Cartoon Movies", Stand By Me 2 (720p) HD
-https://www115.sbvideocdn.com/hls/tysxft3mqc66j6cdacxrvs2wgl5qgc3h6vzvldovrqmillyfour3no74mbmq/index-v1-a1.m3u8
+https://www115.sbvideocdn.com/hls/tysxft3mqc66j6cdacxrvs2wgl5qgc3h6vzvldovrqmiljbk2dwbtzcplxwq/index-v1-a1.m3u8
 
 #SPORTTV#
 #EXTINF: -1 tvg-logo="" group-title="SPORT TV", MU TV HD
