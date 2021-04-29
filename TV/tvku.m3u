@@ -57,12 +57,10 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w672826367_b3
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w672826367_b192000_sleng.m3u8
 
 #TVRI#
-#EXTINF: -1 tvg-logo="", TVRI TV HD
+#EXTINF: -1 tvg-logo="" group-title="", TVRI TV HD
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRInasional)/Stream(03)/index.m3u8
 
 #BIG MOVIE#
-#EXTINF: -1 tvg-logo="https://freepngimg.com/thumb/harry_potter/23976-9-harry-potter-free-download.png" group-title="Bioskop Movies", Harry Potter (1080p) HD
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 
 #AnImeRG#
 #EXTINF: -1 tvg-logo="" group-title="One Punch Man S1", One Punch Man - 01 [720p]
