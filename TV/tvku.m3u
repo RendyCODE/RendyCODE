@@ -1,15 +1,15 @@
 #EXTM3U
 #INDOSIAR#
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-l5pav4E-_Tw/YFhrS4_T0uI/AAAAAAAAARw/n07hqnqkcxI0Ak3t1_LiUzeVuj4LysOEwCLcBGAsYHQ/s139/indosiar.png", INDOSIAR
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162138
+https://fikrulmkc.my.id/bagus/usee-kompastv.m3u8
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-l5pav4E-_Tw/YFhrS4_T0uI/AAAAAAAAARw/n07hqnqkcxI0Ak3t1_LiUzeVuj4LysOEwCLcBGAsYHQ/s139/indosiar.png", INDOSIAR
 https://www.goblintvstudio.xyz/SERVER-M3U8/Piala-Mepora-Live1.m3u8
 #SCTV#
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-fOfwlllrCe8/YFhrRTe-V0I/AAAAAAAAARc/belQPLXIe-EW1L76wehwjmaa4bKmxfwIACLcBGAsYHQ/s139/Sctv.png", SCTV
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162141
+https://fikrulmkc.my.id/bagus/usee-sctv.m3u8
 #RCTI#
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-HfIKea9AkeY/YFhrRN7sxYI/AAAAAAAAARY/wQYFvvShE7c0xdQGSE6SVKMA7kJdcxyowCLcBGAsYHQ/s1280/RCTI.png", RCTI
-https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+https://fikrulmkc.my.id/bagus/usee-rcti.m3u8
 #TRANSTV#
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-tQi4VockaIY/YFhrSHIqiXI/AAAAAAAAARo/Ohhau03j9u0syCQJRveRmMGYNgG-3rskACLcBGAsYHQ/s139/TransTV.png", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
@@ -24,7 +24,7 @@ http://122.248.43.138:1935/ch2/myStream/chunklist_w49807670.m3u8
 https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #GLOBALTV#
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-F45GGWk05xc/YFhrPcDOYmI/AAAAAAAAARA/T2xCfXdH-ysqpeDMxm6hVH29fuhBfNB4gCLcBGAsYHQ/s135/GlobalTV.png", GLOBAL TV
-https://moegi.akamaized.net/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+https://fikrulmkc.my.id/bagus/usee-gtv.m3u8
 #INEWSTV#
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-fU1gVnL4E8M/YFhrTA9OSVI/AAAAAAAAAR0/QIk1WlFQOmIS3Ri8OqYbTYXyUyUEhq2bACLcBGAsYHQ/s135/inewstv.png", InewsTV
 https://moegi.akamaized.net/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
