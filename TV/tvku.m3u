@@ -49,21 +49,6 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w377785939_b3840
 #EXTINF: -1 tvg-logo="", CNN TV HD
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w377785939_b192000_sleng.m3u8
 
-#CNBC#
-#EXTINF: -1 tvg-logo="", CNBC TV HD
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w672826367_b384000_sleng.m3u8
-#EXTINF: -1 tvg-logo="", CNBC TV HD
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w672826367_b192000_sleng.m3u8
-
-#TVRI#
-#EXTINF: -1 tvg-logo="" group-title="", TVRI TV HD
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRInasional)/Stream(03)/index.m3u8
-
-#EXTINF: -1 tvg-logo="" group-title="Fox Sport", FOX SPORT TV HD
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="Fox Sport", FOX MOTOGP TV HD
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/9824
-
 #SATRIA BAJA HITAM#
 #EXTINF: -1 tvg-logo="" group-title="SATRIA-RX", Satria Baja Hitam 01 HD
 https://ia601505.us.archive.org/1/items/km1dr/1570-01.mp4
