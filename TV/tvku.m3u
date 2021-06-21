@@ -1,15 +1,15 @@
 #EXTM3U
 #INDOSIAR#
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-l5pav4E-_Tw/YFhrS4_T0uI/AAAAAAAAARw/n07hqnqkcxI0Ak3t1_LiUzeVuj4LysOEwCLcBGAsYHQ/s139/indosiar.png", INDOSIAR
-https://fikrulmkc.my.id/bagus/usee-kompastv.m3u8
+http://goldenlivektv.com/Comot/Indosiar_channel_ktv.m3u8
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-l5pav4E-_Tw/YFhrS4_T0uI/AAAAAAAAARw/n07hqnqkcxI0Ak3t1_LiUzeVuj4LysOEwCLcBGAsYHQ/s139/indosiar.png", INDOSIAR
 https://www.goblintvstudio.xyz/SERVER-M3U8/Piala-Mepora-Live1.m3u8
 #SCTV#
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-fOfwlllrCe8/YFhrRTe-V0I/AAAAAAAAARc/belQPLXIe-EW1L76wehwjmaa4bKmxfwIACLcBGAsYHQ/s139/Sctv.png", SCTV
-https://fikrulmkc.my.id/bagus/usee-sctv.m3u8
+http://goldenlivektv.com/Comot/Sctv_channel_ktv.m3u8
 #RCTI#
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-HfIKea9AkeY/YFhrRN7sxYI/AAAAAAAAARY/wQYFvvShE7c0xdQGSE6SVKMA7kJdcxyowCLcBGAsYHQ/s1280/RCTI.png", RCTI
-https://fikrulmkc.my.id/bagus/usee-rcti.m3u8
+http://goldenlivektv.com/Comot/Rcti_channel_ktv.m3u8
 #TRANSTV#
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-tQi4VockaIY/YFhrSHIqiXI/AAAAAAAAARo/Ohhau03j9u0syCQJRveRmMGYNgG-3rskACLcBGAsYHQ/s139/TransTV.png", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
@@ -21,29 +21,28 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 http://122.248.43.138:1935/ch2/myStream/chunklist_w49807670.m3u8
 #MNCTV#
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-ZHi4ToNwrcY/YFhrQu1nMhI/AAAAAAAAARQ/fiXLeKt-FbslPEFJ2nSROo-3jiOvGc1NgCLcBGAsYHQ/s320/MncTV.png", MNCTV
-https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+http://goldenlivektv.com/Comot/Mnctv_channel_ktv.m3u8
 #GLOBALTV#
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-F45GGWk05xc/YFhrPcDOYmI/AAAAAAAAARA/T2xCfXdH-ysqpeDMxm6hVH29fuhBfNB4gCLcBGAsYHQ/s135/GlobalTV.png", GLOBAL TV
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_778_720p/index.m3u8
+http://goldenlivektv.com/Comot/Gtv_channel_ktv.m3u8
 #INEWSTV#
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-fU1gVnL4E8M/YFhrTA9OSVI/AAAAAAAAAR0/QIk1WlFQOmIS3Ri8OqYbTYXyUyUEhq2bACLcBGAsYHQ/s135/inewstv.png", InewsTV
-https://fikrulmkc.my.id/bagus/usee-.m3u8
+http://goldenlivektv.com/Comot/Inews_channel_ktv.m3u8
 #TVONE#
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-0JBXKL0qaOA/YFhrSqYvEpI/AAAAAAAAARs/bB8i8h4Em3wimUeQtPIDD-5EowSobwkngCLcBGAsYHQ/s139/TvOne.png", TVONE HD
-https://stream-08.dc3.dailymotion.com/sec(045Msia06uu92p_oLsoybAHYFkzuITqCF6lpcmcEdBE)/dm/3/x619221/s/live-3.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
+http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
 #ANTV#
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-VF6XjsQwoa0/YFhrPUp4xJI/AAAAAAAAARE/cuWX1NNgQncsxUZfXFyMzF8gXYsepKLdACLcBGAsYHQ/s139/AnTV.png", ANTV
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165072
 #NETTV#
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-q40Thh63Ayw/YFhrQo8QQOI/AAAAAAAAARU/syhg7pCsg3028ASbG3KpqjfyDFTJi287QCLcBGAsYHQ/s136/NetTV.png", NetTV
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/266806
+http://goldenlivektv.com/Comot/Net_channel_ktv.m3u8
 #METROTV#
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-vLZz4ZEBbUg/YFhrQA5Q0pI/AAAAAAAAARM/QRfasRbxgqs5g6n2IOjpSiSwuHPgRlYlACLcBGAsYHQ/s139/MetroTV.png", METRO TV HD
-https://fikrulmkc.my.id/bagus/usee-metrotv.m3u8
+http://goldenlivektv.com/Comot/Metrotv_channel_ktv.m3u8
 #KOMPASTV#
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-H4Q_xvTDY6A/YFhrPVHflGI/AAAAAAAAARI/36oMV4mn7w0nXw7v8ThMeh_fgBO4NrtbwCLcBGAsYHQ/s135/KompasTV.jpeg", KOMPAS TV
-https://fikrulmkc.my.id/bagus/usee-kompastv.m3u8
-
+http://goldenlivektv.com/Comot/Kompastv_channel_ktv.m3u8
 #CNN#
 #EXTINF: -1 tvg-logo="", CNN TV HD
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w377785939_b384000_sleng.m3u8
