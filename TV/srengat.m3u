@@ -41,9 +41,12 @@ http://goldenlivektv.com/Comot_Lagi_Bae/Metrotv_channel_ktv.m3u8
 #KOMPASTV#
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-H4Q_xvTDY6A/YFhrPVHflGI/AAAAAAAAARI/36oMV4mn7w0nXw7v8ThMeh_fgBO4NrtbwCLcBGAsYHQ/s135/KompasTV.jpeg", KOMPAS TV
 http://goldenlivektv.com/Comot_Lagi_Bae/Kompastv_channel_ktv.m3u8
-#CNN#
+#BBS#
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Logo_BBS_TV_2018.png/200px-Logo_BBS_TV_2018.png", BBS TV HD
 http://103.119.54.246:8080/hls/bbstv.m3u8
 #MADUTV#
 #EXTINF: -1 tvg-logo="https://madu.tv/wp-content/uploads/2021/02/logo-kotak-e1612842990354.png", MADU TV HD
 https://v3.siar.us/madutv/live/playlist.m3u8
+#BAYUTV#
+#EXTINF: -1 tvg-logo="https://i1.wp.com/www.bayutvnganjuk.com/wp-content/uploads/2019/11/cropped-heder-6.png?resize=768%2C288&ssl=1", BAYU TV HD
+https://5bf7b725107e5.streamlock.net/bayutv/live/playlist.m3u8
