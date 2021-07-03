@@ -49,4 +49,4 @@ http://103.119.54.246:8080/hls/bbstv.m3u8
 https://v3.siar.us/madutv/live/playlist.m3u8
 #BAYUTV#
 #EXTINF: -1 tvg-logo="https://i1.wp.com/www.bayutvnganjuk.com/wp-content/uploads/2019/11/cropped-heder-6.png?resize=768%2C288&ssl=1", BAYU TV HD
-https://5bf7b725107e5.streamlock.net/bayutv/live/playlist.m3u8
+https://5bf7b725107e5.streamlock.net:443/bayutv/live/chunklist_w652792631.m3u8
